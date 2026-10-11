@@ -62,7 +62,14 @@ main.wide{max-width:980px}
 .nb.bad{background:var(--badbg);border-color:var(--bad);color:var(--bad)}
 .nb.cur{box-shadow:0 0 0 2px var(--acc)}
 .nb{font-size:max(10px,calc(var(--nb,34px)*.4))}
-@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+button:disabled{opacity:.45;cursor:default}
+button:disabled:hover{border-color:var(--line)}
+button.nb{cursor:pointer}
+.tm{display:inline-flex;align-items:center;justify-content:flex-end;min-width:3.6em;font-family:var(--head);font-weight:500;font-variant-numeric:tabular-nums}
+.dot{display:inline-block;width:9px;height:9px;margin-left:7px;border-radius:50%;background:#E5242B;animation:blink 1.1s ease-in-out infinite}
+.dot.off{animation:none;background:var(--mute);opacity:.45}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.12}}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}.dot{animation:none}}
 </style>
 </head>
 <body>
@@ -143,33 +150,39 @@ async function loadAll(){
 }
 
 /* ---------- study session ---------- */
+const fmt=x=>{x=Math.floor(x);return Math.floor(x/60)+':'+String(x%60).padStart(2,'0')};
+const elapsed=()=>((sess.end||Date.now())-sess.t0)/1000;
 function start(di,only){
   const d=decks[di];if(!d)return;
   let idx=d.qs.map((_,i)=>i);
   if(only)idx=idx.filter(i=>d.missed.includes(i));
   if(!idx.length)return;
   if(S.sq)shuf(idx);
-  sess={d:di,items:idx.map(i=>{
+  const items=idx.map(i=>{
     const q=d.qs[i];let o=q.o.map((t,k)=>({t,c:k===q.a}));if(S.so)shuf(o);
-    return{i,q:q.q,e:q.e,o}}),n:0,sel:null,res:[]};
+    return{i,q:q.q,e:q.e,o}});
+  sess={d:di,items,n:0,ans:items.map(()=>null),t0:Date.now()};
   view='quiz';render();
 }
 function pick(k){
-  if(!sess||sess.sel!==null)return;
-  const it=sess.items[sess.n];if(k<0||k>=it.o.length)return;
-  sess.sel=k;sess.res.push({it,ok:it.o[k].c,pick:k});render();
+  if(!sess||view!=='quiz')return;
+  const it=sess.items[sess.n];if(sess.ans[sess.n]||k<0||k>=it.o.length)return;
+  sess.ans[sess.n]={pick:k,ok:it.o[k].c};render();
 }
+function target(){const n=sess.items.length;for(let j=1;j<n;j++){const i=(sess.n+j)%n;if(!sess.ans[i])return i}return -1}
+function go(i){if(i===sess.n)return;sess.n=i;render()}
+function skip(){const t=target();if(t>=0)go(t)}
 function next(){
-  if(sess.sel===null)return;
-  sess.n++;sess.sel=null;
-  if(sess.n>=sess.items.length){
-    const d=decks[sess.d];
-    const m=new Set(d.missed);sess.res.forEach(r=>r.ok?m.delete(r.it.i):m.add(r.it.i));
-    d.missed=[...m];d.last={s:sess.res.filter(r=>r.ok).length,t:sess.res.length};
-    prog[d.id]={missed:d.missed,last:d.last};saveProg();
-    view='results';
-  }
-  render();
+  if(!sess.ans[sess.n])return;
+  const t=target();
+  if(t>=0)go(t);else finish();
+}
+function finish(){
+  const d=decks[sess.d],m=new Set(d.missed);
+  sess.items.forEach((it,i)=>sess.ans[i].ok?m.delete(it.i):m.add(it.i));
+  d.missed=[...m];d.last={s:sess.ans.filter(a=>a.ok).length,t:sess.items.length};
+  prog[d.id]={missed:d.missed,last:d.last};saveProg();
+  sess.end=Date.now();view='results';render();
 }
 function quit(){sess=null;view='lib';render()}
 
@@ -212,44 +225,52 @@ function libHTML(){
       <label class="chk"><input type="checkbox" ${S.so?'checked':''} onchange="S.so=this.checked"> Shuffle answers</label></div></section>
   <p class="meta">Your scores and missed questions are saved in this browser only.</p>`;
 }
-function boxes(cur){
-  return `<div class="boxes" role="list" aria-label="Question results">${sess.items.map((_,i)=>{
-    const r=sess.res[i],c=r?(r.ok?' ok':' bad'):'',t=r?(r.ok?'right':'wrong'):'not answered yet';
-    return `<span class="nb${c}${i===cur?' cur':''}" role="listitem" title="Question ${i+1}: ${t}" aria-label="Question ${i+1}: ${t}">${i+1}</span>`}).join('')}</div>`;
+function boxes(cur,click){
+  return `<div class="boxes" ${click?'':'role="list"'} aria-label="Questions">${sess.items.map((_,i)=>{
+    const r=sess.ans[i],c=r?(r.ok?' ok':' bad'):'',t=r?(r.ok?'right':'wrong'):'not answered',
+      cl=`nb${c}${i===cur?' cur':''}`,lab=`Question ${i+1}: ${t}`;
+    return click
+      ?`<button class="${cl}" onclick="go(${i})" title="${lab}" aria-label="${lab}"${i===cur?' aria-current="true"':''}>${i+1}</button>`
+      :`<span class="${cl}" role="listitem" title="${lab}" aria-label="${lab}">${i+1}</span>`}).join('')}</div>`;
 }
 function quizHTML(){
-  const it=sess.items[sess.n],done=sess.sel!==null,pct=Math.round(sess.n/sess.items.length*100);
+  const it=sess.items[sess.n],a=sess.ans[sess.n],done=!!a;
+  const pct=Math.round(sess.ans.filter(Boolean).length/sess.items.length*100),tg=target();
   const opts=it.o.map((o,k)=>{
-    let c='';if(done){c=o.c?' ok':(k===sess.sel?' bad':' dim')}
+    let c='';if(done){c=o.c?' ok':(k===a.pick?' bad':' dim')}
     return `<button class="opt${c}" ${done?'disabled':''} onclick="pick(${k})"><span class="k">${String.fromCharCode(65+k)}</span><span>${esc(o.t)}</span></button>`}).join('');
-  const ok=done&&it.o[sess.sel].c;
   return `<div class="row"><b class="ui">${esc(decks[sess.d].name)}</b><span class="sp"></span>
-    <span class="meta ui">${sess.n+1} of ${sess.items.length}</span><button onclick="quit()">Quit</button></div>
+    <span class="tm" title="Total time"><span id="tm">${fmt(elapsed())}</span><i class="dot" aria-hidden="true"></i></span>
+    <span class="meta ui">Q${sess.n+1} of ${sess.items.length}</span>
+    <button onclick="skip()" ${tg<0?'disabled':''}>Skip</button><button onclick="quit()">Quit</button></div>
     <div class="bar"><i style="width:${pct}%"></i></div>
     <div class="qwrap"><div class="qmain">
     <p class="qtxt">${esc(it.q)}</p>${opts}
-    ${done?`<div class="why" role="status"><b class="ui ${ok?'g':'r'}">${ok?'Correct.':'Not quite.'}</b>${it.e?` ${esc(it.e)}`:''}</div>
-    <button class="pri" onclick="next()">${sess.n+1>=sess.items.length?'See results':'Next question'}</button>`:`<p class="meta">Tip: press A–D on your keyboard to answer, Enter for next.</p>`}
-    </div><aside class="side">${boxes(sess.n)}</aside></div>`;
+    ${done?`<div class="why" role="status"><b class="ui ${a.ok?'g':'r'}">${a.ok?'Correct.':'Not quite.'}</b>${it.e?` ${esc(it.e)}`:''}</div>
+    <button class="pri" onclick="next()">${tg<0?'See results':'Next question'}</button>`:`<p class="meta">Tip: press A–D on your keyboard to answer. Skipped questions stay open in the number boxes.</p>`}
+    </div><aside class="side">${boxes(sess.n,true)}</aside></div>`;
 }
 function resultsHTML(){
-  const t=sess.res.length,s=sess.res.filter(r=>r.ok).length,wrong=sess.res.filter(r=>!r.ok);
+  const t=sess.items.length,s=sess.ans.filter(a=>a.ok).length;
+  const wrong=sess.items.map((it,i)=>({it,a:sess.ans[i]})).filter(x=>!x.a.ok);
+  const total=elapsed();
   const lines=wrong.map(r=>`<div class="miss"><p><b>${esc(r.it.q)}</b></p>
-    <p class="r">Your answer: ${esc(r.it.o[r.pick].t)}</p><p class="g">Correct: ${esc(r.it.o.find(o=>o.c).t)}</p>
+    <p class="r">Your answer: ${esc(r.it.o[r.a.pick].t)}</p><p class="g">Correct: ${esc(r.it.o.find(o=>o.c).t)}</p>
     ${r.it.e?`<p class="meta">${esc(r.it.e)}</p>`:''}</div>`).join('');
-  return `<div class="qwrap"><div class="qmain"><h1>Done</h1><div class="big">${s}/${t}</div><p class="sub">${Math.round(s/t*100)}% correct</p>
+  return `<div class="qwrap"><div class="qmain"><h1>Done</h1><div class="big">${s}/${t}</div><p class="sub">${Math.round(s/t*100)}% correct · ${fmt(total)} total time</p>
   <div class="row" style="margin-bottom:18px"><button class="pri" onclick="start(${sess.d},false)">Study again</button>
   ${wrong.length?`<button onclick="start(${sess.d},true)">Retry missed (${wrong.length})</button>`:''}
   <button onclick="quit()">Back to sets</button></div>
-  ${wrong.length?`<section class="card"><h2>Missed questions</h2>${lines}</section>`:`<p>No misses. Nice work.</p>`}</div><aside class="side">${boxes(-1)}</aside></div>`;
+  ${wrong.length?`<section class="card"><h2>Missed questions</h2>${lines}</section>`:`<p>No misses. Nice work.</p>`}</div><aside class="side">${boxes(-1,false)}</aside></div>`;
 }
 document.addEventListener('keydown',e=>{
   if(view!=='quiz'||e.metaKey||e.ctrlKey||e.altKey)return;
   const k=e.key;
   if(/^[a-hA-H]$/.test(k))pick(k.toUpperCase().charCodeAt(0)-65);
   else if(/^[1-8]$/.test(k))pick(+k-1);
-  else if((k==='Enter'||k==='ArrowRight')&&sess.sel!==null){e.preventDefault();next()}
+  else if((k==='Enter'||k==='ArrowRight')&&sess.ans[sess.n]){e.preventDefault();next()}
 });
+setInterval(()=>{if(view!=='quiz'||!sess)return;const e=$('#tm');if(e)e.textContent=fmt(elapsed())},250);
 render();loadAll();
 </script>
 </body>
