@@ -1,9 +1,3 @@
-HEAD AND NECK - GROSS ANATOMY (HSci 201) - CONSOLIDATED MCQs
-
-==================== GROUP 2: HEAD AND NECK ====================
-
------ The Ear -----
-
 Q1: What is the main function of the external ear?
 A) Maintain balance
 B) Collect and direct sound waves
@@ -52,8 +46,6 @@ D) Tympanic division
 Answer: B
 Explanation: The organ of Corti lies in the cochlea and sends signals via the cochlear division of CN VIII. The vestibular division serves balance. The facial nerve is a separate cranial nerve, and the "tympanic division" is not a division of CN VIII.
 
------ The Mandible -----
-
 Q7: At which joint does the mandible articulate with the skull?
 A) Zygomaticomaxillary joint
 B) Temporomandibular joint
@@ -77,8 +69,6 @@ C) The condyle and disc slide anteriorly, carrying the lower teeth forward in fr
 D) The condyle and disc rotate together in the lower cavity, assisted by the digastric and geniohyoid muscles.
 Answer: C
 Explanation: Protrusion is a gliding (translation) movement in the upper compartment of the TMJ, where the condyle and disc move together forward onto the articular tubercle, powered mainly by the lateral pterygoids (with help from the medial pterygoids). Option A describes retraction, and rotation (B, D) occurs in the lower compartment during mouth opening.
-
------ The Scalp -----
 
 Q10: Which statement about emissary veins is correct?
 A) They have valves and prevent backflow
@@ -120,8 +110,6 @@ D) Lesser Occipital Nerve
 Answer: C
 Explanation: The greater occipital nerve (dorsal ramus of C2) supplies the scalp over the back of the head up to the vertex. The supraorbital nerve supplies the anterior scalp, the auriculotemporal nerve the temple region, and the lesser occipital nerve the area behind the ear.
 
------ The Face -----
-
 Q15: A patient has loss of sensation over the cheek and upper lip but preserved sensation over the forehead and lower jaw. Which division of the trigeminal nerve is most likely involved?
 A) Maxillary division (V2)
 B) Facial nerve (VII)
@@ -153,8 +141,6 @@ C) CN VII
 D) CN X
 Answer: C
 Explanation: The facial nerve (CN VII) runs through the facial canal in the temporal bone and supplies all muscles of facial expression, so temporal bone trauma can cause facial paralysis.
-
------ The Neck -----
 
 Q19: A patient has a laceration at the posterior scalp and develops numbness in the area supplied by the greater occipital nerve. Which spinal nerve is most likely involved?
 A) C1
@@ -220,10 +206,6 @@ D) Lingual artery
 Answer: A
 Explanation: The facial artery winds around the inferior border of the mandible at the anterior edge of masseter and then runs up the face to supply superficial structures (its pulse can be felt at this point).
 
-==================== GUIDE QUESTIONS (HSci 201 III. HEAD AND NECK) ====================
-
------ Veins of the Head and Neck -----
-
 Q27: The external jugular vein is formed by the union of which veins?
 A) Facial vein and anterior division of retromandibular vein
 B) Posterior auricular vein and posterior division of retromandibular vein
@@ -263,8 +245,6 @@ C) Their efferent vessels form the jugular trunk, which drains into the thoracic
 D) Their efferent vessels form the jugular arch, which drains into the internal jugular vein.
 Answer: C
 Explanation: Efferents of the deep cervical nodes unite to form the jugular trunk. On the left it drains into the thoracic duct, and on the right into the right lymphatic duct (or directly into the venous junction).
-
------ Cranial Nerves -----
 
 Q32: Which cranial nerve innervates the superior oblique muscle of the eyeball?
 A) Trochlear nerve (IV)
@@ -314,8 +294,6 @@ D) Chewing
 Answer: B
 Explanation: CN VII supplies the muscles of facial expression. Hearing and balance are CN VIII, and chewing (mastication) is CN V3.
 
------ The Autonomic Nervous System -----
-
 Q38: The cervical part of the sympathetic trunk extends from the base of the skull down to where?
 A) The hyoid bone
 B) The neck of the 1st rib
@@ -355,8 +333,6 @@ C) Middle cervical ganglion
 D) Dorsal root ganglion
 Answer: A
 Explanation: The four cranial parasympathetic ganglia are the ciliary, pterygopalatine, submandibular and otic ganglia. Stellate and middle cervical ganglia are sympathetic, and dorsal root ganglia are sensory.
-
------ Digestive System of the Head and Neck -----
 
 Q43: What are the two components of the oral cavity?
 A) Hard palate and soft palate
@@ -398,8 +374,6 @@ D) Neither side
 Answer: B
 Explanation: The genioglossus pushes the tongue forward and to the opposite side. If one hypoglossal nerve is damaged, the unopposed healthy genioglossus pushes the tongue toward the paralyzed (lesion) side, so the tip deviates toward the ipsilateral side.
 
------ The Palate -----
-
 Q48: The hard palate is formed by the palatine processes of the maxillae and which other bone's plates?
 A) Palatine bones (horizontal plates)
 B) Sphenoid bone
@@ -439,8 +413,6 @@ C) Axillary lymph nodes
 D) Preauricular lymph nodes
 Answer: B
 Explanation: Lymph from the palate drains to the deep cervical lymph nodes. Axillary nodes drain the upper limb and breast, and preauricular nodes drain the scalp/face near the ear.
-
------ The Salivary Glands -----
 
 Q53: Which nerve provides the parasympathetic secretomotor supply to the parotid gland?
 A) Facial nerve
@@ -482,8 +454,6 @@ D) Hypoglossal nerve
 Answer: A
 Explanation: Postganglionic fibers leave the otic ganglion and join the auriculotemporal nerve (a branch of V3), which carries them to the parotid gland.
 
------ The Pharynx -----
-
 Q58: Which clinical condition is characterized by excessive hypertrophy of the pharyngeal tonsils, often resulting in loud snoring at night?
 A) Tonsillitis
 B) Quinsy
@@ -524,8 +494,6 @@ D) Pharyngeal artery
 Answer: B
 Explanation: The tonsillar artery is a branch of the facial artery and is the main blood supply of the palatine tonsil, entering it near the inferior pole of the tonsil.
 
------ The Esophagus -----
-
 Q63: The esophagus begins at the level of the:
 A) Hyoid bone
 B) Thyroid cartilage
@@ -565,9 +533,6 @@ C) Vagus nerves and phrenic nerves
 D) Glossopharyngeal nerves and vagus nerves
 Answer: A
 Explanation: The cervical esophagus is supplied by the recurrent laryngeal branches of the vagus (parasympathetic and motor to the upper striated muscle) and by sympathetic fibers from the sympathetic trunks.
-
-==================== NOSE, LARYNX, TRACHEA AND PITUITARY ====================
-(Note: no answer key was included in the PDF for these questions; the answers below were determined from standard anatomy references.)
 
 Q68: What structure forms the mobile, rounded lateral margin (wing) of the external nose?
 A) Nasal septum
@@ -649,10 +614,6 @@ D) Optic chiasm
 Answer: C
 Explanation: Rathke's pouch is an upgrowth of oral ectoderm (the roof of the stomodeum) that becomes the anterior pituitary (adenohypophysis). The posterior pituitary develops from a downgrowth of the diencephalon.
 
-==================== GROUP 1 - MD25: LECTURE QUESTIONS ====================
-
------ Brain (Cerebrum and Diencephalon) -----
-
 Q78: What is the bone that encases the entire brain and is also known as the "bone of the head"?
 A) Zygomatic Bone
 B) Calvaria
@@ -668,8 +629,6 @@ C) Disassociation
 D) Disarranged
 Answer: A
 Explanation: Decussation is the crossing of nerve fibers from one side of the CNS to the other (e.g., at the pyramidal decussation in the medulla). This is why each cerebral hemisphere controls the opposite side of the body.
-
------ Midbrain and Hindbrain -----
 
 Q80: A pigmented band of gray matter that divides the anterior and posterior part of cerebral peduncles.
 A) Crus cerebri
@@ -703,8 +662,6 @@ D) The third ventricle lies anterior to the cerebellum.
 Answer: A
 Explanation: The tentorium cerebelli (a dural fold) separates the cerebellum from the overlying occipital lobes. B is wrong because the cerebellum lies posterior to the medulla and pons. C is wrong because the anterior and middle lobes are separated by the primary fissure. D is wrong because the fourth ventricle (not the third) lies anterior to the cerebellum.
 
------ The Orbit: Walls, Openings, and Fascia -----
-
 Q84: The supraorbital notch (foramen), situated on the superior orbital margin, transmits the supraorbital nerve and vessels, and also supplies mucous membrane of the:
 A) Ethmoid sinus
 B) Sphenoid sinus
@@ -729,8 +686,6 @@ D) Levator palpebrae superioris
 Answer: A
 Explanation: The inferior orbital fissure is bridged by the orbitalis muscle (a thin layer of smooth muscle, sympathetically innervated). The ciliary muscle is inside the eyeball, the orbicularis oculi is a facial skeletal muscle, and levator palpebrae superioris is a skeletal muscle of the upper eyelid.
 
------ Movements of the Eyeball -----
-
 Q87: Which muscle abducts the eye?
 A) Superior oblique
 B) Medial rectus
@@ -752,8 +707,6 @@ B) CN III - Oculomotor nerve
 C) CN VI - Abducens nerve
 Answer: C
 Explanation: The abducens nerve (CN VI) supplies only the lateral rectus. The oculomotor nerve supplies the remaining extraocular muscles.
-
------ Contents of the Eyeball -----
 
 Q90: The aqueous humor fills the anterior and posterior chambers of the eye. Which structure divides this structure into these two chambers?
 A) Pupil
