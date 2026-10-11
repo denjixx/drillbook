@@ -1,0 +1,772 @@
+HEAD AND NECK - GROSS ANATOMY (HSci 201) - CONSOLIDATED MCQs
+
+==================== GROUP 2: HEAD AND NECK ====================
+
+----- The Ear -----
+
+Q1: What is the main function of the external ear?
+A) Maintain balance
+B) Collect and direct sound waves
+C) Control head movement
+D) Convert sound into nerve signals
+Answer: B
+Explanation: The auricle and external acoustic meatus collect sound waves and funnel them to the tympanic membrane. Balance is the job of the vestibular apparatus, and conversion of sound into nerve signals occurs in the cochlea (inner ear).
+
+Q2: A patient has difficulty transmitting sound vibrations from the tympanic membrane to the inner ear due to damage to the middle ear bones. Which sequence correctly represents the normal transmission of vibrations through the auditory ossicles?
+A) Incus → malleus → stapes
+B) Stapes → incus → malleus
+C) Malleus → incus → stapes
+D) Malleus → stapes → incus
+Answer: C
+Explanation: The malleus is attached to the tympanic membrane, articulates with the incus, which articulates with the stapes. The footplate of the stapes sits in the oval window and passes vibrations to the perilymph of the inner ear.
+
+Q3: A patient with inadequately treated acute otitis media develops severe headache and signs of increased intracranial pressure. If the infection has spread superiorly from the middle ear, which complication is most likely?
+A) Acute mastoiditis
+B) Meningitis or temporal lobe abscess
+C) Facial nerve palsy
+D) Sigmoid sinus thrombosis
+Answer: B
+Explanation: The roof of the middle ear (tegmen tympani) is a thin plate of bone separating it from the middle cranial fossa. Superior spread of infection can therefore cause meningitis or a temporal lobe abscess. Mastoiditis spreads posteriorly, and sigmoid sinus thrombosis spreads posteriorly/medially.
+
+Q4: A 3-year-old child develops fever, irritability, and severe ear pain following a recent upper respiratory tract infection. Otoscopic examination reveals a bulging, erythematous tympanic membrane with middle-ear effusion. Which of the following is the most common bacterial cause of this condition?
+A) Staphylococcus aureus
+B) Streptococcus pneumoniae
+C) Pseudomonas aeruginosa
+D) Streptococcus pyogenes
+Answer: B
+Explanation: The picture is acute otitis media, in which bacteria ascend from the nasopharynx through the pharyngotympanic (auditory) tube. Streptococcus pneumoniae is the most common bacterial cause (followed by Haemophilus influenzae and Moraxella catarrhalis). Pseudomonas is more typical of otitis externa.
+
+Q5: Which statement best describes the function of the cochlea?
+A) It detects head movement and maintains equilibrium.
+B) It amplifies vibrations through the auditory ossicles.
+C) It converts mechanical sound vibrations into electrical nerve signals.
+D) It equalizes pressure between the middle ear and the pharynx.
+Answer: C
+Explanation: Fluid waves in the cochlea move the basilar membrane and stimulate hair cells of the organ of Corti, transducing mechanical vibration into electrical impulses carried by the cochlear nerve. Option A describes the semicircular canals/vestibule, B the ossicles, and D the pharyngotympanic tube.
+
+Q6: A patient has damage to the organ of Corti, resulting in impaired hearing but has normal balance and no vertigo. Which division of the vestibulocochlear nerve carries signals from the affected organ to the brain?
+A) Vestibular division
+B) Cochlear division
+C) Facial division
+D) Tympanic division
+Answer: B
+Explanation: The organ of Corti lies in the cochlea and sends signals via the cochlear division of CN VIII. The vestibular division serves balance. The facial nerve is a separate cranial nerve, and the "tympanic division" is not a division of CN VIII.
+
+----- The Mandible -----
+
+Q7: At which joint does the mandible articulate with the skull?
+A) Zygomaticomaxillary joint
+B) Temporomandibular joint
+C) Sphenomandibular joint
+D) Atlanto-occipital joint
+Answer: B
+Explanation: The head (condyle) of the mandible articulates with the mandibular fossa and articular tubercle of the temporal bone at the temporomandibular joint (TMJ), a synovial joint with an articular disc.
+
+Q8: At what angle does the ramus meet the body of the mandible?
+A) Gonial angle
+B) Mental angle
+C) Mandibular notch
+D) Symphysis menti
+Answer: A
+Explanation: The angle of the mandible (gonial angle) is where the posterior border of the ramus meets the inferior border of the body. The mandibular notch is the concavity between the condylar and coronoid processes, and the symphysis menti is the midline fusion of the two halves.
+
+Q9: During protrusion of the mandible, which of the following occurs?
+A) The condyle and disc slide backward into the mandibular fossa, assisted by the posterior fibers of temporalis.
+B) The condyle rotates on the undersurface of the disc while the lateral pterygoid pulls it forward onto the articular tubercle.
+C) The condyle and disc slide anteriorly, carrying the lower teeth forward in front of the upper teeth, mainly by contraction of the lateral pterygoid muscles.
+D) The condyle and disc rotate together in the lower cavity, assisted by the digastric and geniohyoid muscles.
+Answer: C
+Explanation: Protrusion is a gliding (translation) movement in the upper compartment of the TMJ, where the condyle and disc move together forward onto the articular tubercle, powered mainly by the lateral pterygoids (with help from the medial pterygoids). Option A describes retraction, and rotation (B, D) occurs in the lower compartment during mouth opening.
+
+----- The Scalp -----
+
+Q10: Which statement about emissary veins is correct?
+A) They have valves and prevent backflow
+B) They connect scalp veins to intracranial venous sinuses and are valveless
+C) They are located in the pericranium
+D) They drain only into the jugular vein
+Answer: B
+Explanation: Emissary veins pass through skull foramina and connect extracranial (scalp) veins with the dural venous sinuses. Being valveless, blood can flow in either direction, so scalp infections can spread intracranially (the "dangerous area" of the scalp is the loose connective tissue layer).
+
+Q11: Why do scalp lacerations bleed profusely and are difficult to control?
+A) Scalp has no platelets
+B) Arterial walls are fixed to fibrous septa and cannot retract
+C) Only one artery supplies the scalp
+D) Veins lack valves
+Answer: B
+Explanation: Scalp arteries lie in the dense connective tissue layer and are anchored by fibrous septa, so when cut they cannot constrict or retract and they gape open. The scalp is also highly vascular with rich anastomoses, so bleeding is brisk.
+
+Q12: The aponeurosis connects to which two muscles?
+A) Frontal & Temporal
+B) Occipital & Mastoid
+C) Frontal & Occipital
+D) Auricular Anterior & Posterior
+Answer: C
+Explanation: The epicranial aponeurosis (galea aponeurotica) links the frontal belly anteriorly and the occipital belly posteriorly, together forming the occipitofrontalis muscle.
+
+Q13: Which artery is NOT a branch of the External Carotid Artery?
+A) Superficial Temporal Artery
+B) Posterior Auricular Artery
+C) Occipital Artery
+D) Supratrochlear Artery
+Answer: D
+Explanation: The supratrochlear artery is a branch of the ophthalmic artery (from the internal carotid artery). The superficial temporal, posterior auricular and occipital arteries are all external carotid branches supplying the scalp.
+
+Q14: Which nerve supplies the posterior scalp up to the vertex of the skull?
+A) Supraorbital nerve
+B) Auriculotemporal Nerve
+C) Greater Occipital Nerve
+D) Lesser Occipital Nerve
+Answer: C
+Explanation: The greater occipital nerve (dorsal ramus of C2) supplies the scalp over the back of the head up to the vertex. The supraorbital nerve supplies the anterior scalp, the auriculotemporal nerve the temple region, and the lesser occipital nerve the area behind the ear.
+
+----- The Face -----
+
+Q15: A patient has loss of sensation over the cheek and upper lip but preserved sensation over the forehead and lower jaw. Which division of the trigeminal nerve is most likely involved?
+A) Maxillary division (V2)
+B) Facial nerve (VII)
+C) Mandibular division (V3)
+D) Ophthalmic division (V1)
+Answer: A
+Explanation: V2 supplies the skin of the cheek, upper lip, lower eyelid and side of the nose. V1 supplies the forehead and V3 supplies the lower jaw/lower lip, both of which are preserved here. CN VII is mainly motor to facial muscles.
+
+Q16: During examination, a patient is asked to puff out the cheeks. Which muscle is most important for preventing air from escaping through the mouth corners by compressing the cheek?
+A) Levator Labii Superioris
+B) Depressor Anguli Oris
+C) Zygomaticus Major
+D) Buccinator
+Answer: D
+Explanation: The buccinator forms the muscular wall of the cheek. It compresses the cheek against the teeth, keeping food between the teeth and resisting air escape when the cheeks are puffed out (as in blowing).
+
+Q17: Which statement best explains why facial movements are more complex than simply opening and closing the mouth?
+A) Facial expression depends primarily on muscles of mastication
+B) Facial muscles are attached exclusively to the mandible
+C) Numerous muscles insert into the skin and act as both sphincter and dilator
+D) Most facial muscles act only as circular sphincters
+Answer: C
+Explanation: Muscles of facial expression arise from bone or fascia and insert into the skin. They act as sphincters (e.g., orbicularis oculi, orbicularis oris) and dilators (e.g., levators, depressors), allowing a wide range of expressions. Mastication is performed by a different group of muscles (CN V3).
+
+Q18: A patient develops facial paralysis after trauma to the temporal bone. Which nerve is most likely injured?
+A) CN V
+B) CN VI
+C) CN VII
+D) CN X
+Answer: C
+Explanation: The facial nerve (CN VII) runs through the facial canal in the temporal bone and supplies all muscles of facial expression, so temporal bone trauma can cause facial paralysis.
+
+----- The Neck -----
+
+Q19: A patient has a laceration at the posterior scalp and develops numbness in the area supplied by the greater occipital nerve. Which spinal nerve is most likely involved?
+A) C1
+B) C2
+C) C3
+D) C4
+Answer: B
+Explanation: The greater occipital nerve is the dorsal (posterior) ramus of C2. The C1 dorsal ramus (suboccipital nerve) is mainly motor, and the lesser occipital nerve arises from the ventral rami of C2-C3.
+
+Q20: In which individual does the external jugular vein have poor/hard identifiability?
+A) Adult Men
+B) Obese Individuals
+C) Professional Singers
+D) Lean People
+Answer: B
+Explanation: The external jugular vein lies superficially in the superficial fascia over sternocleidomastoid. In obese individuals, the thick layer of subcutaneous fat and short neck hides it, whereas in lean people or singers (who strain and raise venous pressure) it is easily visible.
+
+Q21: How do congenital and spasmodic torticollis differ?
+A) Congenital = fibrous SCM shortening; Spasmodic = acquired involuntary muscle spasms
+B) Congenital = infection; Spasmodic = trauma
+C) Congenital only in adults; Spasmodic only in infants
+D) Same cause, different side affected
+Answer: A
+Explanation: Congenital torticollis results from fibrosis and shortening of the sternocleidomastoid (often after birth trauma/hematoma), presenting in infants. Spasmodic torticollis is an acquired condition (a form of cervical dystonia) caused by involuntary contractions of neck muscles.
+
+Q22: The carotid sheath is a special condensation of the deep cervical fascia. What major structures does it wrap around and protect in the neck?
+A) The thyroid and parathyroid glands
+B) The carotid arteries, internal jugular vein, and vagus nerve
+C) The trachea and esophagus
+D) The spine and deep neck muscles
+Answer: B
+Explanation: The carotid sheath contains the common/internal carotid artery, the internal jugular vein and the vagus nerve. The thyroid, trachea and esophagus are within the pretracheal (visceral) fascia compartment.
+
+Q23: Which major neck muscle divides each side of the neck into an anterior triangle and a posterior triangle?
+A) Trapezius
+B) Sternocleidomastoid
+C) Scalenus Anterior
+D) Omohyoid
+Answer: B
+Explanation: The sternocleidomastoid runs obliquely across the neck from the mastoid process to the sternum and clavicle, separating the anterior triangle (in front) from the posterior triangle (behind).
+
+Q24: The right common carotid artery branches off from the _____________________ trunk, whereas the left common carotid artery originates directly from the aortic arch.
+A) Brachiocephalic trunk
+B) Aortic arch directly
+C) Subclavian artery
+D) External carotid artery
+Answer: A
+Explanation: The right common carotid arises from the brachiocephalic trunk (behind the right sternoclavicular joint), while the left common carotid arises directly from the aortic arch.
+
+Q25: The common carotid artery splits at the upper border of the thyroid cartilage into the:
+A) Internal and external carotid arteries
+B) Vertebral and carotid arteries
+C) Facial and lingual arteries
+D) Common and external jugular veins
+Answer: A
+Explanation: The common carotid bifurcates at about the level of C4 (upper border of the thyroid cartilage) into the internal carotid artery (no neck branches, supplies brain/orbit) and external carotid artery (supplies the neck and face).
+
+Q26: The ______ artery crosses the mandible to supply the superficial structures of the face.
+A) Facial artery
+B) Superficial temporal artery
+C) Maxillary artery
+D) Lingual artery
+Answer: A
+Explanation: The facial artery winds around the inferior border of the mandible at the anterior edge of masseter and then runs up the face to supply superficial structures (its pulse can be felt at this point).
+
+==================== GUIDE QUESTIONS (HSci 201 III. HEAD AND NECK) ====================
+
+----- Veins of the Head and Neck -----
+
+Q27: The external jugular vein is formed by the union of which veins?
+A) Facial vein and anterior division of retromandibular vein
+B) Posterior auricular vein and posterior division of retromandibular vein
+C) Superficial temporal vein and maxillary vein
+D) Anterior jugular vein and facial vein
+Answer: B
+Explanation: The external jugular vein forms near the angle of the mandible, behind the parotid, by the union of the posterior auricular vein and the posterior division of the retromandibular vein. The anterior division of the retromandibular vein joins the facial vein instead.
+
+Q28: Which sequence correctly represents the formation and drainage of the external jugular vein?
+A) Superficial temporal + maxillary → retromandibular → posterior division + posterior auricular → external jugular → subclavian vein
+B) Supraorbital + supratrochlear → facial → external jugular → subclavian vein
+C) Posterior auricular + facial → external jugular → retromandibular → subclavian vein
+D) Superficial temporal + maxillary → facial → external jugular → brachiocephalic vein
+Answer: A
+Explanation: The superficial temporal and maxillary veins form the retromandibular vein. Its posterior division joins the posterior auricular vein to form the external jugular vein, which crosses sternocleidomastoid and drains into the subclavian vein.
+
+Q29: A venous structure receives blood from the brain, face, and neck, begins as a continuation of the sigmoid sinus, and joins the subclavian vein to form the brachiocephalic vein. Which vein is being described?
+A) External jugular vein
+B) Retromandibular vein
+C) Inferior ophthalmic vein
+D) Internal jugular vein
+Answer: D
+Explanation: The internal jugular vein starts at the jugular foramen as a continuation of the sigmoid sinus, descends in the carotid sheath, and unites with the subclavian vein behind the sternoclavicular joint to form the brachiocephalic vein.
+
+Q30: A patient has lymphatic drainage from the cheek. Which sequence best describes the pathway?
+A) Buccal nodes → submental nodes → deep cervical nodes
+B) Parotid nodes → buccal nodes → deep cervical nodes
+C) Buccal nodes → submandibular nodes → deep cervical nodes
+D) Submental nodes → buccal nodes → deep cervical nodes
+Answer: C
+Explanation: Lymph from the cheek drains to the small buccal nodes, then to the submandibular nodes, and finally to the deep cervical nodes. Submental nodes drain mainly the chin, central lower lip and tip of the tongue.
+
+Q31: Which of the following correctly describes the lymphatic drainage from the deep cervical lymph nodes?
+A) They drain directly into the thoracic duct only.
+B) They drain directly into the right lymphatic duct only.
+C) Their efferent vessels form the jugular trunk, which drains into the thoracic duct or right lymphatic duct.
+D) Their efferent vessels form the jugular arch, which drains into the internal jugular vein.
+Answer: C
+Explanation: Efferents of the deep cervical nodes unite to form the jugular trunk. On the left it drains into the thoracic duct, and on the right into the right lymphatic duct (or directly into the venous junction).
+
+----- Cranial Nerves -----
+
+Q32: Which cranial nerve innervates the superior oblique muscle of the eyeball?
+A) Trochlear nerve (IV)
+B) Oculomotor nerve (III)
+C) Abducens nerve (VI)
+D) Optic nerve (II)
+Answer: A
+Explanation: Memory aid "LR6 SO4 AO3": lateral rectus is supplied by CN VI, superior oblique by CN IV (trochlear), and all other extraocular muscles by CN III.
+
+Q33: What is the function of the parasympathetic fibers of the Oculomotor nerve (III)?
+A) Innervate the levator palpebrae superioris muscle
+B) Innervate the superior oblique muscle
+C) Transmit visual information from the retina to the brain
+D) Control the constrictor pupillae and ciliary muscles via the ciliary ganglion
+Answer: D
+Explanation: Preganglionic parasympathetic fibers from the Edinger-Westphal nucleus travel with CN III to the ciliary ganglion. Postganglionic fibers supply the sphincter pupillae (pupil constriction) and the ciliary muscle (accommodation). The levator palpebrae is supplied by somatic motor fibers of CN III, the superior oblique by CN IV, and vision by CN II.
+
+Q34: What type of nerve is the Glossopharyngeal nerve (IX)?
+A) Sensory
+B) Both sensory and motor
+C) Motor
+D) Parasympathetic only
+Answer: B
+Explanation: CN IX is a mixed nerve: it carries sensory fibers (pharynx, posterior third of tongue, carotid body/sinus), motor fibers (stylopharyngeus) and parasympathetic fibers (to the parotid gland via the otic ganglion).
+
+Q35: A patient presents with vertigo and difficulty maintaining balance but has normal hearing. Which division of the vestibulocochlear nerve is most likely affected?
+A) Cochlear division
+B) Vestibular division
+C) Facial division
+D) Trigeminal division
+Answer: B
+Explanation: The vestibular division of CN VIII carries information on head position and movement from the semicircular canals, utricle and saccule. Loss of its function produces vertigo and imbalance with preserved hearing (cochlear division intact).
+
+Q36: Damage to the abducens nerve would most directly impair which eye movement?
+A) Elevation of the eye
+B) Depression of the eye
+C) Movement of the eye laterally (abduction)
+D) Movement of the eye medially (adduction)
+Answer: C
+Explanation: The abducens nerve (CN VI) supplies the lateral rectus, which abducts the eye. Damage causes inability to abduct and a convergent squint (medial deviation) with horizontal double vision.
+
+Q37: Which of the following is the main function of the facial nerve (CN VII)?
+A) Hearing
+B) Facial expression
+C) Balance
+D) Chewing
+Answer: B
+Explanation: CN VII supplies the muscles of facial expression. Hearing and balance are CN VIII, and chewing (mastication) is CN V3.
+
+----- The Autonomic Nervous System -----
+
+Q38: The cervical part of the sympathetic trunk extends from the base of the skull down to where?
+A) The hyoid bone
+B) The neck of the 1st rib
+C) The cricoid cartilage
+D) The clavicle
+Answer: B
+Explanation: The cervical sympathetic trunk runs from the base of the skull to the neck of the first rib, where it continues into the thoracic sympathetic trunk. It lies posterior to the carotid sheath, anterior to the prevertebral muscles.
+
+Q39: Which cervical ganglion lies at the level of the cricoid cartilage?
+A) Superior cervical ganglion
+B) Middle cervical ganglion
+C) Inferior cervical ganglion
+D) Stellate ganglion only
+Answer: B
+Explanation: The middle cervical ganglion lies at the level of the cricoid cartilage (about C6), near the inferior thyroid artery. The superior ganglion is at C1-C2 and the inferior ganglion is near the neck of the 1st rib (it often fuses with T1 to form the stellate ganglion).
+
+Q40: The ansa subclavia is a nerve bundle that loops around which artery?
+A) Common carotid artery
+B) Vertebral artery
+C) Subclavian artery
+D) External carotid artery
+Answer: C
+Explanation: Fibers connecting the middle and inferior cervical ganglia form a loop around the first part of the subclavian artery, called the ansa subclavia (the name itself means "loop of the subclavian").
+
+Q41: What structure is formed when the internal carotid nerve divides into branches around the internal carotid artery?
+A) Pharyngeal plexus
+B) Cardiac plexus
+C) Internal carotid plexus
+D) Carotid sheath
+Answer: C
+Explanation: Postganglionic sympathetic fibers from the superior cervical ganglion form the internal carotid nerve, which breaks into the internal carotid plexus around the internal carotid artery and distributes sympathetic fibers to the head. The carotid sheath is fascia, not a nerve plexus.
+
+Q42: Which of the following is a cranial parasympathetic ganglion (a discrete, named ganglion)?
+A) Otic Ganglion
+B) Stellate ganglion
+C) Middle cervical ganglion
+D) Dorsal root ganglion
+Answer: A
+Explanation: The four cranial parasympathetic ganglia are the ciliary, pterygopalatine, submandibular and otic ganglia. Stellate and middle cervical ganglia are sympathetic, and dorsal root ganglia are sensory.
+
+----- Digestive System of the Head and Neck -----
+
+Q43: What are the two components of the oral cavity?
+A) Hard palate and soft palate
+B) Vestibule and oral cavity proper
+C) Tongue and pharynx
+D) Lips and cheeks
+Answer: B
+Explanation: The oral cavity is divided by the teeth and gums into the vestibule (between the lips/cheeks and the teeth) and the oral cavity proper (inside the dental arches).
+
+Q44: Where does the parotid duct open?
+A) On the floor of the mouth beside the lingual frenulum
+B) Opposite the upper second molar tooth
+C) Opposite the lower third molar tooth
+D) On the soft palate
+Answer: B
+Explanation: The parotid duct (Stensen's duct) pierces the buccinator and opens into the vestibule on a small papilla opposite the upper second molar. Submandibular ducts open beside the frenulum.
+
+Q45: How many permanent teeth does a human normally have?
+A) 20
+B) 24
+C) 28
+D) 32
+Answer: D
+Explanation: There are 32 permanent teeth (8 per quadrant: 2 incisors, 1 canine, 2 premolars, 3 molars). The primary (deciduous) dentition has 20 teeth.
+
+Q46: Which nerve provides general sensation to the anterior two-thirds of the tongue?
+A) Facial nerve (CN VII)
+B) Glossopharyngeal nerve (CN IX)
+C) Lingual nerve (V3)
+D) Hypoglossal nerve (CN XII)
+Answer: C
+Explanation: The lingual nerve, a branch of the mandibular division (V3), gives general sensation to the anterior two-thirds. Taste there is carried by the chorda tympani (CN VII). CN IX supplies the posterior third, and CN XII is motor.
+
+Q47: When a patient protrudes the tongue, deviation of the tip indicates a lesion of which side of the hypoglossal nerve?
+A) Contralateral side
+B) Ipsilateral side
+C) Both sides
+D) Neither side
+Answer: B
+Explanation: The genioglossus pushes the tongue forward and to the opposite side. If one hypoglossal nerve is damaged, the unopposed healthy genioglossus pushes the tongue toward the paralyzed (lesion) side, so the tip deviates toward the ipsilateral side.
+
+----- The Palate -----
+
+Q48: The hard palate is formed by the palatine processes of the maxillae and which other bone's plates?
+A) Palatine bones (horizontal plates)
+B) Sphenoid bone
+C) Ethmoid bone
+D) Vomer
+Answer: A
+Explanation: The hard palate consists of the palatine processes of the maxillae (anterior two-thirds) and the horizontal plates of the palatine bones (posterior one-third).
+
+Q49: Which muscle's tendon wraps around the pterygoid hamulus to help form the palatine aponeurosis?
+A) Levator veli palatini
+B) Tensor veli palatini
+C) Palatoglossus
+D) Musculus uvulae
+Answer: B
+Explanation: The tendon of tensor veli palatini turns medially around the pterygoid hamulus and expands to form the palatine aponeurosis, which tenses the soft palate (and opens the pharyngotympanic tube).
+
+Q50: The palatine tonsils are located between which two structures?
+A) Hard palate and soft palate
+B) Palatoglossal arch and palatopharyngeal arch
+C) Uvula and epiglottis
+D) Tensor veli palatini and levator veli palatini
+Answer: B
+Explanation: The palatine tonsil lies in the tonsillar fossa (sinus) of the oropharynx between the palatoglossal arch (anterior) and the palatopharyngeal arch (posterior).
+
+Q51: Which muscle raises the soft palate to help close the pharyngeal isthmus during speech?
+A) Tensor veli palatini
+B) Levator veli palatini
+C) Palatoglossus
+D) Superior constrictor alone
+Answer: B
+Explanation: The levator veli palatini elevates the soft palate against the posterior pharyngeal wall, closing off the nasopharynx from the oropharynx (pharyngeal isthmus) during swallowing and speech. Tensor veli palatini only tenses the palate.
+
+Q52: Where do the palate's lymphatics drain?
+A) Submental lymph nodes
+B) Deep cervical lymph nodes
+C) Axillary lymph nodes
+D) Preauricular lymph nodes
+Answer: B
+Explanation: Lymph from the palate drains to the deep cervical lymph nodes. Axillary nodes drain the upper limb and breast, and preauricular nodes drain the scalp/face near the ear.
+
+----- The Salivary Glands -----
+
+Q53: Which nerve provides the parasympathetic secretomotor supply to the parotid gland?
+A) Facial nerve
+B) Vagus nerve
+C) Glossopharyngeal nerve
+D) Hypoglossal nerve
+Answer: C
+Explanation: Preganglionic fibers travel in CN IX, then the tympanic nerve and lesser petrosal nerve to the otic ganglion. Postganglionic fibers then reach the parotid through the auriculotemporal nerve. (The facial nerve passes through the gland but does not supply it with secretomotor fibers.)
+
+Q54: Where does the submandibular gland open?
+A) Opposite the upper second molar
+B) At the summit of the sublingual fold
+C) Into the pharynx
+D) Beside the frenulum of the tongue
+Answer: D
+Explanation: The submandibular (Wharton's) duct opens on the sublingual papilla beside the frenulum of the tongue on the floor of the mouth. (The sublingual fold is where the sublingual gland ducts open.)
+
+Q55: Which statement about the sublingual gland is correct?
+A) It is composed mostly of serous acini
+B) It contains 8-20 ducts
+C) It has a single large main duct
+D) Its parasympathetic supply comes from CN IX
+Answer: B
+Explanation: The sublingual gland is mainly mucous and drains through 8-20 small ducts (ducts of Rivinus) onto the sublingual fold. Its parasympathetic supply comes from the facial nerve (via chorda tympani, the submandibular ganglion), not CN IX.
+
+Q56: The sublingual gland lies beneath the:
+A) Buccal mucosa
+B) Hard palate
+C) Sublingual fold of the floor of the mouth
+D) Soft palate
+Answer: C
+Explanation: The sublingual gland sits in the floor of the mouth just beneath the mucous membrane, producing the sublingual fold, above the mylohyoid muscle.
+
+Q57: The postganglionic parasympathetic fibers reach the parotid gland through the:
+A) Auriculotemporal nerve
+B) Lingual nerve
+C) Facial Nerve
+D) Hypoglossal nerve
+Answer: A
+Explanation: Postganglionic fibers leave the otic ganglion and join the auriculotemporal nerve (a branch of V3), which carries them to the parotid gland.
+
+----- The Pharynx -----
+
+Q58: Which clinical condition is characterized by excessive hypertrophy of the pharyngeal tonsils, often resulting in loud snoring at night?
+A) Tonsillitis
+B) Quinsy
+C) Adenoids
+D) Dysphagia
+Answer: C
+Explanation: Enlarged pharyngeal tonsils (adenoids) in the nasopharynx obstruct the airway and cause mouth breathing and snoring. Tonsillitis is inflammation of the palatine tonsils, quinsy is a peritonsillar abscess, and dysphagia is difficulty swallowing.
+
+Q59: What occurs during Stage 2 (the involuntary & rapid stage) of deglutition or swallowing?
+A) The bolus is compressed against the palate & pushed into the oropharynx
+B) The cricopharyngeus fails to relax, producing a pharyngeal pouch
+C) The soft palate is elevated, sealing off the nasopharynx, & the larynx is elevated
+D) Sequential contraction of all three pharyngeal constrictor muscles forces the food bolus into the esophagus
+Answer: C
+Explanation: In the pharyngeal (involuntary) stage, the soft palate is elevated to seal the nasopharynx and the larynx and pharynx are raised to close the laryngeal inlet. Option A describes the voluntary oral stage, B is a pathological condition (Zenker's diverticulum), and D describes the following peristaltic movement of the bolus down the pharynx into the esophagus, which is part of the same stage but the best-fitting answer is the sealing and laryngeal elevation (as per the source key).
+
+Q60: Which pharyngeal muscle is not innervated by the pharyngeal plexus?
+A) Superior constrictor
+B) Middle constrictor
+C) Stylopharyngeus
+D) Salpingopharynges
+Answer: C
+Explanation: The stylopharyngeus is supplied by the glossopharyngeal nerve (CN IX) directly. The other pharyngeal muscles receive motor supply from the pharyngeal plexus (vagus, cranial part of accessory).
+
+Q61: Which nerve provides the sensory supply to the mucous membrane of the oral pharynx?
+A) Maxillary nerve (V2)
+B) Glossopharyngeal nerve (CN IX)
+C) Internal laryngeal branch of the vagus nerve (CN X)
+D) Recurrent laryngeal nerve
+Answer: B
+Explanation: CN IX supplies sensation to the oropharynx and is the afferent limb of the gag reflex. V2 supplies the nasopharynx, and the internal laryngeal nerve supplies the laryngopharynx down to the vocal folds.
+
+Q62: The primary blood supply to the palatine tonsil is the tonsillar branch, which is the branch of which artery?
+A) Maxillary artery
+B) Facial artery
+C) Lingual artery
+D) Pharyngeal artery
+Answer: B
+Explanation: The tonsillar artery is a branch of the facial artery and is the main blood supply of the palatine tonsil, entering it near the inferior pole of the tonsil.
+
+----- The Esophagus -----
+
+Q63: The esophagus begins at the level of the:
+A) Hyoid bone
+B) Thyroid cartilage
+C) Cricoid cartilage
+D) Sternal angle
+Answer: C
+Explanation: The esophagus starts as a continuation of the laryngopharynx at the lower border of the cricoid cartilage (C6 vertebral level).
+
+Q64: As the esophagus descends through the neck, it:
+A) Remains entirely on the right side
+B) Inclines to the left side
+C) Inclines to the right side
+D) Remains entirely in the midline
+Answer: B
+Explanation: The cervical esophagus begins in the midline but inclines slightly to the left as it descends, so it projects to the left of the trachea at the thoracic inlet. This is why surgical approaches to the cervical esophagus are made from the left.
+
+Q65: Which structure is directly anterior to the cervical esophagus?
+A) Vertebral column
+B) Longus colli
+C) Carotid sheath
+D) Trachea
+Answer: D
+Explanation: The trachea lies directly in front of the cervical esophagus. The vertebral column and longus colli (prevertebral muscles) are behind, and the carotid sheaths lie on either side.
+
+Q66: Where do lymphatic vessels from the cervical esophagus drain into?
+A) Submandibular lymph nodes
+B) Superficial cervical lymph nodes
+C) Deep cervical lymph nodes
+D) Axillary lymph nodes
+Answer: C
+Explanation: The lymphatics of the cervical esophagus drain into the deep cervical lymph nodes.
+
+Q67: Which combination correctly describes the nerve supply of the esophagus in the neck?
+A) Recurrent laryngeal nerves and sympathetic trunks
+B) Facial nerves and sympathetic trunks
+C) Vagus nerves and phrenic nerves
+D) Glossopharyngeal nerves and vagus nerves
+Answer: A
+Explanation: The cervical esophagus is supplied by the recurrent laryngeal branches of the vagus (parasympathetic and motor to the upper striated muscle) and by sympathetic fibers from the sympathetic trunks.
+
+==================== NOSE, LARYNX, TRACHEA AND PITUITARY ====================
+(Note: no answer key was included in the PDF for these questions; the answers below were determined from standard anatomy references.)
+
+Q68: What structure forms the mobile, rounded lateral margin (wing) of the external nose?
+A) Nasal septum
+B) Ala nasi
+C) Columella
+D) Nasal vestibule
+Answer: B
+Explanation: The ala nasi is the mobile, cartilaginous wing on each side of the nostril. The columella is the fleshy lower end of the septum between the nostrils, and the vestibule is the space just inside the nostril.
+
+Q69: Which opening in the nasal cavity receives the lower end of the nasolacrimal duct?
+A) Superior meatus
+B) Sphenoethmoidal recess
+C) Middle meatus
+D) Inferior meatus
+Answer: D
+Explanation: The nasolacrimal duct drains tears from the lacrimal sac into the inferior meatus, beneath the inferior concha. This is why crying produces a runny nose.
+
+Q70: Into which region of the nasal cavity does the maxillary sinus drain?
+A) Middle meatus via the hiatus semilunaris
+B) Middle meatus via the infundibulum
+C) Superior meatus above the superior concha
+D) Sphenoethmoidal recess above the superior concha
+Answer: A
+Explanation: The maxillary sinus opens into the middle meatus at the lower part of the hiatus semilunaris. The infundibulum is the channel that mainly drains the frontal sinus (and anterior ethmoidal cells), and the sphenoethmoidal recess drains the sphenoidal sinus.
+
+Q71: Which paranasal sinus group drains directly into the superior meatus?
+A) Anterior ethmoidal sinuses
+B) Middle ethmoidal sinuses
+C) Posterior ethmoidal sinuses
+D) Sphenoidal sinuses
+Answer: C
+Explanation: The posterior ethmoidal sinuses open into the superior meatus. The anterior and middle ethmoidal sinuses drain into the middle meatus, and the sphenoidal sinus drains into the sphenoethmoidal recess.
+
+Q72: Which intrinsic muscle of the larynx is uniquely innervated by the external branch of the laryngeal nerve?
+A) Thyroarytenoid muscle
+B) Lateral cricoarytenoid muscle
+C) Cricoarytenoid muscle
+D) Posterior cricoarytenoid muscle
+Answer: C
+Explanation: The external laryngeal nerve (external branch of the superior laryngeal nerve) supplies only the cricothyroid muscle, which tenses the vocal folds. The source lists "cricoarytenoid", which is most likely a typo for cricothyroid, and it is the only option that fits. All other intrinsic muscles are supplied by the recurrent laryngeal nerve.
+
+Q73: Why is the epithelium of the true vocal cords stratified squamous rather than ciliated columnar like the rest of the laryngeal cavity?
+A) To facilitate lymphatic drainage toward deep cervical nodes
+B) To withstand continuous trauma during phonation
+C) To allow rapid diffusion of oxygen to underlying tissues
+D) To enable rapid secretion of lubricating mucus
+Answer: B
+Explanation: The vocal folds vibrate and their edges contact each other repeatedly during speech. Non-keratinized stratified squamous epithelium is better at withstanding this abrasion than delicate pseudostratified ciliated columnar epithelium.
+
+Q74: At which vertebral level does the trachea begin superiorly?
+A) C4
+B) C6
+C) C8
+D) T2
+Answer: B
+Explanation: The trachea begins at the lower border of the cricoid cartilage (C6) and ends at the carina at the level of the sternal angle (T4-T5). There is no C8 vertebra.
+
+Q75: What structural feature completes the posterior wall of the cartilaginous tracheal rings?
+A) Anterior basal segmental bronchus
+B) Posterior basal segmental bronchus
+C) Trachealis membrane
+D) Trachealis muscle
+Answer: D
+Explanation: The tracheal cartilages are C-shaped rings that are open posteriorly. The gap is closed by the trachealis muscle (smooth muscle) with fibroelastic tissue, which allows the trachea's diameter to change (e.g., during coughing). The basal segmental bronchi are part of the lungs, not the trachea.
+
+Q76: What is the other name for the infundibulum?
+A) Pituitary stalk
+B) Hypothalamus
+C) Rathke's pouch
+D) Optic chiasm
+Answer: A
+Explanation: The infundibulum is the pituitary (hypophyseal) stalk that connects the hypothalamus to the posterior pituitary (neurohypophysis).
+
+Q77: What vesicle eventually forms into a part of the pituitary gland?
+A) Pituitary stalk
+B) Hypothalamus
+C) Rathke's pouch
+D) Optic chiasm
+Answer: C
+Explanation: Rathke's pouch is an upgrowth of oral ectoderm (the roof of the stomodeum) that becomes the anterior pituitary (adenohypophysis). The posterior pituitary develops from a downgrowth of the diencephalon.
+
+==================== GROUP 1 - MD25: LECTURE QUESTIONS ====================
+
+----- Brain (Cerebrum and Diencephalon) -----
+
+Q78: What is the bone that encases the entire brain and is also known as the "bone of the head"?
+A) Zygomatic Bone
+B) Calvaria
+C) Frontal Bone
+D) Skull
+Answer: D
+Explanation: The skull is the bony skeleton of the head, and it encloses and protects the brain. The zygomatic and frontal bones are only individual bones of the skull, and the calvaria is only the roof (skullcap) portion.
+
+Q79: What anatomical phenomenon occurs when nerve fibers cross over from one side of the central nervous system, making it possible for the right side of the brain to control and process signals from the left side of the body?
+A) Decussation
+B) Degradation
+C) Disassociation
+D) Disarranged
+Answer: A
+Explanation: Decussation is the crossing of nerve fibers from one side of the CNS to the other (e.g., at the pyramidal decussation in the medulla). This is why each cerebral hemisphere controls the opposite side of the body.
+
+----- Midbrain and Hindbrain -----
+
+Q80: A pigmented band of gray matter that divides the anterior and posterior part of cerebral peduncles.
+A) Crus cerebri
+B) Tectum
+C) Tegmentum
+D) Substantia nigra
+Answer: D
+Explanation: The substantia nigra is a pigmented (melanin-containing) layer of gray matter that separates the crus cerebri (anterior part of the cerebral peduncle) from the tegmentum (posterior part). The tectum lies posterior to the cerebral aqueduct.
+
+Q81: This structure connects the pons to the cerebellum.
+A) Cerebral peduncle
+B) Middle cerebellar peduncle
+C) Superior cerebellar peduncle
+D) Inferior cerebellar peduncle
+Answer: B
+Explanation: The middle cerebellar peduncle connects the pons to the cerebellum. The cerebral peduncle connects the cerebrum to the midbrain, the superior cerebellar peduncle connects the cerebellum to the midbrain, and the inferior cerebellar peduncle connects the cerebellum to the medulla oblongata.
+
+Q82: The following statement is true of the anterior surface of the medulla oblongata:
+A) The pyramids taper inferiorly and give rise to the decussation of the pyramids.
+B) On each side of the midline, there is an ovoid swelling called the olive, which contains the corticospinal fibers.
+C) The hypoglossal nerve emerges between the olive and the inferior cerebellar peduncle.
+D) The vagus nerve emerges between the pyramid and the olive.
+Answer: A
+Explanation: The pyramids contain the corticospinal fibers and taper inferiorly to form the decussation of the pyramids. B is wrong because the olive contains the olivary nucleus, not corticospinal fibers. C is wrong because the hypoglossal nerve emerges between the pyramid and the olive. D is wrong because the vagus nerve emerges between the olive and the inferior cerebellar peduncle.
+
+Q83: What is true about the gross appearance of the cerebellum:
+A) It is separated from the occipital lobes of the cerebral hemispheres by the tentorium cerebelli.
+B) It lies anterior to the medulla oblongata and the pons.
+C) The anterior lobe is separated from the middle (posterior) lobe by the uvulonodular fissure.
+D) The third ventricle lies anterior to the cerebellum.
+Answer: A
+Explanation: The tentorium cerebelli (a dural fold) separates the cerebellum from the overlying occipital lobes. B is wrong because the cerebellum lies posterior to the medulla and pons. C is wrong because the anterior and middle lobes are separated by the primary fissure. D is wrong because the fourth ventricle (not the third) lies anterior to the cerebellum.
+
+----- The Orbit: Walls, Openings, and Fascia -----
+
+Q84: The supraorbital notch (foramen), situated on the superior orbital margin, transmits the supraorbital nerve and vessels, and also supplies mucous membrane of the:
+A) Ethmoid sinus
+B) Sphenoid sinus
+C) Maxillary sinus
+D) Frontal air sinus
+Answer: D
+Explanation: The supraorbital nerve, in addition to supplying the skin of the forehead, also innervates the mucous membrane of the frontal air sinus.
+
+Q85: The infraorbital groove and canal, situated in the orbital floor, transmits the infraorbital nerve - a continuation of which nerve?
+A) Maxillary nerve (V2)
+B) Mandibular nerve (V3)
+C) Facial nerve (CN VII)
+D) Ophthalmic nerve (V1)
+Answer: A
+Explanation: The infraorbital nerve is the continuation of the maxillary nerve (V2) after it enters the orbit through the inferior orbital fissure. It exits through the infraorbital foramen to supply the skin of the cheek.
+
+Q86: The inferior orbital fissure is bridged by which smooth muscle?
+A) Orbitalis (Muller's) muscle
+B) Ciliary muscle
+C) Orbicularis oculi
+D) Levator palpebrae superioris
+Answer: A
+Explanation: The inferior orbital fissure is bridged by the orbitalis muscle (a thin layer of smooth muscle, sympathetically innervated). The ciliary muscle is inside the eyeball, the orbicularis oculi is a facial skeletal muscle, and levator palpebrae superioris is a skeletal muscle of the upper eyelid.
+
+----- Movements of the Eyeball -----
+
+Q87: Which muscle abducts the eye?
+A) Superior oblique
+B) Medial rectus
+C) Inferior rectus
+D) Lateral rectus
+Answer: D
+Explanation: The lateral rectus abducts the eye (moves it outward). The medial rectus adducts it.
+
+Q88: Which cranial nerve supplies the superior oblique?
+A) CN IV - Trochlear nerve
+B) CN III - Oculomotor nerve
+C) CN VI - Abducens nerve
+Answer: A
+Explanation: The trochlear nerve (CN IV) supplies only the superior oblique, which passes through the trochlea ("LR6 SO4 AO3").
+
+Q89: Which cranial nerve supplies the lateral rectus?
+A) CN IV - Trochlear nerve
+B) CN III - Oculomotor nerve
+C) CN VI - Abducens nerve
+Answer: C
+Explanation: The abducens nerve (CN VI) supplies only the lateral rectus. The oculomotor nerve supplies the remaining extraocular muscles.
+
+----- Contents of the Eyeball -----
+
+Q90: The aqueous humor fills the anterior and posterior chambers of the eye. Which structure divides this structure into these two chambers?
+A) Pupil
+B) Iris
+C) Cornea
+D) Lens
+Answer: B
+Explanation: The iris separates the anterior chamber (between the cornea and iris) from the posterior chamber (between the iris and lens). The two chambers communicate through the pupil.
+
+Q91: Glaucoma can be caused by the obstruction of the draining of the aqueous humor resulting in a rise of intraocular pressure. What structure of the eye is commonly obstructed leading to this condition?
+A) Ciliary process
+B) Posterior chamber
+C) Anterior chamber
+D) Canal of Schlemm
+Answer: D
+Explanation: Aqueous humor is produced by the ciliary processes, flows from the posterior to the anterior chamber, and drains through the trabecular meshwork into the canal of Schlemm (scleral venous sinus). Obstruction there raises intraocular pressure, causing glaucoma.
