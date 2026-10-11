@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Drillbook – multiple choice study</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+:root{--bg:#EDF0F6;--card:#fff;--ink:#16213E;--mute:#5B6785;--line:#D3D9E6;--acc:#2F5BEA;--accink:#fff;--ok:#16794C;--okbg:#DDF3E8;--bad:#B8322A;--badbg:#FBE2DF;--hl:#FFE680;
+ --head:'Bricolage Grotesque',system-ui,-apple-system,'Segoe UI',sans-serif;--body:'Source Serif 4',Georgia,'Times New Roman',serif;
+ box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0F1424;--card:#181F36;--ink:#E8ECF8;--mute:#93A0C4;--line:#2B3556;--acc:#6D8DFF;--accink:#0F1424;--ok:#5FD09B;--okbg:#14352A;--bad:#FF8A80;--badbg:#3A1C1F;--hl:#5A4B10}}
+:root[data-theme="dark"]{--bg:#0F1424;--card:#181F36;--ink:#E8ECF8;--mute:#93A0C4;--line:#2B3556;--acc:#6D8DFF;--accink:#0F1424;--ok:#5FD09B;--okbg:#14352A;--bad:#FF8A80;--badbg:#3A1C1F;--hl:#5A4B10}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:18px;line-height:1.55}
+main{max-width:720px;margin:0 auto;padding:20px 16px 56px}
+h1,h2,h3,.ui{font-family:var(--head)}
+h1{font-size:2rem;margin:8px 0 2px;letter-spacing:-.02em}
+h2{font-size:1.15rem;margin:0 0 10px}
+.sub{color:var(--mute);margin:0 0 20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin:0 0 16px}
+label{font-family:var(--head);font-weight:500;font-size:.9rem;display:block;margin:0 0 4px}
+input[type=text],textarea{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px}
+textarea{min-height:170px;resize:vertical;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14px;line-height:1.45}
+button,.btn{font-family:var(--head);font-weight:500;font-size:.95rem;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:9px 14px;cursor:pointer}
+button:hover{border-color:var(--acc)}
+button:focus-visible,input:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.pri{background:var(--acc);color:var(--accink);border-color:var(--acc)}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.sp{flex:1}
+.chk{display:flex;gap:8px;align-items:center;font-family:var(--head);font-size:.95rem;margin-right:14px}
+.deck{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;padding:14px 0;border-top:1px solid var(--line)}
+.deck:first-of-type{border-top:0}
+.err{background:var(--badbg);color:var(--bad)}
+.deck b{font-family:var(--head);font-size:1.05rem}
+.meta{color:var(--mute);font-size:.9rem}
+.note{padding:10px 12px;border-radius:8px;background:var(--hl);margin:0 0 12px;font-size:.95rem}
+pre{background:var(--bg);padding:12px;border-radius:8px;overflow-x:auto;font-size:13px;line-height:1.45}
+details summary{cursor:pointer;font-family:var(--head);font-weight:500;margin:10px 0}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:10px 0 22px}
+.bar i{display:block;height:100%;background:var(--acc);transition:width .25s}
+.qtxt{font-size:1.3rem;line-height:1.45;margin:0 0 18px;font-weight:600}
+.opt{display:flex;gap:12px;width:100%;text-align:left;font-family:var(--body);font-size:1.05rem;font-weight:400;padding:12px 14px;margin:0 0 10px;border-radius:10px;border:1.5px solid var(--line);background:var(--card)}
+.opt .k{font-family:var(--head);font-weight:700;min-width:1.6em;height:1.6em;border-radius:6px;background:var(--bg);display:inline-flex;align-items:center;justify-content:center;font-size:.85rem;flex:none;margin-top:2px}
+.opt.ok{border-color:var(--ok);background:var(--okbg)}
+.opt.bad{border-color:var(--bad);background:var(--badbg)}
+.opt.dim{opacity:.6}
+.opt:disabled{cursor:default}
+.why{border-left:4px solid var(--acc);padding:4px 0 4px 14px;margin:16px 0}
+.big{font-family:var(--head);font-size:3.4rem;font-weight:700;line-height:1;margin:6px 0}
+.miss{border-top:1px solid var(--line);padding:12px 0}
+.miss p{margin:2px 0}
+.g{color:var(--ok)}.r{color:var(--bad)}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+</head>
+<body>
+<main id="app"></main>
+<script>
+const TITLE='Drillbook';
+const TAGLINE='Pick a set and start practicing.';
+const PROG_KEY='drillbook-progress-v1';
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const shuf=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+let decks=[],view='lib',sess=null,note='',loading=true,S={sq:true,so:false},prog={};
+try{prog=JSON.parse(localStorage.getItem(PROG_KEY))||{}}catch(e){prog={}}
+const saveProg=()=>{try{localStorage.setItem(PROG_KEY,JSON.stringify(prog))}catch(e){}};
+
+/* ---------- parsing ---------- */
+let skipped=0;
+function fromJSON(j){
+  if(!Array.isArray(j))j=j.questions||[];
+  const out=[];
+  j.forEach(x=>{
+    const q=x.question||x.q,o=x.options||x.choices||x.o;
+    if(!q||!Array.isArray(o)||o.length<2){skipped++;return}
+    let a=x.answer??x.correct??x.a,i=-1;
+    if(typeof a==='number')i=a>=o.length?a-1:a;
+    else if(typeof a==='string'){
+      if(/^[A-Za-z]$/.test(a.trim()))i=a.trim().toUpperCase().charCodeAt(0)-65;
+      else i=o.findIndex(t=>String(t).trim().toLowerCase()===a.trim().toLowerCase());
+    }
+    if(i<0||i>=o.length){skipped++;return}
+    out.push({q:String(q),o:o.map(String),a:i,e:x.explanation||x.e||''});
+  });
+  return out;
+}
+function parse(txt){
+  txt=txt.trim();
+  if(txt[0]==='['||txt[0]==='{'){try{return fromJSON(JSON.parse(txt))}catch(e){}}
+  const qs=[];let cur=null,last='';
+  const fin=()=>{if(!cur)return;(cur.o.length>=2&&cur.a>=0&&cur.a<cur.o.length)?qs.push(cur):skipped++;cur=null};
+  for(const raw of txt.split(/\r?\n/)){
+    const l=raw.trim();if(!l)continue;let m;
+    if(m=l.match(/^(?:Q(?:uestion)?\s*\d*|\d+)\s*[:.)]\s*(.+)/i)){fin();cur={q:m[1],o:[],a:-1,e:''};last='q';continue}
+    if(!cur)continue;
+    if(m=l.match(/^(?:answer|ans|correct)\s*(?:answer)?\s*[:\-]\s*\(?([A-Za-z])\b/i)){cur.a=m[1].toUpperCase().charCodeAt(0)-65;last='a';continue}
+    if(m=l.match(/^(?:explanation|why|rationale)\s*[:\-]\s*(.*)/i)){cur.e=m[1];last='e';continue}
+    if(m=l.match(/^(\*?)\s*\(?([A-Ha-h])[.)]\s+(.*)/)){
+      let t=m[3],c=!!m[1];
+      if(/\s*(\*|✓)$/.test(t)){c=true;t=t.replace(/\s*(\*|✓)$/,'')}
+      cur.o.push(t);if(c)cur.a=cur.o.length-1;last='o';continue}
+    if(last==='q')cur.q+=' '+l;
+    else if(last==='o')cur.o[cur.o.length-1]+=' '+l;
+    else if(last==='e')cur.e+=' '+l;
+  }
+  fin();return qs;
+}
+
+/* ---------- loading question files from the repo ---------- */
+async function loadAll(){
+  const fails=[];
+  try{
+    const r=await fetch('questions/index.json',{cache:'no-cache'});
+    if(!r.ok)throw new Error(r.status);
+    const list=await r.json();
+    const got=await Promise.all(list.map(async s=>{
+      try{
+        const t=await fetch('questions/'+encodeURI(s.file),{cache:'no-cache'});
+        if(!t.ok)throw new Error(t.status);
+        skipped=0;const qs=parse(await t.text());
+        if(!qs.length)throw new Error('empty');
+        const p=prog[s.file]||{};
+        return{id:s.file,name:s.name||s.file,qs,missed:(p.missed||[]).filter(i=>i<qs.length),last:p.last}
+      }catch(e){fails.push(s.file);return null}
+    }));
+    decks=got.filter(Boolean);
+  }catch(e){note='Could not load questions/index.json. If you opened this file straight from your computer, run it through a local web server or GitHub Pages instead.'}
+  if(fails.length)note='Could not load: '+fails.join(', ');
+  loading=false;render();
+}
+
+/* ---------- study session ---------- */
+function start(di,only){
+  const d=decks[di];if(!d)return;
+  let idx=d.qs.map((_,i)=>i);
+  if(only)idx=idx.filter(i=>d.missed.includes(i));
+  if(!idx.length)return;
+  if(S.sq)shuf(idx);
+  sess={d:di,items:idx.map(i=>{
+    const q=d.qs[i];let o=q.o.map((t,k)=>({t,c:k===q.a}));if(S.so)shuf(o);
+    return{i,q:q.q,e:q.e,o}}),n:0,sel:null,res:[]};
+  view='quiz';render();
+}
+function pick(k){
+  if(!sess||sess.sel!==null)return;
+  const it=sess.items[sess.n];if(k<0||k>=it.o.length)return;
+  sess.sel=k;sess.res.push({it,ok:it.o[k].c,pick:k});render();
+}
+function next(){
+  if(sess.sel===null)return;
+  sess.n++;sess.sel=null;
+  if(sess.n>=sess.items.length){
+    const d=decks[sess.d];
+    const m=new Set(d.missed);sess.res.forEach(r=>r.ok?m.delete(r.it.i):m.add(r.it.i));
+    d.missed=[...m];d.last={s:sess.res.filter(r=>r.ok).length,t:sess.res.length};
+    prog[d.id]={missed:d.missed,last:d.last};saveProg();
+    view='results';
+  }
+  render();
+}
+function quit(){sess=null;view='lib';render()}
+
+/* ---------- views ---------- */
+function render(){
+  const a=$('#app');
+  a.innerHTML=view==='quiz'?quizHTML():view==='results'?resultsHTML():libHTML();
+  window.scrollTo(0,0);
+}
+function libHTML(){
+  let list;
+  if(loading)list='<p class="meta">Loading questions…</p>';
+  else if(!decks.length)list='<p class="meta">No question sets available yet.</p>';
+  else list=decks.map((d,i)=>`<div class="deck"><div><b>${esc(d.name)}</b><div class="meta">${d.qs.length} questions${d.last?` · last score ${d.last.s}/${d.last.t}`:''}</div></div>
+    <div class="row"><button class="pri" onclick="start(${i},false)">Study</button>
+    ${d.missed.length?`<button onclick="start(${i},true)">Missed (${d.missed.length})</button>`:''}</div></div>`).join('');
+  return `<h1>${esc(TITLE)}</h1><p class="sub">${esc(TAGLINE)}</p>
+  ${note?`<div class="note err" role="status">${esc(note)}</div>`:''}
+  <section class="card"><h2>Question sets</h2>${list}
+    <div class="row" style="margin-top:10px;border-top:1px solid var(--line);padding-top:14px">
+      <label class="chk"><input type="checkbox" ${S.sq?'checked':''} onchange="S.sq=this.checked"> Shuffle questions</label>
+      <label class="chk"><input type="checkbox" ${S.so?'checked':''} onchange="S.so=this.checked"> Shuffle answers</label></div></section>
+  <p class="meta">Your scores and missed questions are saved in this browser only.</p>`;
+}
+function quizHTML(){
+  const it=sess.items[sess.n],done=sess.sel!==null,pct=Math.round(sess.n/sess.items.length*100);
+  const opts=it.o.map((o,k)=>{
+    let c='';if(done){c=o.c?' ok':(k===sess.sel?' bad':' dim')}
+    return `<button class="opt${c}" ${done?'disabled':''} onclick="pick(${k})"><span class="k">${String.fromCharCode(65+k)}</span><span>${esc(o.t)}</span></button>`}).join('');
+  const ok=done&&it.o[sess.sel].c;
+  return `<div class="row"><b class="ui">${esc(decks[sess.d].name)}</b><span class="sp"></span>
+    <span class="meta ui">${sess.n+1} of ${sess.items.length}</span><button onclick="quit()">Quit</button></div>
+    <div class="bar"><i style="width:${pct}%"></i></div>
+    <p class="qtxt">${esc(it.q)}</p>${opts}
+    ${done?`<div class="why" role="status"><b class="ui ${ok?'g':'r'}">${ok?'Correct.':'Not quite.'}</b>${it.e?` ${esc(it.e)}`:''}</div>
+    <button class="pri" onclick="next()">${sess.n+1>=sess.items.length?'See results':'Next question'}</button>`:`<p class="meta">Tip: press A–D on your keyboard to answer, Enter for next.</p>`}`;
+}
+function resultsHTML(){
+  const t=sess.res.length,s=sess.res.filter(r=>r.ok).length,wrong=sess.res.filter(r=>!r.ok);
+  const lines=wrong.map(r=>`<div class="miss"><p><b>${esc(r.it.q)}</b></p>
+    <p class="r">Your answer: ${esc(r.it.o[r.pick].t)}</p><p class="g">Correct: ${esc(r.it.o.find(o=>o.c).t)}</p>
+    ${r.it.e?`<p class="meta">${esc(r.it.e)}</p>`:''}</div>`).join('');
+  return `<h1>Done</h1><div class="big">${s}/${t}</div><p class="sub">${Math.round(s/t*100)}% correct</p>
+  <div class="row" style="margin-bottom:18px"><button class="pri" onclick="start(${sess.d},false)">Study again</button>
+  ${wrong.length?`<button onclick="start(${sess.d},true)">Retry missed (${wrong.length})</button>`:''}
+  <button onclick="quit()">Back to sets</button></div>
+  ${wrong.length?`<section class="card"><h2>Missed questions</h2>${lines}</section>`:`<p>No misses. Nice work.</p>`}`;
+}
+document.addEventListener('keydown',e=>{
+  if(view!=='quiz'||e.metaKey||e.ctrlKey||e.altKey)return;
+  const k=e.key;
+  if(/^[a-hA-H]$/.test(k))pick(k.toUpperCase().charCodeAt(0)-65);
+  else if(/^[1-8]$/.test(k))pick(+k-1);
+  else if((k==='Enter'||k==='ArrowRight')&&sess.sel!==null){e.preventDefault();next()}
+});
+render();loadAll();
+</script>
+</body>
+</html>
