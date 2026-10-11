@@ -1,0 +1,21 @@
+Q: Which organelle is the main site of ATP production in a eukaryotic cell?
+A) Ribosome
+B) Mitochondrion
+C) Golgi apparatus
+D) Lysosome
+Answer: B
+Explanation: Mitochondria carry out oxidative phosphorylation, which produces most of the cell's ATP.
+
+Q: What is the derivative of x^2?
+A) x
+B) 2
+C) 2x
+D) x^2/2
+Answer: C
+Explanation: The power rule gives d/dx x^n = n·x^(n-1), so d/dx x^2 = 2x.
+
+Q: Which of these is a prime number?
+A) 21
+B) 27
+*C) 29
+D) 33
