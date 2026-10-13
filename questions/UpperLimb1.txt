@@ -151,141 +151,6 @@ E) Poor blood supply at this site
 Answer: E
 Explanation: The humerus has a poor blood supply at the junction of its upper one-third and lower two-thirds, so fractures at this site tend to show delayed union or non-union. [Chaurasia]
 
-Q: A 65-year-old woman falls on her outstretched hand and has a 'dinner-fork' deformity of the wrist. Which finding is expected on examination?
-A) The radial styloid lies at the same level as or proximal to the ulnar styloid
-B) The radial styloid lies 2 cm proximal to the ulnar styloid
-C) The scaphoid is displaced anteriorly
-D) The radial styloid lies about 1 cm distal to the ulnar styloid, as normal
-E) The distal radial fragment is displaced anteriorly
-Answer: A
-Explanation: In Colles' fracture (about 2 cm above the lower end of the radius) the distal fragment is displaced upwards and backwards, so the radial styloid comes to lie proximal to the ulnar styloid (normally it lies about 1 cm distal). Anterior displacement is called Smith's fracture. [Chaurasia]
-
-Q: A 3-year-old child cries and refuses to use her arm after her father jerked her by the hand to prevent a fall. What is the most likely mechanism?
-A) Dislocation of the lunate
-B) Supracondylar fracture of the humerus
-C) Rupture of the biceps tendon
-D) Fracture of the olecranon
-E) Subluxation of the radial head out of the annular ligament (pulled elbow)
-Answer: E
-Explanation: A sudden powerful jerk on the hand of a child may dislodge the head of the radius from the grip of the annular ligament - 'pulled elbow'. The head can normally be felt in a hollow behind the lateral epicondyle. [Chaurasia]
-
-Q: Which tendon lies in the groove just medial to the dorsal tubercle of Lister on the lower end of the radius?
-A) Extensor digiti minimi
-B) Extensor pollicis longus
-C) Extensor indicis
-D) Abductor pollicis longus
-E) Extensor carpi radialis longus
-Answer: B
-Explanation: The third (oblique) groove medial to the dorsal tubercle carries the extensor pollicis longus, which hooks around the tubercle. The tubercle itself separates the second compartment (ECRL, ECRB) from the third. [Chaurasia]
-
-Q: Which structures pass through the fourth compartment of the extensor retinaculum?
-A) Extensor carpi ulnaris
-B) Extensor carpi radialis longus and brevis
-C) Abductor pollicis longus and extensor pollicis brevis
-D) Extensor digiti minimi
-E) Extensor digitorum, extensor indicis, and the posterior interosseous nerve
-Answer: E
-Explanation: Compartments from lateral to medial: 1 APL + EPB; 2 ECRL + ECRB; 3 EPL; 4 extensor digitorum + extensor indicis (+ posterior interosseous nerve and anterior interosseous artery); 5 extensor digiti minimi; 6 extensor carpi ulnaris. [Chaurasia]
-
-Q: Which tendons occupy the first dorsal compartment of the wrist, in the groove between the crest-like lower part of the radius' anterior border and the styloid process?
-A) Abductor pollicis longus and extensor pollicis brevis
-B) Extensor pollicis longus and extensor indicis
-C) Extensor carpi radialis longus and brevis
-D) Extensor digitorum and extensor indicis
-E) Extensor carpi ulnaris and extensor digiti minimi
-Answer: A
-Explanation: The first groove carries APL and EPB; these form the anterior (radial) boundary of the anatomical snuffbox. [Chaurasia]
-
-Q: Madelung's deformity is characterised by which of the following?
-A) Fracture of the base of the first metacarpal
-B) Congenital absence of the clavicle
-C) Anterior displacement of the distal radius after a fall
-D) Dorsal subluxation of the lower end of the ulna due to retarded growth of the lower end of the radius
-E) Thickening of the palmar aponeurosis
-Answer: D
-Explanation: Madelung's deformity is dorsal displacement of the lower end of the ulna caused by retarded growth of the radius. [Chaurasia]
-
-Q: Why is cross-union between the radius and ulna after a forearm fracture a serious complication?
-A) It causes wrist drop
-B) It abolishes pronation and supination
-C) It prevents opposition of the thumb
-D) It occludes the interosseous artery only
-E) It abolishes flexion and extension at the elbow
-Answer: B
-Explanation: The ulna stabilises the forearm while the radius rotates around it. Cross-union (synostosis) between the two bones prevents the radius from rotating, losing pronation and supination. [Chaurasia]
-
-Q: A 22-year-old falls onto an outstretched hand and has tenderness in the anatomical snuffbox, but initial radiographs are normal. What is the major long-term risk if the diagnosed fracture is not treated?
-A) Median nerve palsy from lunate dislocation only
-B) Avascular necrosis of the hamate hook
-C) Ulnar nerve palsy
-D) Avascular necrosis of the proximal fragment of the scaphoid
-E) Dislocation of the pisiform
-Answer: D
-Explanation: The scaphoid usually fractures through the waist. Normally it has two nutrient arteries (one entering the palmar surface of the tubercle, one the dorsal surface of the body); in about 13% both enter distally, so a fracture can deprive the proximal half of its blood supply, leading to non-union and avascular necrosis. [Chaurasia]
-
-Q: A man falls on an acutely dorsiflexed hand and later develops tingling in the thumb, index and middle fingers. Which injury best explains this?
-A) Fracture of the hook of the hamate
-B) Anterior dislocation of the lunate
-C) Fracture of the pisiform
-D) Bennett's fracture
-E) Subluxation of the radial head
-Answer: B
-Explanation: A fall on the acutely dorsiflexed hand can displace the lunate anteriorly into the carpal tunnel, producing carpal tunnel syndrome-like features from median nerve compression. [Chaurasia]
-
-Q: With which carpal bone does the pisiform articulate?
-A) Triquetral and hamate
-B) Lunate and triquetral
-C) Triquetral only
-D) Hamate only
-E) Capitate and triquetral
-Answer: C
-Explanation: The pisiform articulates only with the triquetral and is a sesamoid bone in the tendon of flexor carpi ulnaris. [Chaurasia]
-
-Q: Which of the following is attached to the hook of the hamate?
-A) Flexor retinaculum and the origin of flexor digiti minimi and opponens digiti minimi
-B) Insertion of flexor carpi radialis
-C) Insertion of extensor carpi ulnaris
-D) Origin of opponens pollicis
-E) Origin of abductor pollicis brevis
-Answer: A
-Explanation: The tip of the hamate's hook gives attachment to the flexor retinaculum; its medial side gives origin to flexor digiti minimi and opponens digiti minimi. The crest of the trapezium gives origin to the thenar muscles. [Chaurasia]
-
-Q: A 24-year-old boxer presents after punching a wall with pain at the base of the thumb; the thumb is held semiflexed and cannot be opposed. Which injury is most likely?
-A) Colles' fracture
-B) Scaphoid waist fracture
-C) Fracture of the neck of the fifth metacarpal
-D) Bennett's fracture of the base of the first metacarpal
-E) Fracture of the hook of the hamate
-Answer: D
-Explanation: Bennett's fracture involves the anterior part of the base of the first metacarpal, caused by a force along its long axis; the thumb is forced into a semiflexed position and cannot be opposed. [Chaurasia]
-
-Q: Which sesamoid bones are always present in the hand?
-A) One in the tendon of extensor carpi ulnaris
-B) One on the radial side of the fifth metacarpophalangeal joint
-C) One in the capsule of the interphalangeal joint of the thumb
-D) Two on the palmar surface of the head of the first metacarpal
-E) One in the tendon of abductor pollicis longus
-Answer: D
-Explanation: Two sesamoid bones are always found on the palmar aspect of the head of the first metacarpal; the others (interphalangeal joint of the thumb, ulnar side of the fifth MCP joint) occur in about 75% of subjects. The pisiform is often regarded as a sesamoid in FCU. [Chaurasia]
-
-Q: Through which metacarpal does the axis of abduction and adduction of the digits pass?
-A) Fifth metacarpal
-B) Second metacarpal
-C) First metacarpal
-D) Third metacarpal
-E) Fourth metacarpal
-Answer: D
-Explanation: The third metacarpal is the longest, and the axis of abduction and adduction of the fingers passes through the middle finger. The first is the shortest and strongest. [Chaurasia]
-
-Q: A carpenter presents with severe throbbing pain in the pulp of his index fingertip. Which statement about this condition (whitlow) is correct?
-A) A transverse incision across the pulp is preferred
-B) Neglect can cause necrosis of the distal four-fifths of the terminal phalanx while the epiphysis escapes
-C) The infection spreads easily to the thenar space
-D) Necrosis involves the proximal four-fifths of the terminal phalanx
-E) The synovial sheath of the index finger is always involved
-Answer: B
-Explanation: The pulp space is divided into tight compartments by fibrous septa; rising tension may occlude the vessels, causing necrosis of the distal four-fifths of the distal phalanx. The proximal one-fifth (epiphysis) is spared because its artery does not traverse the septa. A lateral incision opens all compartments while sparing the tactile pulp. [Chaurasia]
-
 Q: Which nerves supply the skin below the clavicle down to the level of the second rib?
 A) Supraclavicular nerves (C3, C4)
 B) Anterior cutaneous branches of the 2nd-6th intercostal nerves
@@ -817,15 +682,6 @@ E) Medial cutaneous nerve of the forearm
 Answer: C
 Explanation: The lateral cutaneous nerve of the forearm (continuation of musculocutaneous, C5, C6) accompanies the cephalic vein; the medial cutaneous nerve of the forearm accompanies the basilic vein. [Chaurasia]
 
-Q: Infection of the medial side of the forearm and hand first causes enlargement of which lymph nodes?
-A) Infraclavicular nodes
-B) Pectoral nodes
-C) Posterior axillary nodes
-D) Deltopectoral node
-E) Supratrochlear (superficial cubital) nodes
-Answer: E
-Explanation: The supratrochlear nodes lie just above the medial epicondyle along the basilic vein and drain the medial hand and forearm before the lateral axillary nodes. The deltopectoral node lies along the cephalic vein. [Chaurasia]
-
 Q: A 20-year-old develops weakness of elbow flexion and supination with loss of sensation over the lateral forearm after a gunshot wound near the coracoid process. Which nerve is injured?
 A) Axillary nerve
 B) Median nerve
@@ -934,222 +790,6 @@ E) Median nerve at the wrist
 Answer: A
 Explanation: Pressure in the axilla (crutch palsy) injures the radial nerve before it gives branches to the triceps, so both elbow extension and wrist extension are weak; lesions in the radial groove spare the triceps. [Chaurasia]
 
-Q: From lateral to medial, what is the order of tendons at the front of the wrist?
-A) Flexor carpi radialis, palmaris longus, flexor carpi ulnaris
-B) Flexor carpi radialis, flexor carpi ulnaris, palmaris longus
-C) Palmaris longus, flexor carpi ulnaris, flexor carpi radialis
-D) Palmaris longus, flexor carpi radialis, flexor carpi ulnaris
-E) Flexor carpi ulnaris, palmaris longus, flexor carpi radialis
-Answer: A
-Explanation: The median nerve lies at the lateral edge of the palmaris longus tendon at the wrist, deep to it; the radial pulse is felt lateral to the FCR tendon and the ulnar artery lateral to the FCU tendon. [Chaurasia]
-
-Q: The median nerve and ulnar artery pass deep to the fibrous arch joining the two heads of which muscle?
-A) Flexor digitorum profundus
-B) Flexor carpi ulnaris
-C) Pronator teres
-D) Supinator
-E) Flexor digitorum superficialis
-Answer: E
-Explanation: The median nerve leaves the cubital fossa between the two heads of pronator teres and then passes beneath the fibrous arch of FDS, running on FDP. [Chaurasia]
-
-Q: Which statement about the flexor digitorum profundus is correct?
-A) It is supplied only by the ulnar nerve
-B) It inserts into the middle phalanx
-C) The medial half is supplied by the ulnar nerve and the lateral half (index and middle) by the anterior interosseous branch of the median nerve
-D) It is supplied only by the median nerve
-E) It flexes the middle phalanx only
-Answer: C
-Explanation: FDP is the chief gripping muscle; its tendons perforate those of FDS and insert on the palmar surface of the base of the distal phalanx. Dual supply means it is partly spared in isolated nerve injuries. [Chaurasia]
-
-Q: After a supracondylar fracture, a child cannot flex the terminal phalanx of the thumb and index finger when making an 'OK' pinch. Which nerve branch is injured?
-A) Palmar cutaneous branch of median nerve
-B) Superficial branch of radial nerve
-C) Posterior interosseous nerve
-D) Anterior interosseous nerve
-E) Deep branch of ulnar nerve
-Answer: D
-Explanation: The anterior interosseous nerve (branch of median) supplies flexor pollicis longus, the lateral half of flexor digitorum profundus and pronator quadratus; loss gives an inability to flex the distal phalanges of the thumb and index. [Chaurasia]
-
-Q: What is the main action of the pronator quadratus?
-A) Abduction of the thumb
-B) Pronation of the forearm, with deep fibres binding the lower ends of radius and ulna
-C) Supination of the forearm
-D) Extension of the elbow
-E) Flexion of the wrist
-Answer: B
-Explanation: Pronator quadratus (anterior interosseous nerve) is the chief pronator; pronator teres assists when pronation is rapid or against resistance. [Chaurasia]
-
-Q: Where is the radial pulse best felt, and why?
-A) At the pisiform bone
-B) Between the heads of the first dorsal interosseous
-C) At the lower end of the radius, lateral to the flexor carpi radialis tendon, where the artery lies on the flat radius and pronator quadratus
-D) In the cubital fossa lateral to the biceps tendon
-E) At the wrist medial to the flexor carpi ulnaris tendon
-Answer: C
-Explanation: The radial artery is superficial here and is compressed against the radius, giving easily palpable pulsations. The ulnar pulse is felt lateral to the FCU tendon. [Chaurasia]
-
-Q: A 45-year-old typist complains of nocturnal pain and tingling in the lateral three and a half digits. The skin over the thenar eminence is normal. Why is the thenar skin spared?
-A) The palmar cutaneous branch passes through the carpal tunnel
-B) The recurrent branch supplies the thenar skin
-C) The palmar cutaneous branch of the median nerve arises above and passes superficial to the flexor retinaculum
-D) The thenar skin is supplied by the radial nerve
-E) The thenar skin is supplied by the ulnar nerve
-Answer: C
-Explanation: In carpal tunnel syndrome the median nerve is compressed beneath the flexor retinaculum; the palmar cutaneous branch arises a short distance above the retinaculum and lies superficial to it, so sensation over the thenar eminence is preserved. Phalen's test (acute wrist flexion) reproduces the symptoms. [Chaurasia]
-
-Q: Which structure does NOT pass deep to the flexor retinaculum through the carpal tunnel?
-A) Ulnar nerve
-B) Flexor digitorum profundus tendons
-C) Flexor digitorum superficialis tendons
-D) Median nerve
-E) Flexor pollicis longus tendon
-Answer: A
-Explanation: The ulnar nerve and artery, palmar cutaneous branches of median and ulnar nerves, and the palmaris longus tendon pass superficial to the retinaculum. Tendon of FCR runs in a separate compartment of the retinaculum. [Chaurasia]
-
-Q: The flexor retinaculum is attached medially and laterally to which bony points?
-A) Pisiform and hook of the hamate medially; tubercle of the scaphoid and crest of the trapezium laterally
-B) Pisiform and capitate medially; trapezium and lunate laterally
-C) Triquetral and hamate medially; scaphoid and trapezoid laterally
-D) Hook of the hamate and capitate medially; scaphoid and lunate laterally
-E) Pisiform and triquetral medially; trapezoid and capitate laterally
-Answer: A
-Explanation: These four 'pillars' of the carpus anchor the flexor retinaculum, converting the carpal groove into the carpal tunnel. [Chaurasia]
-
-Q: A man with a long-standing ulnar nerve lesion at the elbow has less marked clawing than a man with an ulnar lesion at the wrist. Why?
-A) The radial nerve supplies the interossei
-B) The flexor carpi radialis compensates
-C) The lesion at the elbow spares the interossei
-D) In the elbow lesion the medial half of flexor digitorum profundus is paralysed, so the flexion of the terminal phalanges is lost
-E) The median nerve supplies the medial two lumbricals
-Answer: D
-Explanation: Ulnar claw hand is more obvious in wrist lesions because FDP (medial half) is spared and flexes the terminal phalanges strongly. In elbow lesions FCU and the medial half of FDP are paralysed. [Chaurasia]
-
-Q: A patient asked to grip a book between his thumb and index finger flexes the distal phalanx of the thumb. Which muscle is paralysed and what compensates?
-A) Flexor pollicis longus; adductor pollicis
-B) Adductor pollicis; flexor pollicis longus
-C) Abductor pollicis brevis; extensor pollicis longus
-D) Opponens pollicis; flexor pollicis brevis
-E) Adductor pollicis; abductor pollicis longus
-Answer: B
-Explanation: Froment's sign: paralysed adductor pollicis (deep branch of ulnar nerve) is substituted by flexor pollicis longus (anterior interosseous nerve), producing flexion at the thumb's interphalangeal joint. [Chaurasia]
-
-Q: Which group of muscles in the hand are all supplied by the median nerve?
-A) Abductor pollicis brevis, adductor pollicis and the 3rd and 4th lumbricals
-B) Adductor pollicis, opponens pollicis and the first two lumbricals
-C) Opponens pollicis, palmaris brevis and the interossei
-D) Flexor pollicis brevis, flexor digiti minimi and first two lumbricals
-E) Abductor pollicis brevis, flexor pollicis brevis, opponens pollicis and the first two lumbricals
-Answer: E
-Explanation: The median nerve supplies five muscles in the hand (APB, FPB, opponens pollicis, 1st and 2nd lumbricals). Everything else, including adductor pollicis, the hypothenar muscles, interossei and the medial two lumbricals, is supplied by the deep branch of the ulnar nerve. [Chaurasia]
-
-Q: A man cuts his wrist on glass and cannot touch the tip of his thumb to a pen held above the palm. Which muscle is paralysed?
-A) Extensor pollicis brevis
-B) Opponens digiti minimi
-C) First dorsal interosseous
-D) Abductor pollicis brevis
-E) Adductor pollicis
-Answer: D
-Explanation: The pen test checks abductor pollicis brevis (median nerve, recurrent branch); loss with loss of opposition produces an ape-like hand. [Chaurasia]
-
-Q: Which of the following is correct about the lumbrical muscles?
-A) They arise from the metacarpals and extend the MCP joints
-B) They arise from the tendons of flexor digitorum profundus and flex the MCP joints while extending the interphalangeal joints
-C) They are inserted into the base of the proximal phalanx
-D) All four are supplied by the median nerve
-E) They arise from flexor digitorum superficialis tendons
-Answer: B
-Explanation: The first and second lumbricals are supplied by the median nerve, the third and fourth by the deep branch of the ulnar nerve. [Chaurasia]
-
-Q: In the hand, which statement about the interossei is correct?
-A) Both groups extend the MCP joints
-B) Dorsal interossei abduct the fingers from the axis of the middle finger and palmar interossei adduct them towards it
-C) Dorsal interossei adduct; palmar interossei abduct
-D) The thumb and little finger need dorsal interossei for abduction
-E) There are four dorsal and three palmar interossei and they are supplied by the median nerve
-Answer: B
-Explanation: 'DAB and PAD': Dorsal ABduct, Palmar ADduct. The first and fifth digits have their own abductors, so no dorsal interossei are needed. Both groups flex the MCP and extend the IP joints; ulnar nerve (deep branch). [Chaurasia]
-
-Q: Which spaces are drained through an incision in the first web space (posteriorly) and the third or fourth web space, respectively?
-A) Pulp space; space of Parona
-B) Space of Parona; thenar space
-C) Dorsal subcutaneous space; midpalmar space
-D) Thenar space; midpalmar space
-E) Midpalmar space; thenar space
-Answer: D
-Explanation: The thenar space lies under the outer half of the palm and contains the tendon of the index finger; the midpalmar space contains the flexor tendons of the 3rd-5th digits. [Chaurasia]
-
-Q: Infection of the little finger flexor tendon sheath can spread to the palm and forearm because:
-A) The digital sheath of the little finger is continuous with the ulnar bursa
-B) It is continuous with the space of Parona directly through the pronator quadratus
-C) It is continuous with the radial bursa
-D) It ends at the metacarpal head
-E) It is separate from the other sheaths
-Answer: A
-Explanation: The sheaths of the index, middle and ring fingers are independent, while the thumb's sheath continues with the radial bursa and the little finger's with the ulnar bursa. Spread of infection gives a 'horseshoe/hourglass' abscess and may reach the space of Parona. [Chaurasia]
-
-Q: A 55-year-old man cannot fully straighten his ring finger. There is a thickened band in the palm. Which structure is affected?
-A) Transverse carpal ligament only
-B) Flexor digitorum profundus
-C) Flexor retinaculum
-D) Extensor expansion
-E) Palmar aponeurosis
-Answer: E
-Explanation: Dupuytren's contracture is thickening and contraction of the palmar aponeurosis, usually on its ulnar side; the ring finger is most commonly affected and the terminal phalanx remains unaffected. [Chaurasia]
-
-Q: Where does the superficial palmar arch reach distally?
-A) At the base of the fifth metacarpal
-B) At the level of the distal border of the fully extended thumb
-C) At the level of the heads of the metacarpals
-D) At the proximal interphalangeal joints
-E) At the level of the distal wrist crease
-Answer: B
-Explanation: The superficial arch is the direct continuation of the ulnar artery (completed laterally by the superficial palmar branch of the radial artery), lying deep to the palmar aponeurosis and superficial to the long flexor tendons. [Chaurasia]
-
-Q: The deep palmar arch is formed chiefly by which artery?
-A) Princeps pollicis artery
-B) Common palmar digital arteries
-C) Radial artery, completed by the deep branch of the ulnar artery
-D) Anterior interosseous artery
-E) Ulnar artery, completed by the superficial palmar branch of the radial
-Answer: C
-Explanation: The radial artery passes between the two heads of the first dorsal interosseous and then between the two heads of adductor pollicis to form the deep arch, which gives palmar metacarpal arteries and a recurrent branch. [Chaurasia]
-
-Q: Which artery arises from the radial artery in the palm and supplies the thumb?
-A) First dorsal metacarpal artery
-B) Palmar carpal artery
-C) Common digital artery
-D) Radialis indicis artery
-E) Princeps pollicis artery
-Answer: E
-Explanation: Princeps pollicis divides at the base of the proximal phalanx into two branches for the thumb; radialis indicis supplies the lateral side of the index finger. [Chaurasia]
-
-Q: Which of the following forms the floor of the anatomical snuffbox?
-A) Lunate and triquetral
-B) Lower end of radius and ulna
-C) Trapezoid and scaphoid
-D) Capitate and hamate
-E) Scaphoid, trapezium and the base of the first metacarpal
-Answer: E
-Explanation: The snuffbox is bounded anteriorly by the tendons of APL and EPB and posteriorly by EPL. The radial artery lies deep (crossing the floor), whereas the cephalic vein and superficial branch of the radial nerve are superficial. [Chaurasia]
-
-Q: Which sensory area is lost after injury to the superficial terminal branch of the radial nerve?
-A) The tips of the index and middle finger on the dorsum
-B) A small area on the lateral half of the dorsum of the hand and proximal dorsal surface of the thumb and index finger
-C) The whole of the palm
-D) The medial one-and-a-half fingers
-E) The thenar eminence
-Answer: B
-Explanation: The superficial branch is purely cutaneous; the skin on the dorsum of the distal phalanges is supplied by the median nerve, which is why sensory loss is small due to overlap. [Chaurasia]
-
-Q: The posterior interosseous nerve passes through which muscle to reach the back of the forearm?
-A) Brachioradialis
-B) Flexor carpi ulnaris
-C) Supinator
-D) Anconeus
-E) Pronator teres
-Answer: C
-Explanation: The deep terminal branch of the radial nerve passes between the two planes of fibres of supinator and ends in a pseudoganglion on the floor of the fourth extensor compartment. [Chaurasia]
-
 Q: A tennis player has pain over the lateral epicondyle that worsens with resisted wrist extension. Which structure is involved?
 A) Olecranon bursa
 B) Common extensor origin
@@ -1213,42 +853,6 @@ E) Axillary nerve (C5, C6) supplying the diaphragm
 Answer: B
 Explanation: Irritation of the peritoneum underlying the diaphragm refers pain to the shoulder because the phrenic nerve and the supraclavicular nerves share the same spinal segments (C3, C4). [Chaurasia]
 
-Q: The annular ligament of the superior radioulnar joint forms how much of the fibro-osseous ring around the radial head?
-A) One-half
-B) One-fifth
-C) Four-fifths
-D) One-third
-E) All of it
-Answer: C
-Explanation: The annular ligament attaches to the anterior and posterior margins of the radial notch of the ulna and encloses four-fifths of the ring; the quadrate ligament passes from the neck of the radius to the ulna. [Chaurasia]
-
-Q: Why is supination more powerful than pronation?
-A) Because pronator teres has a longer lever arm
-B) Because it is an anti-gravity movement, performed by supinator and biceps brachii
-C) Because it is performed by the brachioradialis only
-D) Because pronator quadratus is more powerful than supinator
-E) Because the interosseous membrane tightens
-Answer: B
-Explanation: Supination is responsible for screwing movements. Pronation is brought about chiefly by pronator quadratus, aided by pronator teres when rapid or against resistance. [Chaurasia]
-
-Q: At which joint does most of the wrist flexion occur?
-A) First carpometacarpal joint
-B) Intermetacarpal joint
-C) Distal radioulnar joint
-D) Radiocarpal joint
-E) Midcarpal joint
-Answer: E
-Explanation: Flexion takes place more at the midcarpal than the radiocarpal joint, whereas extension takes place mainly at the wrist (radiocarpal) joint. [Chaurasia]
-
-Q: The first carpometacarpal joint is of which type, and why is it unique among carpometacarpal joints?
-A) Saddle joint; it has a separate joint cavity
-B) Ball-and-socket joint; it has a separate cavity
-C) Plane joint; it has a separate cavity
-D) Saddle joint; it shares the intercarpal cavity
-E) Hinge joint; it is continuous with the midcarpal joint
-Answer: A
-Explanation: The first CMC joint permits flexion, extension, abduction, adduction, circumduction and opposition, which is unique to humans. Opponens pollicis is the main muscle of opposition. [Chaurasia]
-
 Q: A 64-year-old woman falls down stairs. Her left shoulder has lost its rounded contour with swelling below the clavicle. She has sensory loss over the lower lateral arm, posterior forearm and lateral dorsum of the hand. Which diagnosis best explains the findings?
 A) Fracture of the clavicle with suprascapular nerve injury
 B) Supracondylar fracture with median nerve injury
@@ -1302,96 +906,6 @@ D) It is pulled proximally by biceps and triceps
 E) It is adducted by pectoralis major
 Answer: B
 Explanation: When the fracture is proximal to the deltoid insertion, pectoralis major, latissimus dorsi and teres major adduct the proximal fragment and the deltoid pulls the distal fragment proximally and laterally. When it is distal to the insertion, the deltoid abducts the proximal fragment while biceps and triceps pull the distal fragment proximally. [Snell]
-
-Q: A 7-year-old girl is in a tight plaster cast after a supracondylar fracture. She has severe pain on passive finger extension and the nail beds are pale. What is the next appropriate step?
-A) Remove the median nerve
-B) Urgent fasciotomy / decompression of the compartment, because a delay of a few hours can cause permanent damage
-C) Elevate the limb and observe for 48 hours
-D) Tighten the cast to reduce swelling
-E) Give analgesics and review after one week
-Answer: B
-Explanation: Early signs of forearm compartment syndrome include pain out of proportion, pain on passive stretching and absent capillary refill; the deep fascia must be incised promptly. Untreated, it leads to Volkmann's ischaemic contracture, in which the long flexors are affected more than the extensors. [Snell]
-
-Q: In Volkmann's ischaemic contracture the typical posture of the hand is:
-A) Wrist flexed and fingers extended; passive extension of the wrist flexes the fingers
-B) Wrist drop with fingers hyperextended
-C) Wrist extended with hyperextended MCP joints and flexed IP joints
-D) Wrist extended and fingers flexed
-E) Wrist flexed and fingers flexed regardless of wrist position
-Answer: A
-Explanation: Contracture of the flexor muscles (larger than the extensors) causes wrist flexion; the finger flexors are shortened so that passive extension of the wrist produces finger flexion. [Snell]
-
-Q: A fall on the outstretched hand leaves a patient with a fracture of the ulnar shaft and anterior dislocation of the radial head with rupture of the annular ligament. What is this injury called?
-A) Galeazzi fracture-dislocation
-B) Colles' fracture
-C) Monteggia fracture-dislocation
-D) Smith's fracture
-E) Bennett's fracture
-Answer: C
-Explanation: Monteggia: ulnar shaft fracture plus radial head dislocation. Galeazzi: fracture of the radial shaft with dislocation of the distal radioulnar joint (ulnar head). [Snell]
-
-Q: Fracture of the radial shaft in its distal part accompanied by dislocation of the distal radioulnar joint is known as:
-A) Galeazzi fracture
-B) Boxer's fracture
-C) Colles' fracture
-D) Monteggia fracture
-E) Barton's fracture
-Answer: A
-Explanation: Snell describes Galeazzi's fracture as a radius fracture with dislocation of the distal end of the ulna at the distal radioulnar joint; Monteggia's is the ulna shaft fracture with radial head dislocation. [Snell]
-
-Q: Colles' fracture most commonly occurs in which patient group and with what mechanism?
-A) Patients over 50 years; fall on the back of the hand with anterior displacement
-B) Young athletes; hyperabduction of the thumb
-C) Adults 20-30 years; fall on the point of the elbow
-D) Patients over 50 years of age; fall on the outstretched hand with posterior and superior displacement of the distal fragment
-E) Children under 5; fall on the back of the hand
-Answer: D
-Explanation: In Colles' fracture the distal articular surface is tilted posteriorly, causing the 'dinner-fork' deformity; failure to restore it limits wrist flexion. Smith's fracture is the reversed Colles', following a fall on the back of the hand. [Snell]
-
-Q: Which carpal bone is the largest and is most lateral in the proximal row?
-A) Capitate
-B) Scaphoid
-C) Trapezium
-D) Hamate
-E) Lunate
-Answer: B
-Explanation: The scaphoid is the largest, most lateral carpal bone of the proximal row, lies in the floor of the anatomical snuffbox, and is commonly fractured with wrist hyperextension and abduction. The capitate is the largest carpal bone overall. [Snell]
-
-Q: A force from a punching blow with the fist is transmitted through which sequence of bones?
-A) Fifth metacarpal, hamate, triquetral, ulna
-B) First metacarpal, trapezium, scaphoid, radius
-C) Second metacarpal, trapezoid, scaphoid, ulna
-D) Third metacarpal, capitate, lunate, radius
-E) Fourth metacarpal, hamate, lunate, ulna
-Answer: D
-Explanation: Forces generated in the hand pass through the third metacarpal to the capitate, proximally through the lunate to the radius. [Snell]
-
-Q: A teenager punches a wall and has an oblique fracture of the neck of the fifth metacarpal. What is the usual displacement?
-A) Dislocation of the carpometacarpal joint of the thumb
-B) Dorsal angulation, with the distal fragment displaced proximally
-C) No displacement
-D) Radial displacement of the shaft
-E) Palmar angulation with distal fragment displaced distally
-Answer: B
-Explanation: Boxer's fracture commonly involves the necks of the fifth and sometimes fourth metacarpals; the fracture always angulates dorsally and shortens the finger posteriorly. [Snell]
-
-Q: Which structure is the 'only muscle of opposition' of the thumb, according to Snell?
-A) Adductor pollicis
-B) Opponens pollicis
-C) Abductor pollicis brevis
-D) Flexor pollicis longus
-E) Extensor pollicis brevis
-Answer: B
-Explanation: Opponens pollicis flexes and slightly abducts and medially rotates the first metacarpal at the first CMC joint, producing opposition for the pincer grip. Adductor pollicis with FPL and opponens contributes to the power of the grip. [Snell]
-
-Q: Which muscle is the only one capable of rotating the fifth metacarpal slightly and cupping the palm?
-A) Abductor digiti minimi
-B) Palmaris brevis
-C) Flexor digiti minimi brevis
-D) Opponens digiti minimi
-E) Fourth palmar interosseous
-Answer: D
-Explanation: Opponens digiti minimi rotates the fifth metacarpal, mainly assisting flexor digiti minimi in flexing the CMC joint of the little finger and cupping the palm. [Snell]
 
 Q: The base of the breast extends from which ribs, and approximately what percentage of breast carcinomas occur in the upper lateral quadrant?
 A) Fourth to seventh rib; approximately 90%
@@ -1501,69 +1015,6 @@ E) Student's elbow
 Answer: A
 Explanation: Partial tearing or degeneration of the origin of the superficial extensor muscles from the lateral epicondyle causes tennis elbow; common in tennis players and violinists. [Snell]
 
-Q: A woman with repeated thumb movements develops radial wrist pain over the styloid process which worsens on thumb movement, with thickening of the tendon sheath. Which tendons are involved?
-A) Extensor digitorum and extensor indicis
-B) Flexor carpi radialis and palmaris longus
-C) Abductor pollicis longus and extensor pollicis brevis
-D) Extensor carpi radialis longus and brevis
-E) Extensor pollicis longus and extensor indicis
-Answer: C
-Explanation: Repeated friction between APL/EPB tendons and the styloid process of the radius can cause oedema and stenosing tenosynovitis; surgical incision along the sheath may be needed. [Snell]
-
-Q: After a distal radius fracture, a patient suddenly cannot extend the interphalangeal joint of his thumb. Which tendon has ruptured and why?
-A) Extensor indicis due to friction on the ulnar styloid
-B) Extensor pollicis longus, due to friction on the roughened dorsal tubercle of the radius
-C) Extensor pollicis brevis due to friction on the radial styloid
-D) Abductor pollicis longus due to friction on the scaphoid
-E) Flexor pollicis longus due to compression in the carpal tunnel
-Answer: B
-Explanation: EPL winds around the dorsal tubercle (Lister's tubercle); roughening by the fracture line can cause tendon rupture. [Snell]
-
-Q: A gardener has a puncture wound at the base of his little finger. A day later the finger is swollen and held semiflexed, with extreme pain on extension. Which infection is likely and what is the risk?
-A) Thenar space abscess; spread through the first web
-B) Midpalmar space abscess only
-C) Flexor tenosynovitis; the infection may spread via the ulnar bursa to the palm and space of Parona
-D) Dupuytren's contracture; spread via palmar aponeurosis
-E) Whitlow; spread to the radial bursa
-Answer: C
-Explanation: Digital sheath infection causes distension of the sheath and may compromise the blood supply through the vincula, leading to tendon necrosis. Infection of the little finger and thumb sheaths quickly involves the ulnar and radial bursae; pus can burst into the space of Parona in the forearm (between FDP and pronator quadratus). [Snell]
-
-Q: Which digital synovial sheath is related to the thenar space and which to the midpalmar space?
-A) Index finger - both; ring finger - thenar; middle finger - midpalmar
-B) Index finger - midpalmar space; ring finger - thenar space; middle finger - neither
-C) Index finger - thenar space; ring finger - midpalmar space; middle finger - both
-D) Thumb - midpalmar space; little finger - thenar space; ring finger - both
-E) Index and middle finger - midpalmar; ring and little finger - thenar
-Answer: C
-Explanation: These relationships explain how infection of digital sheaths can extend into the deep fascial spaces of the palm. [Snell]
-
-Q: What is the 'buttonhole' effect at the flexor tendons of a finger?
-A) The flexor digitorum profundus tendon passes through the split tendon of the flexor digitorum superficialis
-B) The FDS tendon passes through the FDP tendon
-C) The extensor tendon splits around the proximal phalanx
-D) The lumbrical tendon passes through the interosseous tendon
-E) The flexor pollicis longus passes through the flexor retinaculum
-Answer: A
-Explanation: FDS divides into two half tendons that pass around FDP, reunite and insert onto the middle phalanx; FDP then continues through the split to insert on the distal phalanx base. [Snell]
-
-Q: A patient has a painful snapping of a finger when flexing it; a nodule on the tendon catches at the proximal edge of the sheath near the metacarpophalangeal joint. What is the best anatomical description?
-A) Trigger finger: swelling of a flexor tendon catching on a narrowing of the fibrous flexor sheath
-B) Dupuytren's contracture: contracture of the palmar aponeurosis
-C) Whitlow: pulp space infection
-D) Mallet finger: avulsion of the extensor tendon from the distal phalanx
-E) Boutonniere deformity: rupture of the central slip
-Answer: A
-Explanation: Trigger finger is relieved surgically by incising the fibrous flexor sheath; a similar condition in the thumb is trigger thumb. [Snell]
-
-Q: A basketball player's finger is forcibly flexed while the extensor tendon is taut and he cannot fully extend the distal interphalangeal joint (last 20 degrees lost). What is the diagnosis?
-A) Boutonniere deformity
-B) Mallet (baseball) finger
-C) Claw hand
-D) Trigger finger
-E) Dupuytren's contracture
-Answer: B
-Explanation: Mallet finger is avulsion of the extensor expansion insertion on the distal phalanx. In boutonniere deformity, the central slip insertion into the middle phalanx is avulsed, giving flexion of the PIP joint and hyperextension of the DIP joint. [Snell]
-
 Q: Which cranial nerve is the only one that supplies the upper limb?
 A) Vagus nerve
 B) Hypoglossal nerve
@@ -1609,60 +1060,6 @@ E) Brachialis is completely paralysed and elbow flexion is impossible
 Answer: D
 Explanation: The remainder of brachialis and other flexors still flex the forearm; sensory loss is along the lateral forearm (lateral cutaneous nerve of forearm). [Snell]
 
-Q: A 25-year-old man falls through a glass window and lacerates his wrist. He cannot oppose his thumb, and the thenar eminence is flattened. Where does the median nerve lie at the site of such a laceration?
-A) Between flexor carpi ulnaris and flexor digitorum profundus
-B) Between the tendons of flexor carpi radialis and flexor digitorum superficialis, overlapped by palmaris longus
-C) Between the tendons of abductor pollicis longus and extensor pollicis brevis
-D) Deep to the flexor digitorum profundus tendons and lateral to the radial artery
-E) Medial to the pisiform bone
-Answer: B
-Explanation: Penetrating wounds just proximal to the flexor retinaculum commonly injure the median nerve. The hand shows an 'ape hand' deformity with loss of opposition and the 1st and 2nd lumbricals, so index and middle fingers lag in making a fist; the skin is warm, dry and scaly. [Snell]
-
-Q: In a median nerve lesion at the elbow, which finding is characteristic?
-A) Hyperextension of the MCP joints of the ring and little finger
-B) Strong wrist flexion with radial deviation
-C) Complete loss of wrist flexion
-D) Weak wrist flexion with ulnar deviation, and index and middle fingers remain straight when making a fist
-E) Flexion of the thumb IP joint is preserved
-Answer: D
-Explanation: Paralysis of the pronators and long flexors (except FCU and medial half of FDP) leaves the forearm supine, wrist flexion weak with ulnar deviation because FCR is paralysed; flexion at the IP joints of the index and middle fingers is impossible. [Snell]
-
-Q: What is the recommended treatment for severe carpal tunnel syndrome?
-A) Excision of the median nerve
-B) Decompression by a longitudinal incision through the flexor retinaculum
-C) Release of the palmar aponeurosis
-D) Transverse division of the extensor retinaculum
-E) Excision of the pisiform
-Answer: B
-Explanation: Carpal tunnel syndrome produces burning pain or paraesthesia in the lateral three and a half fingers and thenar muscle weakness with sparing of the thenar eminence skin. Decompression is done by incising the flexor retinaculum longitudinally. [Snell]
-
-Q: In which structure may the ulnar nerve and artery be compressed at the wrist as they pass superficial to the flexor retinaculum?
-A) Radial tunnel
-B) Cubital tunnel
-C) Tunnel of Guyon
-D) Anatomical snuffbox
-E) Carpal tunnel
-Answer: C
-Explanation: The tunnel of Guyon is a fibro-osseous tunnel created by fibrous tissue from the superficial part of the flexor retinaculum, where the ulnar nerve lies medial to the ulnar artery. [Snell]
-
-Q: A patient has an ulnar nerve laceration at the wrist. The dorsum of the medial hand sensation is intact. Why?
-A) The median nerve supplies the medial dorsum
-B) The palmar branch supplies the dorsum
-C) The posterior (dorsal) cutaneous branch arises about 6 cm above the pisiform and is unaffected
-D) The dorsal branch comes from the radial nerve
-E) The deep branch carries all the sensation
-Answer: C
-Explanation: In wrist injuries the main ulnar nerve and palmar cutaneous branch are severed but the posterior cutaneous branch (arising about 2.5 in above the pisiform) is spared; sensory loss is confined to the palmar medial third of the hand and the medial one and a half fingers with the dorsum of the middle and distal phalanges. [Snell]
-
-Q: Why is the clawing of the 4th and 5th fingers more pronounced than that of the 2nd and 3rd in an ulnar nerve lesion?
-A) The median nerve supplies the 4th and 5th interossei
-B) The first and second lumbricals are supplied by the median nerve and are not paralysed
-C) The radial nerve supplies the 4th and 5th lumbricals
-D) The flexor digitorum superficialis is paralysed
-E) The first and second lumbricals are paralysed
-Answer: B
-Explanation: Ulnar claw hand shows hyperextension at the MCP joints and flexion at the IP joints, most prominent in the ring and little fingers; hollowing between metacarpals occurs due to dorsal interossei wasting; claw is worse in wrist lesions because FDP is spared. [Snell]
-
 Q: After an anterior shoulder dislocation, a patient has paralysis of the deltoid but can still start abduction. Which muscle accounts for the remaining abduction?
 A) Pectoralis major
 B) Infraspinatus
@@ -1681,15 +1078,6 @@ E) In the distal radial groove, distal to the origin of the triceps and cutaneou
 Answer: E
 Explanation: In the distal groove the nerve has already given off the branches to the triceps and anconeus and the cutaneous nerves; the patient can extend the shoulder and elbow but not the wrist and fingers. In axillary lesions, triceps and posterior arm sensation are also lost. [Snell]
 
-Q: Which feature distinguishes a lesion of the deep branch of the radial nerve (posterior interosseous nerve) from a lesion of the radial nerve in the groove?
-A) Complete wrist drop with sensory loss
-B) Loss of sensation over the lateral dorsum of the hand
-C) Loss of elbow extension
-D) Paralysis of brachioradialis and supination
-E) The extensor carpi radialis longus is spared so wrist extension is preserved (with radial deviation), and there is no cutaneous loss
-Answer: E
-Explanation: The deep branch is purely motor. Because ECRL and supinator are supplied before the division, wrist extension is maintained by the powerful ECRL, though the patient cannot extend the fingers (finger drop). Superficial branch lesions give only a small area of anaesthesia. [Snell]
-
 Q: A person falls asleep with his arm draped over the back of a chair and wakes with weakness of wrist extension. Which nerve is compressed?
 A) Musculocutaneous nerve
 B) Axillary nerve
@@ -1699,15 +1087,6 @@ E) Radial nerve
 Answer: E
 Explanation: The radial nerve can be injured by pressure in the axilla (crutch, back of a chair), in the radial groove (operating table, tourniquet), producing wrist drop. [Snell]
 
-Q: In the dermatome map of the upper limb, which segment is located on the middle finger?
-A) C6
-B) T1
-C) C5
-D) C8
-E) C7
-Answer: E
-Explanation: Dermatomes C3-C6 lie along the lateral margin of the limb, C7 on the middle finger, and C8, T1, T2 along the medial margin. [Snell]
-
 Q: The first part of the axillary artery extends from the lateral border of the first rib to which landmark?
 A) Coracoid process
 B) Surgical neck of humerus
@@ -1716,15 +1095,6 @@ D) Lower border of pectoralis minor
 E) Upper border of pectoralis minor
 Answer: E
 Explanation: The axillary artery typically has six branches (one from the first part, two from the second and three from the third). The third part can be felt in the axilla in front of teres major; the subclavian artery can be compressed against the first rib. [Snell]
-
-Q: A surgeon wants to test the patency of the ulnar artery before using the radial artery as a graft. Which test is used?
-A) Phalen's test
-B) Froment's test
-C) Tinel's test
-D) Allen's test: compress both radial and ulnar arteries, have the patient clench the fist, then release the ulnar artery and watch for return of colour to the hand
-E) Adson's test
-Answer: D
-Explanation: In Snell's description, the radial arteries are compressed against the radius, the patient clenches the hands to blanch the palms, and on opening the hands the skin turns pink if the ulnar arteries are patent; the converse tests the radial arteries. [Snell]
 
 Q: Which vein often communicates with the external jugular vein across the clavicle in the deltopectoral triangle?
 A) Brachial vein
@@ -1771,24 +1141,6 @@ E) The medial epicondyle lies lateral to the radial head
 Answer: B
 Explanation: In extension, the three points lie in a straight line; in flexion they form an equilateral triangle. Posterior dislocation usually follows a fall on the outstretched hand; the ulnar nerve can be injured at the time or later by stretching. [Snell]
 
-Q: The wrist joint is formed between the radius with its articular disc and which carpal bones?
-A) Pisiform, hamate and capitate
-B) Scaphoid, lunate and triquetrum
-C) Trapezium, trapezoid and capitate
-D) Scaphoid, trapezium and trapezoid
-E) Capitate, hamate and trapezium
-Answer: B
-Explanation: The head of the ulna is excluded from the wrist joint by the articular disc (triangular fibrocartilage). Abduction (radial deviation) is less extensive than adduction because the radial styloid extends farther distally than the ulna's. [Snell]
-
-Q: In which position should a hand be immobilised in a cast if full recovery is uncertain?
-A) Wrist neutral with fingers hyperextended
-B) Wrist fully flexed and fingers extended
-C) Wrist in ulnar deviation with fingers fully flexed
-D) Position of function: wrist slightly extended and fingers partially flexed
-E) Wrist fully extended and fingers fully extended
-Answer: D
-Explanation: In the position of function the hand can still grip; a 'strong fist' with the wrist flexed is very difficult, so casts should be placed in this position. [Snell]
-
 Q: At which week of embryonic development do the upper limb buds appear?
 A) Fourth week
 B) Eighth week
@@ -1797,3 +1149,1101 @@ D) Second week
 E) Tenth week
 Answer: C
 Explanation: The limb buds appear during the 6th week, with arm buds developing before the leg buds. Congenital anomalies include amelia, ectromelia, 'lobster hand' and floating thumb. [Snell]
+
+Q: The medial end of the clavicle articulates with which structures?
+A) Manubrium and the xiphoid process
+B) Body of the sternum only
+C) Clavicular notch of the manubrium and the first costal cartilage
+D) Manubrium and the second costal cartilage
+E) First rib and the costal tubercle
+Answer: C
+Explanation: The quadrangular sternal end articulates with the clavicular notch of the manubrium sterni; the articular surface extends to the inferior aspect for the first costal cartilage. [Chaurasia]
+
+Q: Which description of the curvatures of the clavicular shaft is correct?
+A) Concave forwards in the medial two-thirds and convex forwards in the lateral one-third
+B) Straight medially and convex backwards laterally
+C) Convex forwards throughout
+D) Convex forwards in the medial two-thirds and concave forwards in the lateral one-third
+E) Concave forwards throughout
+Answer: D
+Explanation: The two opposing curvatures meet at the weakest point of the bone, the usual site of fracture. [Chaurasia]
+
+Q: At what age does the secondary centre for the medial end of the clavicle appear and when does it fuse?
+A) Appears at 15-17 years and fuses at 21-22 years
+B) Appears at 20 years and fuses at 30 years
+C) Appears at 5 years and fuses at 12 years
+D) Appears at 10 years and fuses at 14 years
+E) Appears at birth and fuses at 8 years
+Answer: A
+Explanation: The clavicle has two primary centres (fusing about the 45th day) and one secondary centre at the sternal end. [Chaurasia]
+
+Q: Which muscle arises from the superior surface of the medial part of the clavicle?
+A) Deltoid
+B) Trapezius
+C) Sternohyoid
+D) Subclavius
+E) Clavicular head of the sternocleidomastoid
+Answer: E
+Explanation: The sternocleidomastoid takes origin from the rough superior surface of the medial two-thirds; sternohyoid arises from the posterior surface near the medial end; the deltoid arises from the anterior border of the lateral third. [Chaurasia]
+
+Q: The nutrient foramen of the clavicle transmits a branch of which artery?
+A) Transverse cervical artery
+B) Thoracoacromial artery
+C) Suprascapular artery
+D) Internal thoracic artery
+E) Subclavian artery directly
+Answer: C
+Explanation: The foramen lies at the lateral end of the subclavian groove. [Chaurasia]
+
+Q: Which muscle takes origin from the upper border of the scapula near the suprascapular notch?
+A) Supraspinatus
+B) Levator scapulae
+C) Inferior belly of omohyoid
+D) Subclavius
+E) Superior belly of omohyoid
+Answer: C
+Explanation: The superior border of the scapula is its shortest border and has the suprascapular notch near the root of the coracoid. [Chaurasia]
+
+Q: In which direction does the glenoid cavity face?
+A) Backwards and medially
+B) Directly laterally only
+C) Backwards, laterally and downwards
+D) Forwards and medially
+E) Forwards, laterally and slightly upwards
+Answer: E
+Explanation: The glenoid angle bears the shallow cavity, with the supraglenoid tubercle above it and the infraglenoid tubercle below. [Chaurasia]
+
+Q: The coracoid process of the scapula is described as:
+A) A secondary centre that never fuses
+B) A pressure epiphysis
+C) A sesamoid bone
+D) An atavistic type of epiphysis
+E) A traction epiphysis only
+Answer: D
+Explanation: Its first secondary centre appears in the first year and fuses by 15 years, with the subcoracoid centre appearing in the 10th year and fusing at 16-18 years. [Chaurasia]
+
+Q: At what time does the primary centre of ossification of the scapula appear?
+A) Fifth week near the acromion
+B) 12th week in the coracoid
+C) Eighth week of development, near the glenoid cavity
+D) At puberty in the spine
+E) At birth in the inferior angle
+Answer: C
+Explanation: The scapula ossifies from one primary and seven secondary centres; the acromial and other centres appear at puberty and fuse by the 25th year. [Chaurasia]
+
+Q: A developmental anomaly in which the medial border of the scapula is concave is called:
+A) Scaphoid bone
+B) Sprengel's anomaly
+C) Os acromiale
+D) Scaphoid scapula
+E) Winged scapula
+Answer: D
+Explanation: The scaphoid scapula is a developmental anomaly; winging results from serratus anterior paralysis. [Chaurasia]
+
+Q: Which structure is attached to the superior angle and the medial border of the scapula up to the root of the spine?
+A) Rhomboid major
+B) Latissimus dorsi
+C) Teres major
+D) Levator scapulae
+E) Serratus anterior (lower five digitations)
+Answer: D
+Explanation: Rhomboid minor inserts opposite the root of the spine and rhomboid major between the root and the inferior angle. [Chaurasia]
+
+Q: Which of the following is TRUE of the morphological neck of the humerus?
+A) It lies about 0.5 cm below the surgical neck and marks the position of the epiphyseal line
+B) It lies at the level of the deltoid tuberosity
+C) It is the commonest site of fracture
+D) It is the line separating the head from the tubercles
+E) It lies 5 cm below the anatomical neck
+Answer: A
+Explanation: The anatomical neck separates the head from the rest of the upper end; the surgical neck separates the upper end from the shaft. [Chaurasia]
+
+Q: Which structure is inserted into the middle of the medial border of the humeral shaft?
+A) Latissimus dorsi
+B) Pectoralis major
+C) Coracobrachialis
+D) Brachialis
+E) Teres major
+Answer: C
+Explanation: Coracobrachialis inserts into the rough area at the middle of the medial border; its tendon is a guide to the brachial artery. [Chaurasia]
+
+Q: From which part of the humerus does the extensor carpi radialis longus arise?
+A) Lower one-third of the lateral supracondylar ridge
+B) Posterior surface above the radial groove
+C) Upper two-thirds of the lateral supracondylar ridge
+D) Lateral epicondyle
+E) Medial supracondylar ridge
+Answer: A
+Explanation: Brachioradialis arises from the upper two-thirds of the lateral supracondylar ridge. The humeral head of pronator teres arises from the lower third of the medial supracondylar ridge. [Chaurasia]
+
+Q: Which fossa of the humerus accommodates the head of the radius in full flexion of the elbow?
+A) Radial groove
+B) Olecranon fossa
+C) Intertubercular sulcus
+D) Radial fossa
+E) Coronoid fossa
+Answer: D
+Explanation: The coronoid fossa accommodates the coronoid process; the olecranon fossa accommodates the olecranon in extension. [Chaurasia]
+
+Q: Which feature of the trochlea produces the carrying angle?
+A) The shaft of the humerus is curved
+B) Its lateral edge projects 6 mm lower
+C) Its medial edge projects about 6 mm lower than the lateral edge
+D) The olecranon is deviated laterally
+E) The capitulum is larger than the trochlea
+Answer: C
+Explanation: The trochlea articulates with the trochlear notch of the ulna. [Chaurasia]
+
+Q: At what age does the centre for the medial epicondyle of the humerus appear and when does it fuse with the shaft?
+A) Appears at birth; fuses at 5 years
+B) Appears at 12 years; fuses at 14 years
+C) Appears at 1 year; fuses at 6 years
+D) Appears at 9 years; fuses at 16 years
+E) Appears about the 5th year (4-6 years); fuses at about the 20th year
+Answer: E
+Explanation: The medial epicondyle forms a separate epiphysis; the compound lower-end epiphysis fuses with the shaft at about 16 years. [Chaurasia]
+
+Q: The capsule of the shoulder joint is attached to the humerus in which manner?
+A) To the greater tubercle only
+B) To the anatomical neck, dipping about 2 cm onto the shaft medially, with a gap for the biceps tendon
+C) To the morphological neck and deltoid tuberosity
+D) To the lesser tubercle only
+E) To the surgical neck all around
+Answer: B
+Explanation: This arrangement means the epiphyseal line of the upper end is partly intracapsular. [Chaurasia]
+
+Q: Which structure is the 'platysma' supplied by?
+A) A branch of the facial nerve
+B) Transverse cervical nerve
+C) Supraclavicular nerves
+D) Cervical plexus
+E) Accessory nerve
+Answer: A
+Explanation: It arises from the deep fascia covering the pectoralis major, crosses the clavicle and is inserted into the mandible and skin of the lower face. [Chaurasia]
+
+Q: Which structures bound the infraclavicular fossa (deltopectoral triangle)?
+A) Pectoralis major medially, anterior fibres of deltoid laterally, clavicle superiorly
+B) Sternum medially, biceps laterally, clavicle superiorly
+C) Deltoid medially, latissimus laterally, scapula superiorly
+D) Pectoralis minor medially, deltoid laterally, first rib superiorly
+E) Pectoralis major medially, trapezius laterally, acromion superiorly
+Answer: A
+Explanation: The cephalic vein runs in the deltopectoral groove. The tip of the coracoid lies 2-3 cm below the clavicle. [Chaurasia]
+
+Q: Where is the anterior axillary fold formed and what does it contain?
+A) Latissimus dorsi tendon
+B) Lower border of pectoralis major
+C) Teres major
+D) Serratus anterior
+E) Subscapularis
+Answer: B
+Explanation: The posterior fold contains the tendon of latissimus dorsi winding round teres major. [Chaurasia]
+
+Q: The mammary gland is classified as which type of gland?
+A) Compound tubuloalveolar gland, a modified sweat gland with no capsule
+B) Simple alveolar gland with a thick capsule
+C) Simple tubular gland with a capsule
+D) Endocrine gland
+E) Holocrine sebaceous gland
+Answer: A
+Explanation: It lies in the superficial fascia. [Chaurasia]
+
+Q: Which hormones stimulate growth of the breast at puberty and development of secretory alveoli?
+A) Oestrogens for growth; progesterone and prolactin for alveolar development
+B) Testosterone and FSH
+C) Insulin only
+D) Cortisol only
+E) Thyroxine only
+Answer: A
+Explanation: Breast growth at puberty is caused by oestrogens. [Chaurasia]
+
+Q: Which structures lie deep to the breast from superficial to deep?
+A) Rectus abdominis then the diaphragm
+B) Pectoral fascia over pectoralis major, then serratus anterior and external oblique parts
+C) Latissimus dorsi then rhomboids
+D) Pectoralis minor then subclavius
+E) Biceps then coracobrachialis
+Answer: B
+Explanation: The retromammary space allows free mobility. [Chaurasia]
+
+Q: From which structures does the pectoralis major originate?
+A) Lateral clavicle and acromion
+B) First rib and manubrium only
+C) Ribs 3-5 only
+D) Scapula and sternum
+E) Medial two-thirds of clavicle, sternum, 2nd-6th costal cartilages and external oblique aponeurosis
+Answer: E
+Explanation: The clavicular part flexes the arm; the sternocostal part extends the flexed arm against resistance. [Chaurasia]
+
+Q: Which cord is the lateral pectoral nerve derived from, and what is its root value?
+A) Medial cord; C8, T1
+B) Lateral cord; C5-C7
+C) Posterior cord; C5, C6
+D) Upper trunk; C5, C6
+E) Lateral cord; C8, T1
+Answer: B
+Explanation: The medial pectoral nerve is C8, T1. [Chaurasia]
+
+Q: Which digitations of serratus anterior are supplied by the C5 root of the long thoracic nerve?
+A) Fourth and fifth
+B) First and second
+C) Third only
+D) Sixth to eighth
+E) All eight
+Answer: B
+Explanation: The nerve enters the axilla through the apex behind the first part of the axillary artery. [Chaurasia]
+
+Q: From which part of the axillary artery does the thoracoacromial artery arise, and where does it emerge?
+A) Third part; at the surgical neck
+B) First part; at the first rib
+C) First part; at the lower border of pectoralis minor
+D) Second part; at the upper border of pectoralis minor
+E) Second part; at the lower border of pectoralis minor
+Answer: D
+Explanation: It pierces the clavipectoral fascia and divides into acromial, clavicular, deltoid and pectoral branches. [Chaurasia]
+
+Q: What is the shape of the axilla and how is its base formed?
+A) A four-sided pyramid whose base is the pectoralis major
+B) A triangular prism whose base is the scapula
+C) A cone whose base is formed by the clavicle
+D) A cube whose base is the serratus anterior
+E) A four-sided pyramid whose base is formed by skin, superficial fascia and axillary fascia
+Answer: E
+Explanation: The apex is directed upwards and medially towards the root of the neck. [Chaurasia]
+
+Q: Which structure is NOT a content of the axilla?
+A) Infraclavicular part of the brachial plexus
+B) Long thoracic and intercostobrachial nerves
+C) Axillary artery and vein
+D) Five groups of axillary lymph nodes
+E) Ulnar nerve in the cubital tunnel
+Answer: E
+Explanation: The axilla also contains axillary fat and areolar tissue. [Chaurasia]
+
+Q: In the first part of the axillary artery, which structure lies on its medial side?
+A) Musculocutaneous nerve
+B) Long thoracic nerve
+C) Posterior cord
+D) Axillary vein
+E) Lateral cord
+Answer: D
+Explanation: The lateral and posterior cords lie lateral to the first part; the long thoracic nerve lies behind it. [Chaurasia]
+
+Q: Which nerves pass between the third part of the axillary artery and the axillary vein?
+A) Musculocutaneous and median nerves
+B) Ulnar nerve and medial cutaneous nerve of the forearm
+C) Thoracodorsal and subscapular nerves
+D) Radial and axillary nerves
+E) Long thoracic and lateral pectoral nerves
+Answer: B
+Explanation: The medial cutaneous nerve of arm lies medial to the vein. [Chaurasia]
+
+Q: Which structures lie lateral to the third part of the axillary artery?
+A) Subscapularis
+B) Pectoralis minor
+C) Axillary vein
+D) Coracobrachialis, musculocutaneous nerve and lateral root of median nerve (upper part)
+E) Ulnar nerve
+Answer: D
+Explanation: Behind it lie the axillary nerve (upper part), subscapularis, and tendons of latissimus dorsi and teres major (lower part). [Chaurasia]
+
+Q: The descending branch of the posterior circumflex humeral artery anastomoses with which artery?
+A) Subscapular artery
+B) Superior ulnar collateral artery
+C) Thoracodorsal artery
+D) Suprascapular artery
+E) Ascending branch of the profunda brachii artery
+Answer: E
+Explanation: The anterior and posterior circumflex humeral arteries form a circle round the surgical neck. [Chaurasia]
+
+Q: Which axillary lymph nodes lie along the subscapular vessels and receive lymph from the posterior trunk wall?
+A) Apical group
+B) Posterior (scapular) group
+C) Lateral group
+D) Central group
+E) Anterior (pectoral) group
+Answer: B
+Explanation: The central group lies in the fat of the axilla and is related to the intercostobrachial nerve. [Chaurasia]
+
+Q: What is the correct sequence of lymph flow through the axillary nodes?
+A) Anterior, posterior and lateral groups to the central group, then to the apical group
+B) Apical to central to anterior
+C) Anterior to apical to lateral
+D) Lateral to apical to central
+E) Central to lateral to posterior
+Answer: A
+Explanation: From the apical nodes lymph reaches the supraclavicular nodes. [Chaurasia]
+
+Q: Which part of a spinal nerve contains the dorsal root ganglion?
+A) Ventral ramus
+B) Grey ramus communicans
+C) Dorsal (posterior) root, which is sensory
+D) Dorsal ramus
+E) Ventral root, which is motor
+Answer: C
+Explanation: Only the ventral primary rami form plexuses. [Chaurasia]
+
+Q: Where do the roots and trunks of the brachial plexus lie in the neck?
+A) Between the scalenus anterior and scalenus medius, carrying the prevertebral fascial sheath
+B) Deep to the sternocleidomastoid only
+C) Anterior to scalenus anterior
+D) Posterior to scalenus medius
+E) Superficial to the trapezius
+Answer: A
+Explanation: The trunks divide into ventral and dorsal divisions behind the clavicle. [Chaurasia]
+
+Q: Which of the following is TRUE of a 'prefixed' brachial plexus?
+A) T1 contribution is large and T2 is always present
+B) C4 contribution is large and T1 contribution is small
+C) It is formed only by C6-T1
+D) C5 is small
+E) C4 is absent
+Answer: B
+Explanation: In a postfixed plexus T1 is large, T2 is always present, C4 is absent and C5 is reduced. [Chaurasia]
+
+Q: Which nerve is formed with C7 fibres reaching it by a communicating branch from the lateral root of the median nerve?
+A) Axillary nerve
+B) Medial pectoral nerve
+C) Ulnar nerve
+D) Musculocutaneous nerve
+E) Radial nerve
+Answer: C
+Explanation: The ulnar nerve root value is C7, C8, T1. [Chaurasia]
+
+Q: Which structure supplies blood to the brachial plexus?
+A) Branches of the vertebral artery and the thyrocervical trunk (suprascapular and transverse cervical arteries)
+B) Common carotid artery
+C) Intercostal arteries
+D) Axillary artery only
+E) Internal thoracic artery only
+Answer: A
+Explanation: These are the lifeline of the plexus. [Chaurasia]
+
+Q: From which spinal segments do preganglionic sympathetic fibres for the upper limb arise, and where do they synapse?
+A) T2-T6; middle cervical, inferior cervical and first thoracic ganglia
+B) L1-L2; sacral ganglia
+C) C1-C4; ciliary ganglion
+D) C5-T1; superior cervical ganglion
+E) T7-T12; coeliac ganglion
+Answer: A
+Explanation: Postganglionic fibres pass via grey rami communicantes to the roots of the plexus. [Chaurasia]
+
+Q: Which nerve is the sole motor supply of the thoracoabdominal diaphragm and takes its main root from which segment?
+A) Vagus nerve; C3
+B) Intercostal nerves; T1
+C) Long thoracic nerve; C5
+D) Phrenic nerve; C4
+E) Accessory nerve; C2
+Answer: D
+Explanation: A contribution from C5 may come through the nerve to subclavius. [Chaurasia]
+
+Q: In a patient with a lower trunk brachial plexus injury, which muscle group is paralysed?
+A) Deltoid and biceps
+B) Intrinsic muscles of the hand and ulnar flexors of the wrist and fingers
+C) Brachioradialis and supinator
+D) Serratus anterior and rhomboids
+E) Triceps only
+Answer: B
+Explanation: The deformity is a complete claw hand and the sensory loss is along the ulnar border of the forearm and hand. [Chaurasia]
+
+Q: Why is Horner's syndrome possible in an injury of T1 root?
+A) T1 supplies the levator palpebrae directly
+B) The oculomotor nerve arises at T1
+C) Sympathetic fibres to the head and neck leave the spinal cord through T1
+D) T1 carries parasympathetic fibres to the eye
+E) The facial nerve passes through T1
+Answer: C
+Explanation: The syndrome includes ptosis, miosis, anhydrosis, enophthalmos and loss of the ciliospinal reflex. [Chaurasia]
+
+Q: Which of the following describes the origin of the trapezius?
+A) Lower four ribs and thoracolumbar fascia
+B) Medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae and spines of C7-T12
+C) Spines of T7-T12 and iliac crest
+D) Spines of C7-T5 only
+E) Transverse processes of C1-C4
+Answer: B
+Explanation: It is inserted into the posterior border of the lateral third of the clavicle, the acromion and the spine of the scapula. [Chaurasia]
+
+Q: Developmentally, the trapezius is related to which muscle?
+A) Pectoralis major
+B) Rhomboid major
+C) Sternocleidomastoid; both are derived from branchial arch mesoderm and supplied by the accessory nerve
+D) Serratus anterior
+E) Latissimus dorsi
+Answer: C
+Explanation: Both are supplied by the spinal accessory nerve. [Chaurasia]
+
+Q: Which structures lie under cover of the trapezius?
+A) Radial nerve and profunda brachii
+B) Spinal accessory nerve, suprascapular vessels and superficial and deep branches of the transverse cervical artery
+C) Median nerve
+D) Long thoracic nerve and axillary artery
+E) Musculocutaneous nerve
+Answer: B
+Explanation: Posterior primary rami of C2-C6 and T1-T12 pierce the muscle as cutaneous nerves. [Chaurasia]
+
+Q: Which muscle has origin from spines of T7-T12, thoracolumbar fascia, iliac crest and lower four ribs?
+A) Teres major
+B) Rhomboid major
+C) Latissimus dorsi
+D) Serratus posterior
+E) Trapezius
+Answer: C
+Explanation: It is the only muscle connecting the pelvic girdle and vertebral column to the upper limb. [Chaurasia]
+
+Q: The latissimus dorsi assists in which activities?
+A) Elevation of the scapula
+B) Lateral rotation of the arm
+C) Protraction of the scapula
+D) Climbing, swimming, coughing and sneezing (violent expiratory efforts)
+E) Abduction of the arm
+Answer: D
+Explanation: It adducts, extends and medially rotates the arm. [Chaurasia]
+
+Q: Which structures arise from the transverse processes of C1, C2 and the posterior tubercles of C3, C4 and are inserted into the superior angle of the scapula?
+A) Levator scapulae
+B) Serratus posterior superior
+C) Splenius capitis
+D) Rhomboid minor
+E) Trapezius
+Answer: A
+Explanation: It is supplied by C3, C4 and the dorsal scapular nerve. [Chaurasia]
+
+Q: Which of the following muscles is supplied by the dorsal scapular nerve?
+A) Teres minor
+B) Subscapularis
+C) Rhomboid minor
+D) Pectoralis minor
+E) Supraspinatus
+Answer: C
+Explanation: The dorsal scapular nerve arises from C5. [Chaurasia]
+
+Q: Which muscle fibres of the deltoid act as flexors and medial rotators of the arm?
+A) Acromial fibres
+B) Middle fibres
+C) Posterior fibres
+D) All fibres equally
+E) Anterior fibres
+Answer: E
+Explanation: Posterior fibres extend and laterally rotate; acromial multipennate fibres abduct. [Chaurasia]
+
+Q: Which structures lie under cover of the deltoid?
+A) Long thoracic nerve
+B) Median nerve
+C) Brachial artery
+D) Upper end of humerus, axillary nerve and posterior circumflex humeral vessels, subacromial bursa
+E) Radial nerve in the radial groove only
+Answer: D
+Explanation: Also under it: coracoid origins, rotator cuff tendons and the long heads of biceps and triceps. [Chaurasia]
+
+Q: Which two muscles arise from the lateral border of the scapula, and from where?
+A) Supraspinatus from lateral border
+B) Subscapularis from lateral border
+C) Teres major from upper two-thirds and teres minor from lower third
+D) Infraspinatus from lateral border
+E) Teres minor from upper two-thirds and teres major from lower third of the dorsal strip
+Answer: E
+Explanation: The circumflex scapular artery lies between the slips of teres minor. [Chaurasia]
+
+Q: What is the function of teres major?
+A) Abduction of the arm
+B) Lateral rotation of the arm
+C) Elevation of scapula
+D) Medial rotation, adduction and extension of the arm
+E) Flexion of the arm
+Answer: D
+Explanation: It is supplied by the lower subscapular nerve (C5, C6) and inserts into the medial lip of the bicipital groove. [Chaurasia]
+
+Q: What is the relationship of the axillary nerve to the third part of the axillary artery in the axilla?
+A) It lies lateral to the brachial artery
+B) It lies medial to the vein
+C) It lies on serratus anterior
+D) It lies behind the artery on subscapularis, with the radial nerve medially and coracobrachialis laterally
+E) It lies in front of the artery
+Answer: D
+Explanation: It leaves the axilla by winding around the lower border of subscapularis near the lowest part of the capsule. [Chaurasia]
+
+Q: The acromial anastomosis involves branches from which arteries?
+A) Vertebral, carotid and subclavian
+B) Thoracoacromial, suprascapular and posterior circumflex humeral arteries
+C) Radial, ulnar and brachial arteries
+D) Internal thoracic, intercostal and lateral thoracic
+E) Anterior circumflex humeral only
+Answer: B
+Explanation: This is the anastomosis between the first part of the subclavian and the second and third parts of the axillary artery. [Chaurasia]
+
+Q: The greater tubercle of the humerus forms which surface landmark?
+A) The most lateral bony point of the shoulder
+B) The inferior angle
+C) The most medial bony point of the shoulder
+D) The point of the shoulder (acromion)
+E) The coracoid tip
+Answer: A
+Explanation: The acromion forms the top of the shoulder; the acromial angle lies at the posterior end of its lateral border. [Chaurasia]
+
+Q: Which cutaneous nerves supply the skin over the point of the shoulder?
+A) Intercostobrachial nerve
+B) Musculocutaneous nerve
+C) Radial nerve
+D) Lateral supraclavicular nerve
+E) Axillary nerve only
+Answer: D
+Explanation: The upper lateral cutaneous nerve of arm supplies the lower deltoid skin. [Chaurasia]
+
+Q: What does the dermatome map of the upper limb show for the segments C5 and C6 versus C8 and T1 on the front of the limb?
+A) They are separated by T3
+B) They overlap broadly
+C) They adjoin each other along the ventral axial line
+D) They are separated by C3
+E) They do not exist on the front
+Answer: C
+Explanation: Preaxial border is supplied by C3-C6 and postaxial border by C8, T1, T2; C7 is central. [Chaurasia]
+
+Q: The skin of the upper limb is supplied by how many sets of cutaneous nerves according to Chaurasia?
+A) Fifteen
+B) Five
+C) Eight
+D) Twenty
+E) Twelve
+Answer: A
+Explanation: Only one set is from the cervical plexus and one from the second intercostal nerve; the rest are from the brachial plexus. [Chaurasia]
+
+Q: The superficial veins of the upper limb are accompanied by:
+A) Deep lymphatics only
+B) Arteries and deep nerves
+C) Cutaneous nerves and superficial lymphatics but not by arteries
+D) Tendons
+E) Venae comitantes
+Answer: C
+Explanation: Superficial lymph nodes lie along the veins, deep nodes along the arteries. [Chaurasia]
+
+Q: Why is the basilic vein preferred over the cephalic vein if the median cubital vein is absent?
+A) It lies closer to the brachial artery
+B) It is more superficial
+C) It has no nerves nearby
+D) It has valves
+E) It runs a straight path whereas the cephalic vein bends acutely
+Answer: E
+Explanation: The median cubital vein shunts blood from the cephalic to the basilic vein. [Chaurasia]
+
+Q: The deep veins of the upper limb join the axillary vein at which level?
+A) At the first rib
+B) At the clavicle
+C) At the surgical neck
+D) At the coracoid
+E) Brachial veins join at the lower border of teres major
+Answer: E
+Explanation: The veins are venae comitantes of arteries. [Chaurasia]
+
+Q: Veins of the upper limb run away from pressure points. What is the consequence?
+A) They end in the deep veins at the elbow
+B) They have no valves
+C) They remain on the flexor surface only
+D) The course of the superficial veins is spiral, from the dorsum to the front of the limb
+E) They are accompanied by arteries
+Answer: D
+Explanation: The preaxial vein drains into the axillary vein more proximally than the postaxial vein. [Chaurasia]
+
+Q: In a patient who has undergone radical mastectomy, the communication between the cephalic and external jugular veins can:
+A) Connect to the portal system
+B) Be absent
+C) Drain into the azygos vein
+D) Become thrombosed always
+E) Enlarge considerably and help drain the limb if the axillary vein is obstructed
+Answer: E
+Explanation: This communication is a small vein crossing the clavicle. [Chaurasia]
+
+Q: Where are the infraclavicular nodes located and what do they drain?
+A) In or on the clavipectoral fascia along the cephalic vein
+B) Along the basilic vein above the medial epicondyle
+C) Along the subscapular vessels
+D) Along the brachial artery
+E) In the supraclavicular fossa
+Answer: A
+Explanation: The deltopectoral node is a displaced node of this group. [Chaurasia]
+
+Q: Which structures does the intercostobrachial nerve pierce and where does it travel?
+A) Clavipectoral fascia to the breast
+B) Floor of axilla to the thorax
+C) Anterosuperior part of the medial wall of the axilla to the medial side of the arm
+D) Posterior wall of axilla to the scapula
+E) Lateral wall to the forearm
+Answer: C
+Explanation: It supplies the skin of the floor of the axilla and upper medial arm. [Chaurasia]
+
+Q: What are the neurovascular contents of the upper triangular space of the scapular region?
+A) Radial nerve and profunda brachii
+B) Thoracodorsal nerve
+C) Suprascapular nerve and artery
+D) Circumflex scapular vessels only
+E) Axillary nerve and posterior circumflex humeral vessels
+Answer: D
+Explanation: It is bounded by teres minor above, teres major below and long head of triceps laterally. [Chaurasia]
+
+Q: The pseudoganglion on the nerve to teres minor is composed of:
+A) Motor neurons
+B) Sensory neurons
+C) Parasympathetic neurons
+D) Fibrous tissue and fat without neurons
+E) Sympathetic neurons
+Answer: D
+Explanation: A similar pseudoganglion is found on the posterior interosseous nerve. [Chaurasia]
+
+Q: What does the transverse septum in the anterior compartment of the arm separate and enclose?
+A) It separates biceps from coracobrachialis and encloses the median nerve
+B) It encloses the ulnar nerve
+C) It separates brachialis from triceps and encloses the radial nerve
+D) It separates the arm from the forearm
+E) It separates biceps from brachialis and encloses the musculocutaneous nerve
+Answer: E
+Explanation: The anteroposterior septum separates brachialis from the muscles on the lateral supracondylar ridge and encloses the radial nerve and the anterior descending branch of profunda brachii. [Chaurasia]
+
+Q: Coracobrachialis morphologically represents which compartment, which is well developed in the thigh?
+A) Anterior compartment
+B) Gluteal compartment
+C) Lateral compartment
+D) Medial (adductor) compartment
+E) Posterior compartment
+Answer: D
+Explanation: The musculocutaneous nerve passes between the fused upper two heads. [Chaurasia]
+
+Q: What is the origin of brachialis and its insertion?
+A) Medial epicondyle; coronoid
+B) Upper half of humerus; radial tuberosity
+C) Lateral epicondyle; olecranon
+D) Lower half of the front of the humerus; coronoid process and ulnar tuberosity
+E) Scapula; radial tuberosity
+Answer: D
+Explanation: It is a flexor of the elbow supplied by the musculocutaneous nerve with a small radial contribution. [Chaurasia]
+
+Q: The musculocutaneous nerve ends by piercing the deep fascia:
+A) At the mid-arm
+B) At the wrist
+C) About 2 cm above the bend of the elbow, as the lateral cutaneous nerve of the forearm
+D) At the cubital fossa floor
+E) At the axilla
+Answer: C
+Explanation: It also supplies the elbow and shoulder joints. [Chaurasia]
+
+Q: How is the biceps reflex tested?
+A) Stroke the palm
+B) Tap the biceps tendon with the forearm pronated and partly extended; normal response is flexion of the elbow
+C) Tap the triceps with the forearm supinated
+D) Tap the brachioradialis at the wrist
+E) Tap the pronator teres
+Answer: B
+Explanation: The reflex tests the musculocutaneous nerve (C5, C6). [Chaurasia]
+
+Q: Which branch of the brachial artery arises just below teres major and accompanies the radial nerve?
+A) Superior ulnar collateral artery
+B) Nutrient artery
+C) Inferior ulnar collateral artery
+D) Radial recurrent artery
+E) Profunda brachii artery
+Answer: E
+Explanation: The superior ulnar collateral artery accompanies the ulnar nerve. [Chaurasia]
+
+Q: Where can the brachial artery be best compressed to control bleeding in the arm?
+A) At the lower border of teres major
+B) At the axilla against the clavicle
+C) At the wrist against the radius
+D) At the elbow against the humerus
+E) In the middle of the arm, against the tendon of the coracobrachialis
+Answer: E
+Explanation: Brachial pulsations are used to record the blood pressure at the elbow. [Chaurasia]
+
+Q: At the level of the insertion of coracobrachialis, which change occurs in the humerus?
+A) The circular shaft becomes triangular below
+B) The medullary cavity ends
+C) The shaft becomes curved
+D) The shaft becomes flat
+E) The shaft becomes hollow
+Answer: A
+Explanation: At this level the brachial artery moves from the medial side to the anterior aspect and the ulnar nerve pierces the medial septum. [Chaurasia]
+
+Q: What forms the apex and the base of the cubital fossa?
+A) Apex: coracoid; base: axilla
+B) Apex: where brachioradialis crosses pronator teres; base: line between the two epicondyles
+C) Apex: biceps tendon; base: elbow crease
+D) Apex: olecranon; base: wrist
+E) Apex: supinator; base: radial head
+Answer: B
+Explanation: The cubital fossa is homologous with the popliteal fossa. [Chaurasia]
+
+Q: What structures lie in the roof of the cubital fossa?
+A) Skin, superficial fascia containing the median cubital vein and cutaneous nerves, deep fascia and bicipital aponeurosis
+B) Radial nerve
+C) Median nerve
+D) Brachialis and supinator
+E) Biceps tendon only
+Answer: A
+Explanation: The lateral cutaneous nerve of the forearm lies with the cephalic vein. [Chaurasia]
+
+Q: Which of the following is the smaller terminal branch of the brachial artery?
+A) Common interosseous artery
+B) Ulnar artery
+C) Superior ulnar collateral
+D) Radial artery
+E) Profunda brachii
+Answer: D
+Explanation: The radial artery is smaller but more superficial; the ulnar is larger. [Chaurasia]
+
+Q: Which head of the triceps arises from the infraglenoid tubercle?
+A) None
+B) Medial head
+C) All heads
+D) Lateral head
+E) Long head
+Answer: E
+Explanation: The lateral head arises above the radial groove and the medial head below it. [Chaurasia]
+
+Q: Which head of the triceps is active in all forms of extension?
+A) Anconeus
+B) Lateral head
+C) Long head
+D) None; all are equally active
+E) Medial head
+Answer: E
+Explanation: The long and lateral heads act mainly against resistance. [Chaurasia]
+
+Q: Articularis cubiti refers to:
+A) A part of brachialis
+B) Fibres of the medial head of triceps inserted into the elbow capsule that prevent its nipping
+C) A ligament of the elbow
+D) A bursa
+E) Fibres of anconeus
+Answer: B
+Explanation: The triceps tendon inserts into the posterior part of the superior surface of the olecranon. [Chaurasia]
+
+Q: What is the root value of the radial nerve?
+A) C5-C8 and T1
+B) C7, C8
+C) C6, C7
+D) C8, T1
+E) C5, C6
+Answer: A
+Explanation: It is the largest branch of the posterior cord. [Chaurasia]
+
+Q: The radial nerve divides into its terminal branches at what level?
+A) In the axilla
+B) At the wrist
+C) In the cubital fossa just below the level of the lateral epicondyle
+D) At the lower border of teres major
+E) In the radial groove
+Answer: C
+Explanation: The superficial branch is cutaneous; the deep branch becomes the posterior interosseous nerve. [Chaurasia]
+
+Q: Which common sensory loss follows radial nerve injury in the arm?
+A) The whole palm
+B) The thenar eminence
+C) The medial one and a half fingers
+D) A narrow strip on the back of the forearm and on the lateral side of the dorsum of the hand
+E) The lateral forearm
+Answer: D
+Explanation: Wrist drop is disabling because the patient cannot grip firmly without the synergistic extensors. [Chaurasia]
+
+Q: How many bones in total are in the upper limbs, and how many per limb?
+A) 40 in total; 20 per limb
+B) 50 in total; 25 per limb
+C) 72 in total; 36 per limb
+D) 60 in total; 30 per limb
+E) 64 in total; 32 per limb
+Answer: E
+Explanation: Of the 206 bones of the body, the upper limbs contain 64. [Chaurasia]
+
+Q: A student falls on the point of the elbow and has a fracture; which part is commonly fractured?
+A) Radial head only
+B) Olecranon process
+C) Lateral epicondyle only
+D) Coronoid process
+E) Medial epicondyle only
+Answer: B
+Explanation: Coronoid fractures are uncommon and usually accompany elbow dislocation. [Chaurasia]
+
+Q: Which condition produces student's (miner's) elbow?
+A) Median nerve compression
+B) Inflammation of the common extensor origin
+C) Elbow dislocation
+D) Inflammation of the bursa over the posterior surface of the olecranon
+E) Pulled elbow
+Answer: D
+Explanation: Golfer's elbow involves the medial epicondyle. [Chaurasia]
+
+Q: Which of the following is TRUE of the 'funny bone'?
+A) It is the olecranon
+B) It refers to the ulnar nerve palpable behind the medial epicondyle in the flexed elbow
+C) It is the median nerve at the elbow
+D) It is the humerus
+E) It refers to the radial nerve at the lateral epicondyle
+Answer: B
+Explanation: Pressure on it produces tingling on the medial side of the hand. [Chaurasia]
+
+Q: A patient with leprosy has a thickened nerve palpable behind the medial epicondyle. Which nerve is it?
+A) Musculocutaneous nerve
+B) Radial nerve
+C) Axillary nerve
+D) Ulnar nerve
+E) Median nerve
+Answer: D
+Explanation: The ulnar nerve can be rolled by the palpating finger there. [Chaurasia]
+
+Q: What is the ulnar nerve's relationship to the flexor carpi ulnaris at the elbow?
+A) It passes through supinator
+B) It passes superficial to both heads
+C) It passes deep to the pronator teres
+D) It passes between its two heads (cubital tunnel)
+E) It passes lateral to FCR
+Answer: D
+Explanation: In the forearm it lies on the medial part of FDP. [Chaurasia]
+
+Q: The sternoclavicular joint is described as 'compound' because:
+A) Three elements take part: medial clavicle, manubrial notch and first costal cartilage
+B) It is a fibrous joint
+C) It has two ligaments only
+D) It has a ball-and-socket shape
+E) It has two synovial cavities and no disc
+Answer: A
+Explanation: It is also 'complex' because the intra-articular disc divides the cavity into superomedial and inferolateral compartments. [Chaurasia]
+
+Q: Which ligament of the sternoclavicular joint prevents backward dislocation of the medial end of the clavicle?
+A) Interclavicular ligament
+B) Coracoclavicular ligament
+C) Coracoacromial ligament
+D) Anterior sternoclavicular ligament only
+E) Costoclavicular ligament
+Answer: E
+Explanation: The medial end is usually dislocated forwards. [Chaurasia]
+
+Q: What nerve supplies the sternoclavicular joint and which supplies the acromioclavicular joint?
+A) Musculocutaneous; radial
+B) Medial supraclavicular nerve; lateral supraclavicular nerve
+C) Long thoracic; thoracodorsal
+D) Axillary; suprascapular
+E) Phrenic; vagus
+Answer: B
+Explanation: Blood supply of the SC joint is from the internal thoracic and suprascapular arteries. [Chaurasia]
+
+Q: Which two parts compose the coracoclavicular ligament?
+A) Conoid and trapezoid
+B) Deep and superficial
+C) Medial and lateral
+D) Superior and inferior
+E) Anterior and posterior
+Answer: A
+Explanation: The conoid attaches near the root of the coracoid, the trapezoid to the upper surface of the coracoid. [Chaurasia]
+
+Q: Which muscles rotate the scapula forward (lateral rotation of inferior angle) in overhead abduction?
+A) Latissimus dorsi only
+B) Teres major and minor
+C) Rhomboids and levator scapulae
+D) Pectoralis minor and subclavius
+E) Upper and lower fibres of trapezius with lower fibres of serratus anterior
+Answer: E
+Explanation: Medial rotation of the scapula is mainly by gravity, levator scapulae and rhomboids. [Chaurasia]
+
+Q: The suprascapular nerve passes beneath which ligament to enter the infraspinous fossa?
+A) Coracoacromial ligament
+B) Glenohumeral ligament
+C) Spinoglenoid ligament
+D) Transverse humeral ligament
+E) Coracohumeral ligament
+Answer: C
+Explanation: The suprascapular nerve passes below the superior transverse ligament first. [Chaurasia]
+
+Q: What does the coracohumeral ligament connect?
+A) Acromion to clavicle
+B) Radius to ulna
+C) Pisiform to hamate
+D) Root of the coracoid process to the neck of the humerus near the greater tubercle
+E) Scapula to ribs
+Answer: D
+Explanation: It strengthens the capsule superiorly. [Chaurasia]
+
+Q: What passes beneath the transverse humeral ligament?
+A) Axillary nerve
+B) Long head of triceps
+C) Coracobrachialis
+D) Brachial artery
+E) Tendon of the long head of biceps brachii
+Answer: E
+Explanation: The ligament bridges the upper part of the bicipital groove. [Chaurasia]
+
+Q: What is the glenoidal labrum?
+A) A ligament of the elbow
+B) The joint capsule
+C) A fibrocartilaginous rim deepening the glenoid cavity
+D) A bursa
+E) A tendon of the rotator cuff
+Answer: C
+Explanation: The long head of biceps is continuous with the labrum. [Chaurasia]
+
+Q: Which structures lie inferior to the shoulder joint?
+A) Infraspinatus
+B) Subscapularis
+C) Long head of triceps, axillary nerve and posterior circumflex humeral artery
+D) Coracobrachialis
+E) Supraspinatus
+Answer: C
+Explanation: Anteriorly lie subscapularis, coracobrachialis and short head of biceps; posteriorly infraspinatus and teres minor. [Chaurasia]
+
+Q: Which bursa communicates with the shoulder joint cavity?
+A) Radial bursa
+B) Subscapularis bursa
+C) Prepatellar bursa
+D) Olecranon bursa
+E) Subacromial bursa
+Answer: B
+Explanation: The infraspinatus bursa may also communicate. [Chaurasia]
+
+Q: Which muscles act as flexors of the shoulder joint?
+A) Trapezius and serratus
+B) Anterior fibres of deltoid, clavicular head of pectoralis major, coracobrachialis and biceps
+C) Latissimus dorsi and teres major
+D) Infraspinatus and rhomboids
+E) Posterior deltoid and teres minor
+Answer: B
+Explanation: Extension by posterior deltoid, latissimus dorsi, teres major and sternocostal pectoralis major. [Chaurasia]
+
+Q: Which muscles laterally rotate the shoulder?
+A) Subscapularis, latissimus dorsi and teres major
+B) Infraspinatus, teres minor and posterior fibres of deltoid
+C) Biceps
+D) Pectoralis major
+E) Coracobrachialis
+Answer: B
+Explanation: Medial rotation is by subscapularis, latissimus dorsi and teres major, aided by pectoralis major and anterior deltoid. [Chaurasia]
+
+Q: In which direction does the humeral head dislocate commonly and why?
+A) It never dislocates
+B) Laterally, due to the deltoid
+C) Posteriorly, due to the cuff
+D) Superiorly, due to the acromion
+E) Inferiorly (subglenoid), because the capsule is unsupported inferiorly by the cuff
+Answer: E
+Explanation: The axillary nerve is endangered. [Chaurasia]
+
+Q: What type of joint is the elbow joint, and what does the term 'elbow complex' include?
+A) Saddle joint; includes shoulder
+B) Hinge joint; includes the superior radioulnar joint
+C) Plane joint; includes humeroradial only
+D) Ball and socket; excludes radioulnar
+E) Pivot joint; includes wrist
+Answer: B
+Explanation: Humeroradial and humeroulnar joints form the elbow. [Chaurasia]
+
+Q: Which ligament of the elbow is fan-shaped and blends with the annular ligament?
+A) Quadrate ligament
+B) Ulnar collateral ligament
+C) Radial (lateral) collateral ligament
+D) Oblique cord
+E) Anterior ligament
+Answer: C
+Explanation: The ulnar collateral ligament is triangular with anterior and posterior bands. [Chaurasia]
+
+Q: Which structure crosses the ulnar collateral ligament of the elbow?
+A) Brachial artery
+B) Median nerve
+C) Radial nerve
+D) Posterior interosseous nerve
+E) Ulnar nerve
+Answer: E
+Explanation: The nerve lies behind the medial epicondyle. [Chaurasia]
+
+Q: What happens to the carrying angle in full flexion and in pronation?
+A) It disappears
+B) It reverses in direction
+C) It increases
+D) It doubles
+E) It is unchanged
+Answer: A
+Explanation: It is more in females. [Chaurasia]
+
+Q: Which root values supply the deltoid?
+A) C8, T1
+B) C4 only
+C) C7, C8
+D) C6, C7, C8
+E) C5, C6
+Answer: E
+Explanation: Axillary nerve. [Snell]
+
+Q: Which root values supply supraspinatus and infraspinatus?
+A) C5, C6 only
+B) T1, T2
+C) C7, C8
+D) C4, C5, C6
+E) C8, T1
+Answer: D
+Explanation: The suprascapular nerve. [Snell]
+
+Q: What is the nerve supply and root value of teres major?
+A) Lower subscapular nerve; C6, C7
+B) Axillary nerve; C5, C6
+C) Upper subscapular nerve; C5
+D) Thoracodorsal nerve; C6-8
+E) Suprascapular nerve; C5
+Answer: A
+Explanation: Teres minor is supplied by the axillary nerve. [Snell]
+
+Q: What are the root values of the subscapularis and the nerves supplying it?
+A) C5, C6, C7; upper and lower subscapular nerves
+B) C3, C4; accessory nerve
+C) T1; intercostal
+D) C5, C6; suprascapular
+E) C8, T1; ulnar nerve
+Answer: A
+Explanation: It medially rotates the arm and stabilises the shoulder. [Snell]
+
+Q: What are the root values of the pectoralis minor and its nerve?
+A) C6, C7, C8; medial pectoral nerve
+B) C3, C4; accessory
+C) C8, T1; ulnar
+D) C5; long thoracic
+E) C5, C6; lateral pectoral
+Answer: A
+Explanation: It depresses the point of the shoulder. [Snell]
+
+Q: What are the root values of the levator scapulae and the rhomboids according to Snell?
+A) Both C6, C7
+B) Levator C5; rhomboids C3
+C) Both T1
+D) Levator C8, T1; rhomboids C6
+E) Levator scapulae C3, 4, 5; rhomboids C4, 5
+Answer: E
+Explanation: Dorsal scapular nerve with C3, C4 for the levator. [Snell]
+
+Q: Which root values supply latissimus dorsi per Snell's table?
+A) C8, T1 via ulnar
+B) C6, 7, 8 via thoracodorsal nerve
+C) C1, 2 via cervical
+D) C5 via dorsal scapular
+E) C3, 4 via accessory
+Answer: B
+Explanation: It extends, adducts and medially rotates the arm. [Snell]
+
+Q: What are the pectoralis major roots?
+A) T2 only
+B) C5, 6, 7, 8 and T1
+C) C5 only
+D) C7 only
+E) C3, 4
+Answer: B
+Explanation: Nerve: medial and lateral pectoral. [Snell]
+
+Q: Which root values supply the serratus anterior per Snell?
+A) C1, 2
+B) C5, 6, 7
+C) C8, T1
+D) T2
+E) C3, 4
+Answer: B
+Explanation: Long thoracic nerve. [Snell]
+
+Q: Which root values supply the biceps brachii and the brachialis per Snell?
+A) C3, C4
+B) C7, C8
+C) C5, C6 via the musculocutaneous nerve
+D) C8, T1
+E) T1, T2
+Answer: C
+Explanation: Coracobrachialis is C5, 6, 7. [Snell]
