@@ -1,0 +1,1799 @@
+Q: A 58-year-old man develops right leg weakness after an infarct. Imaging shows the lesion is on the medial surface of the left frontal lobe, in the region that is a continuation of the precentral gyrus. Which structure is most likely involved?
+A) Posterior paracentral lobule
+B) Gyrus rectus
+C) Precuneus
+D) Anterior paracentral lobule
+E) Cingulate gyrus
+Answer: D
+Explanation: The anterior paracentral lobule is the medial continuation of the precentral gyrus (motor) and contains the leg and foot area of the motor cortex. The posterior paracentral lobule continues the postcentral gyrus (sensory), and the precuneus lies behind it.
+
+Q: Which of the following structures forms the lateral wall of the frontal (anterior) horn of the lateral ventricle?
+A) Thalamus
+B) Putamen
+C) Septum pellucidum
+D) Globus pallidus
+E) Head of the caudate nucleus
+Answer: E
+Explanation: The head of the caudate nucleus bulges into and forms the lateral wall of the frontal horn. The septum pellucidum forms the medial wall, separating the two lateral ventricles.
+
+Q: A patient has a lesion in the retrolenticular portion of the internal capsule. Which functional deficit is most likely?
+A) Ipsilateral hemiparesis
+B) Contralateral homonymous visual field defect
+C) Contralateral weakness of the lower face
+D) Contralateral hemisensory loss of the trunk only
+E) Contralateral loss of hearing
+Answer: B
+Explanation: The retrolenticular portion lies behind the lentiform nucleus and carries the optic radiations. The sublenticular portion carries the auditory radiations, the genu carries corticobulbar fibers, and the posterior limb carries mainly corticospinal fibers.
+
+Q: A neurosurgeon examines a patient after trauma to the posterior aspect of the midbrain. Which cranial nerve is the only one that exits the brainstem on its dorsal surface?
+A) Oculomotor nerve (CN III)
+B) Hypoglossal nerve (CN XII)
+C) Accessory nerve (CN XI)
+D) Trochlear nerve (CN IV)
+E) Abducens nerve (CN VI)
+Answer: D
+Explanation: The trochlear nerve emerges from the posterior midbrain just caudal to the inferior colliculus. It is also the only cranial nerve whose fibers decussate before exiting, so it innervates the contralateral superior oblique.
+
+Q: The rhomboid fossa contains a bulge, the facial colliculus. Which two structures does it overlie?
+A) Facial motor nucleus and the superior salivatory nucleus
+B) Abducens nucleus and the internal genu of the facial nerve
+C) Hypoglossal nucleus and the dorsal motor nucleus of the vagus
+D) Vestibular nuclei and the cochlear nuclei
+E) Trochlear nucleus and the locus ceruleus
+Answer: B
+Explanation: The facial colliculus is formed by facial nerve fibers looping over the abducens nucleus. A lesion here produces ipsilateral lateral rectus palsy and facial weakness together.
+
+Q: A patient with a posterior fossa tumor experiences intractable vomiting that is unresponsive to antiemetics acting on the periphery. Irritation of which structure on the floor of the fourth ventricle best explains this finding?
+A) Hypoglossal trigone
+B) Facial colliculus
+C) Area postrema
+D) Locus ceruleus
+E) Vestibular area
+Answer: C
+Explanation: The area postrema, rostral to the obex, is a chemoreceptor trigger zone that lacks a blood–brain barrier and triggers vomiting in response to circulating emetics.
+
+Q: The anterior commissure interconnects which of the following structures?
+A) Olfactory bulbs and the middle and inferior temporal lobes
+B) Both occipital lobes
+C) Both thalami
+D) Both hippocampi
+E) Both cingulate gyri
+Answer: A
+Explanation: The anterior commissure connects the olfactory structures and the middle and inferior temporal gyri. The hippocampal (fornical) commissure connects the two hippocampi, while the corpus callosum connects corresponding neocortical areas.
+
+Q: Which part of the corpus callosum, when infarcted along with the left visual cortex, is responsible for alexia without agraphia?
+A) Body
+B) Rostrum
+C) Splenium
+D) Genu
+E) Anterior commissure
+Answer: C
+Explanation: The splenium (perfused by the posterior cerebral artery) carries visual information from the right visual cortex to the left-hemisphere language areas. Its interruption with a left occipital infarct yields pure alexia without agraphia.
+
+Q: A 45-year-old woman presents with a mass that compresses the Broca speech area. Which gyrus and Brodmann areas should the examiner localize the lesion to?
+A) Angular gyrus, area 39
+B) Supramarginal gyrus, area 40
+C) Middle frontal gyrus, area 8
+D) Inferior frontal gyrus, areas 44 and 45
+E) Superior temporal gyrus, area 22
+Answer: D
+Explanation: Broca area lies in the pars triangularis and pars opercularis of the dominant inferior frontal gyrus (areas 44 and 45). Area 22 is Wernicke, area 8 is the frontal eye field, and areas 39 and 40 are the angular and supramarginal gyri.
+
+Q: Which gyri contain the primary auditory cortex?
+A) Angular gyrus (area 39)
+B) Middle temporal gyrus (area 21)
+C) Fusiform gyrus
+D) Parahippocampal gyrus (area 28)
+E) Transverse temporal gyri of Heschl (areas 41 and 42)
+Answer: E
+Explanation: The transverse temporal gyri of Heschl lie within the lateral sulcus on the superior temporal gyrus and contain primary auditory areas 41 and 42.
+
+Q: A 60-year-old man with chronic alcoholism develops hemorrhagic lesions in the mammillary bodies. To which brain division do the mammillary bodies belong?
+A) Metathalamus
+B) Hypothalamus
+C) Subthalamus
+D) Telencephalon
+E) Epithalamus
+Answer: B
+Explanation: The mammillary bodies are surface structures of the hypothalamus (along with the optic chiasm, infundibulum, and tuber cinereum). They receive hippocampal input through the fornix.
+
+Q: Tonsillar herniation through the foramen magnum is a dangerous consequence of raised intracranial pressure. The tonsil is part of which structure?
+A) Cerebral peduncle
+B) Cerebellar hemisphere
+C) Vermis
+D) Medulla oblongata
+E) Pons
+Answer: B
+Explanation: The tonsil is a rounded lobule on the inferior surface of each cerebellar hemisphere. Herniation compresses the medulla and its vital respiratory and cardiovascular centers.
+
+Q: Which of the following structures is part of the hippocampal formation?
+A) Uncus
+B) Dentate gyrus
+C) Cingulate gyrus
+D) Amygdaloid nucleus
+E) Septal nuclei
+Answer: B
+Explanation: The hippocampal formation includes the dentate gyrus, hippocampus proper (cornu ammonis), and subiculum. The uncus is the termination of the parahippocampal gyrus.
+
+Q: A 70-year-old woman has a lesion in the genu of the internal capsule. Which fibers are most likely interrupted?
+A) Optic radiations
+B) Auditory radiations
+C) Corticobulbar fibers
+D) Spinothalamic fibers only
+E) Corticostriate fibers only
+Answer: C
+Explanation: The genu contains corticobulbar fibers, which supply cranial nerve motor nuclei. Damage causes contralateral lower facial weakness and tongue deviation, among other deficits.
+
+Q: A 19-year-old is struck on the side of the head by a baseball and briefly loses consciousness. He then wakes and seems fine for a few hours before becoming drowsy with a fixed dilated pupil. CT shows a biconvex hyperdensity under a temporal bone fracture. Which vessel was most likely torn?
+A) Middle meningeal artery
+B) Posterior inferior cerebellar artery
+C) Bridging cerebral vein
+D) Superior sagittal sinus
+E) Anterior communicating artery
+Answer: A
+Explanation: A lucid interval, a biconvex (lentiform) clot, and a skull fracture characterize an epidural hematoma, typically from the middle meningeal artery, a branch of the maxillary artery that enters via the foramen spinosum. Epidural hematomas seldom cross sutures.
+
+Q: A 76-year-old man on warfarin develops confusion and headache 3 weeks after a minor fall. CT shows a crescent-shaped collection over the cerebral convexity that does not cross the falx attachment. Which vessel is the likely source?
+A) Lenticulostriate arteries
+B) Middle meningeal artery
+C) Basilar artery
+D) Superior cerebral (bridging) veins
+E) Anterior cerebral artery
+Answer: D
+Explanation: Subdural hematoma results from tearing of bridging veins that cross the subdural space to the superior sagittal sinus. It does not cross dural attachments (e.g., falx) but can cross sutures.
+
+Q: A lumbar puncture is performed in an adult at the L3–L4 interspace. Which structure is the needle least likely to injure?
+A) Filum terminale
+B) Cauda equina rootlets
+C) Dura mater
+D) Arachnoid
+E) Conus medullaris
+Answer: E
+Explanation: In adults the spinal cord (conus medullaris) ends at about L1–L2, and the subarachnoid space (lumbar cistern) extends to S2. The needle passes into the lumbar cistern, which holds CSF, the filum terminale, and cauda equina nerve roots.
+
+Q: At what vertebral level does the conus medullaris end in a newborn?
+A) L3
+B) S2
+C) S4
+D) T12
+E) L1
+Answer: A
+Explanation: At birth the conus ends at L3; by adulthood, because of disparate growth of the spine and cord, it ends at L1–L2.
+
+Q: Which statement about CSF is correct?
+A) It leaves the fourth ventricle through a single foramen of Monro
+B) The total CSF volume is about 500 mL
+C) Its protein concentration is normally about 200 mg/dL in the lumbar cistern
+D) Its glucose concentration is equal to plasma
+E) It is produced by the choroid plexus at about 500–700 mL/day and absorbed mainly via arachnoid granulations
+Answer: E
+Explanation: CSF volume is about 140 mL, glucose about 66% of plasma, and protein under 45 mg/dL. The fourth ventricle drains through the median foramen of Magendie and two lateral foramina of Luschka.
+
+Q: A 72-year-old woman presents with progressive dementia, a wide-based ataxic gait, and urinary incontinence. CT shows enlarged ventricles. Lumbar puncture shows normal opening pressure. Which is the best explanation for her condition?
+A) Blockage of the foramen of Monro
+B) Impaired CSF absorption at the arachnoid villi without elevated intracranial pressure
+C) Excess loss of brain tissue with raised pressure
+D) Choroid plexus papilloma
+E) Aqueductal stenosis
+Answer: B
+Explanation: This is normal pressure hydrocephalus ("wacky, wobbly, and wet"). CSF is not absorbed by arachnoid villi, possibly after meningeal hemorrhage, and ICP is not increased. Hydrocephalus ex vacuo reflects parenchymal loss.
+
+Q: An obese 28-year-old woman has daily headaches, bilateral papilledema, and visual deterioration. CT is normal, and CSF opening pressure is elevated. Which mechanism is implicated?
+A) Loss of parenchymal volume
+B) Adhesions in the subarachnoid space after meningitis
+C) Obstruction of the cerebral aqueduct
+D) Overproduction of CSF by a papilloma
+E) Increased resistance to CSF outflow at the arachnoid villi
+Answer: E
+Explanation: Pseudotumor cerebri (idiopathic intracranial hypertension) typically occurs in obese women of childbearing age and is characterized by papilledema, elevated CSF pressure, and deteriorating vision.
+
+Q: A 3-month-old has a rapidly enlarging head. MRI shows dilated lateral and third ventricles with a normal-sized fourth ventricle. What is the most likely diagnosis?
+A) Aqueductal stenosis
+B) Dandy-Walker malformation
+C) Hydranencephaly
+D) Communicating hydrocephalus after meningitis
+E) Normal pressure hydrocephalus
+Answer: A
+Explanation: Dilation of the lateral and third ventricles with a normal fourth ventricle localizes the block to the cerebral aqueduct. It is the commonest cause of congenital hydrocephalus (obstructive/noncommunicating).
+
+Q: A 4-year-old with fever, headache, and nuchal rigidity has CSF with >1,000 polymorphonuclear leukocytes/mm3, elevated protein, and low glucose. Which is the most likely diagnosis?
+A) Subarachnoid hemorrhage
+B) Guillain-Barré syndrome
+C) Viral meningitis
+D) Bacterial meningitis
+E) Normal pressure hydrocephalus
+Answer: D
+Explanation: Bacterial meningitis shows a cloudy CSF with numerous neutrophils, high protein, and reduced glucose. Viral meningitis shows lymphocytes with normal glucose, and SAH shows bloody CSF with normal glucose.
+
+Q: Which CSF profile is most consistent with viral (aseptic) meningitis?
+A) Acellular with protein above 500 mg/dL
+B) Lymphocytic pleocytosis, normal glucose, normal to slightly elevated protein
+C) Bloody, with red blood cells and normal glucose
+D) Normal cells with markedly low glucose
+E) Neutrophils above 1,000/mm3, low glucose, protein above 100 mg/dL
+Answer: B
+Explanation: Viral meningitis, the most common type, shows 25–500 lymphocytes/mm3 with normal glucose.
+
+Q: A 55-year-old with a brain tumor in the right cerebral hemisphere develops a dilated right pupil, contralateral homonymous hemianopia, and left hemiparesis. Which pair of events best explains the pupillary and visual findings?
+A) Subfalcial herniation compressing the anterior cerebral artery
+B) Compression of the optic chiasm and left oculomotor nerve
+C) Compression of the abducens nerve in Dorello canal
+D) Compression of the right oculomotor nerve and right posterior cerebral artery by the herniating uncus
+E) Midline tonsillar herniation compressing the medulla
+Answer: D
+Explanation: Uncal (transtentorial) herniation stretches the ipsilateral CN III (dilated pupil first, as parasympathetic fibers are peripheral) and compresses the ipsilateral PCA, causing contralateral homonymous hemianopia. Pressure of the contralateral crus on the tentorial edge (Kernohan notch) may produce ipsilateral hemiparesis.
+
+Q: Duret hemorrhages in the midbrain and rostral pons occur secondary to which mechanism?
+A) Compression of the great cerebral vein
+B) Caudal displacement of the brainstem rupturing basilar artery branches
+C) Direct invasion by glioblastoma
+D) Rupture of a berry aneurysm
+E) Thrombosis of the straight sinus
+Answer: B
+Explanation: With transtentorial herniation, caudal displacement of the brainstem can rupture paramedian basilar branches, causing fatal hemorrhage into the midbrain and rostral pontine tegmentum.
+
+Q: Which of the following circumventricular organs is NOT characterized by fenestrated capillaries lacking a blood–brain barrier?
+A) Area postrema
+B) Subfornical organ
+C) Subcommissural organ
+D) Median eminence
+E) Organum vasculosum of the lamina terminalis
+Answer: C
+Explanation: Circumventricular organs lack a BBB, with the subcommissural organ being the exception because it has nonfenestrated endothelium.
+
+Q: Which circumventricular organ is a central receptor site for angiotensin II?
+A) Subfornical organ
+B) Area postrema
+C) Subcommissural organ
+D) Median eminence
+E) Pineal body
+Answer: A
+Explanation: The subfornical organ, on the inferior fornix at the level of the interventricular foramina, projects to the supraoptic nuclei and the organum vasculosum and senses angiotensin II.
+
+Q: A pineal tumor compresses the dorsal midbrain. Which feature of the pineal body explains its radiologic appearance in older adults?
+A) Cystic spaces containing CSF
+B) Dense bone formation from the sphenoid
+C) Large neuromelanin deposits
+D) Calcareous granules (brain sand) appearing after about age 16
+E) Fenestrated ependymal cilia
+Answer: D
+Explanation: The pineal contains calcareous granules (corpora arenacea, acervulus cerebri), visible on X-ray and CT after age 16. It synthesizes melatonin and serotonin and is innervated by postganglionic fibers from the superior cervical ganglion.
+
+Q: A 66-year-old woman has a slow-growing, well-demarcated parasagittal dural-based mass showing whorled cells and psammoma bodies. Which tumor is this?
+A) Ependymoma
+B) Schwannoma
+C) Glioblastoma
+D) Meningioma
+E) Medulloblastoma
+Answer: D
+Explanation: Meningiomas arise from arachnoid cap cells, are the most common primary CNS tumor, are more frequent in women and older adults, and show whorls and psammoma bodies. Parasagittal lesions may cause leg weakness and urinary incontinence.
+
+Q: Which cistern receives CSF from the fourth ventricle via the median aperture (foramen of Magendie) and can be tapped suboccipitally?
+A) Superior cistern
+B) Ambient cistern
+C) Interpeduncular cistern
+D) Cerebellomedullary cistern (cisterna magna)
+E) Cerebellopontine angle cistern
+Answer: D
+Explanation: The cisterna magna lies between the cerebellum and medulla. The cerebellopontine angle cistern receives CSF via the lateral foramina of Luschka and contains CN VII and VIII.
+
+Q: Which nerve supplies the dura mater of the posterior cranial fossa?
+A) Facial nerve
+B) Vagus and upper cervical spinal nerves
+C) Trigeminal nerve
+D) Glossopharyngeal nerve only
+E) Hypoglossal nerve
+Answer: B
+Explanation: The supratentorial dura is innervated by the trigeminal nerve, whereas the posterior fossa dura is innervated by the vagus and upper cervical nerves.
+
+Q: Where is most CSF absorbed into the venous system?
+A) Arachnoid granulations along the superior sagittal sinus
+B) Pia mater of the spinal cord
+C) Cribriform plate lymphatics
+D) Choroid plexus of the lateral ventricles
+E) Ependymal lining of the central canal
+Answer: A
+Explanation: Arachnoid villi/granulations project into venous dural sinuses (especially the superior sagittal sinus) and allow one-way flow of CSF into the blood.
+
+Q: A 62-year-old man undergoes repair of an abdominal aortic aneurysm. Postoperatively he has bilateral leg paralysis and loss of pain and temperature sensation below the nipple line, with preserved vibration and joint position sense. Which vessel was most likely compromised?
+A) Anterior spinal artery territory (including the artery of Adamkiewicz)
+B) Posterior inferior cerebellar artery
+C) Vertebral arteries
+D) Middle cerebral artery
+E) Posterior spinal arteries
+Answer: A
+Explanation: The anterior spinal artery supplies the anterior two-thirds of the cord, including the corticospinal and spinothalamic tracts, and spares the posterior columns. At thoracolumbar levels the main feeder is the artery of Adamkiewicz (origin T12–L4, usually on the left).
+
+Q: Occlusion of the posterior spinal arteries would produce which deficit?
+A) Bilateral loss of pain and temperature
+B) Loss of crude touch only
+C) Bilateral loss of vibration and proprioception below the lesion
+D) Lower motor neuron paralysis only
+E) Spastic paraplegia with intact sensation
+Answer: C
+Explanation: The posterior spinal arteries supply the posterior third of the cord (posterior columns and horns), so fine touch, vibration, and conscious proprioception are lost.
+
+Q: A patient reports sudden painless loss of vision in one eye. Fundoscopy shows a pale retina with a cherry-red macula. Which artery is occluded, and why is the outcome so severe?
+A) Ophthalmic artery; it anastomoses widely
+B) Posterior cerebral artery; it supplies the cortex
+C) Central artery of the retina; it is an end artery
+D) Anterior choroidal artery; it is a collateral vessel
+E) Posterior ciliary artery; it supplies the optic radiation
+Answer: C
+Explanation: The central artery of the retina is a branch of the ophthalmic artery and provides the only blood supply to the inner retina; occlusion causes blindness.
+
+Q: A 50-year-old woman presents with sudden severe headache, a drooping right eyelid, and a dilated right pupil with the eye turned down and out. Which vessel is most likely the site of the aneurysm?
+A) Basilar artery tip only
+B) Middle cerebral artery trunk
+C) Anterior spinal artery
+D) Anterior communicating artery
+E) Posterior communicating artery
+Answer: E
+Explanation: A posterior communicating artery aneurysm compresses CN III, affecting superficial parasympathetic fibers first (dilated pupil) and then the somatic fibers. Berry aneurysm rupture is a common cause of nontraumatic subarachnoid hemorrhage.
+
+Q: Which is the commonest site of berry aneurysm in the cerebral arterial circle?
+A) Superior cerebellar artery
+B) Posterior cerebral artery
+C) Vertebral artery
+D) Basilar artery
+E) Anterior communicating artery
+Answer: E
+Explanation: The anterior communicating artery is the commonest site. A large aneurysm there may press on the chiasm, causing a bitemporal lower quadrantanopia.
+
+Q: A 70-year-old woman has weakness and sensory loss in her right leg and foot, with relative sparing of the face and arm. Which arterial territory is infarcted?
+A) Left anterior choroidal artery
+B) Basilar artery
+C) Left anterior cerebral artery
+D) Left middle cerebral artery
+E) Left posterior cerebral artery
+Answer: C
+Explanation: The ACA supplies the medial frontal and parietal lobes, including the paracentral lobule (leg and foot area). The MCA supplies the face, trunk, and arm area and the speech areas.
+
+Q: A 65-year-old right-handed man has right face and arm weakness greater than leg weakness, and nonfluent speech with good comprehension. Which vessel is occluded?
+A) Right middle cerebral artery
+B) Left anterior cerebral artery
+C) Left middle cerebral artery (superior division)
+D) Basilar artery
+E) Left posterior cerebral artery
+Answer: C
+Explanation: The MCA supplies the lateral convexity, including the face and arm areas of the motor cortex and the Broca area in the dominant hemisphere.
+
+Q: A patient reports sudden loss of the right half of the visual field in both eyes. The macular region of the field is preserved. Which vessel is most likely occluded?
+A) Left middle cerebral artery
+B) Right internal carotid artery
+C) Left posterior cerebral artery (calcarine branch)
+D) Right posterior cerebral artery
+E) Left anterior cerebral artery
+Answer: C
+Explanation: PCA calcarine branch occlusion causes contralateral homonymous hemianopia with macular sparing because of collateral supply from the MCA to the occipital pole.
+
+Q: A 68-year-old hypertensive man has a sudden hemorrhage into the putamen/internal capsule region with contralateral hemiplegia. Which vascular abnormality is most often implicated in nontraumatic intraparenchymal hemorrhage?
+A) Rupture of the middle meningeal artery
+B) Arteriovenous fistula of the cavernous sinus
+C) Berry aneurysm of the anterior communicating artery
+D) Charcot–Bouchard microaneurysms of the lenticulostriate arteries
+E) Rupture of bridging veins
+Answer: D
+Explanation: Microaneurysms in small arteries (lateral striate arteries of the MCA) rupture most frequently in the basal nuclei and are the commonest cause of nontraumatic intraparenchymal hemorrhage.
+
+Q: A lacunar infarct involving the posterior limb of the internal capsule produces which presentation?
+A) Contralateral pure motor hemiparesis with Babinski sign
+B) Ipsilateral hemiparesis
+C) Contralateral homonymous hemianopia only
+D) Bilateral spastic paraparesis
+E) Ipsilateral facial anesthesia
+Answer: A
+Explanation: Lenticulostriate (lateral striate) branches supply the internal capsule; occlusion leads to contralateral hemiparesis, often with sensory loss and a Babinski sign.
+
+Q: Which structure is supplied by the anterior choroidal artery?
+A) Dorsal midbrain
+B) Pontine tegmentum
+C) Inferior surface of the cerebellum
+D) Paracentral lobule
+E) Optic tract and lateral geniculate body
+Answer: E
+Explanation: The anterior choroidal artery (from the ICA) supplies the choroid plexus of the temporal horn, hippocampus, amygdala, optic tract, lateral geniculate body, globus pallidus, and part of the posterior limb of the internal capsule.
+
+Q: Which artery gives rise to the medial striate artery (of Heubner), supplying the anterior limb of the internal capsule and part of the striatum?
+A) Anterior choroidal artery
+B) Basilar artery
+C) Anterior cerebral artery
+D) Posterior cerebral artery
+E) Middle cerebral artery
+Answer: C
+Explanation: The recurrent artery of Heubner (medial striate artery) is a branch of the ACA.
+
+Q: Which sinus is formed by the junction of the great cerebral vein of Galen and the inferior sagittal sinus?
+A) Transverse sinus
+B) Occipital sinus
+C) Superior petrosal sinus
+D) Sigmoid sinus
+E) Straight sinus
+Answer: E
+Explanation: The straight sinus lies in the tentorium cerebelli, terminates at the confluence of sinuses at the internal occipital protuberance, and usually drains into the left transverse sinus.
+
+Q: Which structure lies within the cavernous sinus itself rather than in its lateral wall?
+A) Ophthalmic nerve (V1)
+B) Oculomotor nerve (CN III)
+C) Maxillary nerve (V2)
+D) Abducens nerve (CN VI)
+E) Trochlear nerve (CN IV)
+Answer: D
+Explanation: The ICA (siphon) and CN VI lie within the sinus, while CN III, IV, V1, and V2 run in the lateral wall. This is why CN VI is vulnerable first with sinus thrombosis or aneurysm.
+
+Q: A 35-year-old woman has a left subclavian artery occlusion proximal to the vertebral artery. When she exercises her left arm she gets arm claudication and dizziness. What explains the dizziness?
+A) Compression of the cervical sympathetic chain
+B) Retrograde blood flow down the left vertebral artery, causing vertebrobasilar insufficiency
+C) Thrombosis of the superior sagittal sinus
+D) Occlusion of the anterior spinal artery
+E) Compression of the carotid sinus
+Answer: B
+Explanation: In subclavian steal syndrome, blood is shunted retrogradely down the vertebral artery into the subclavian artery, causing transient left arm weakness and vertebrobasilar symptoms.
+
+Q: Which vessel passes through the foramen spinosum?
+A) Ophthalmic artery
+B) Basilar artery
+C) Middle meningeal artery
+D) Vertebral artery
+E) Internal carotid artery
+Answer: C
+Explanation: The middle meningeal artery, a branch of the maxillary artery, enters the cranium through the foramen spinosum and supplies most of the dura; laceration causes epidural hematoma.
+
+Q: Which of the following structures does NOT derive from neural crest cells?
+A) Oligodendrocytes
+B) Parafollicular (C) cells of the thyroid
+C) Pseudounipolar neurons of the dorsal root ganglia
+D) Chromaffin cells of the suprarenal medulla
+E) Schwann cells
+Answer: A
+Explanation: Oligodendrocytes (like astrocytes and ependymal cells) arise from the neural tube glioblasts. Neural crest forms peripheral ganglia, Schwann cells, leptomeninges, chromaffin cells, melanocytes, odontoblasts, and C cells.
+
+Q: A newborn is found to have no cranial vault and a rudimentary brainstem. Elevated alpha-fetoprotein was detected prenatally. Failure of which structure to close caused this defect?
+A) Rhombic lip
+B) Neural crest migration
+C) Optic vesicle
+D) Anterior neuropore
+E) Posterior neuropore
+Answer: D
+Explanation: Failure of the anterior neuropore results in anencephaly (high AFP in maternal serum/amniotic fluid). Failure of the posterior neuropore causes spina bifida.
+
+Q: A newborn has a lumbosacral sac containing meninges and spinal cord tissue. Which condition is most likely?
+A) Anencephaly
+B) Meningocele
+C) Holoprosencephaly
+D) Spina bifida occulta
+E) Spina bifida cystica with meningomyelocele
+Answer: E
+Explanation: Meningomyelocele is the commonest variation of spina bifida cystica and is usually present with Chiari malformation. A meningocele contains only meninges, and occulta is a bony arch defect without a sac.
+
+Q: A child has hindbrain herniation of the cerebellar tonsils and medulla through the foramen magnum with obstructive hydrocephalus and a lumbar meningomyelocele. What is the diagnosis?
+A) Holoprosencephaly
+B) Dandy-Walker malformation
+C) Tethered cord syndrome
+D) Chiari malformation
+E) Hydranencephaly
+Answer: D
+Explanation: Chiari malformation is a cerebellomedullary malformation where caudal vermis, tonsils, and medulla herniate through the foramen magnum. It is frequently associated with meningomyelocele and syringomyelia.
+
+Q: A neonate has a huge posterior fossa cyst, enlarged fourth ventricle, an elevated torcula, and agenesis of the cerebellar vermis. Which diagnosis fits best?
+A) Dandy–Walker malformation
+B) Chiari II malformation
+C) Porencephaly
+D) Aqueductal stenosis
+E) Holoprosencephaly
+Answer: A
+Explanation: Dandy–Walker results from atresia of the outlets of the fourth ventricle (foramina of Luschka and Magendie), leading to cystic dilation, vermis agenesis, and an elevated confluence of sinuses.
+
+Q: An infant has a single ventricular cavity, absent olfactory bulbs, and midline facial anomalies. The mother drank heavily in early pregnancy. What is the most likely malformation?
+A) Hydranencephaly
+B) Arachnoid cyst
+C) Holoprosencephaly
+D) Anencephaly
+E) Lissencephaly
+Answer: C
+Explanation: Holoprosencephaly is a failure of midline cleavage of the forebrain, with arhinencephaly; it is seen in trisomy 13 and is the most severe manifestation of fetal alcohol syndrome.
+
+Q: The sulcus limitans separates which two structures in the developing spinal cord?
+A) Mantle layer from marginal layer
+B) Neural crest from neural tube
+C) Ventricular zone from mantle zone
+D) Roof plate from floor plate
+E) Alar plate (sensory) from basal plate (motor)
+Answer: E
+Explanation: The alar plate gives rise to the posterior (sensory) horn and the basal plate to the anterior (motor) horn. The sulcus limitans persists in the rhomboid fossa of the brainstem.
+
+Q: Which cranial nerve nucleus is derived from the basal plate and forms the special visceral efferent column?
+A) Cochlear nucleus
+B) Spinal trigeminal nucleus
+C) Nucleus ambiguus
+D) Solitary nucleus
+E) Inferior olivary nucleus
+Answer: C
+Explanation: Basal plate derivatives are motor: the hypoglossal nucleus (GSE), nucleus ambiguus (SVE), and dorsal motor nucleus of the vagus (GVE). Solitary, spinal trigeminal, cochlear, olivary, and pontine nuclei are alar plate derivatives.
+
+Q: Which structure arises from the alar plate of the myelencephalon?
+A) Nucleus ambiguus
+B) Hypoglossal nucleus
+C) Dorsal motor nucleus of the vagus
+D) Inferior olivary nucleus
+E) Abducens nucleus
+Answer: D
+Explanation: The inferior olivary nuclei are cerebellar relay nuclei from the alar plate. The abducens nucleus is basal plate (GSE) in the pons.
+
+Q: A 5-year-old has ataxia and a midline posterior fossa mass from the cerebellar vermis that blocks the fourth ventricle. From which embryonic structure does it most likely arise?
+A) External granular layer of the cerebellum
+B) Choroid plexus epithelium
+C) Neural crest
+D) Neurohypophysis
+E) Rathke pouch
+Answer: A
+Explanation: Medulloblastoma is thought to arise from persistent cell nests of the external granular layer, a germinal layer present from week 8 to the end of the second postnatal year, producing only granule cells.
+
+Q: A 9-year-old has bitemporal hemianopia and short stature. MRI shows a suprasellar calcified cystic mass above the sella. From which embryonic structure does this tumor arise?
+A) Neural crest
+B) Pineal anlage
+C) Neurohypophysis
+D) Remnants of Rathke pouch
+E) Floor plate of the hypothalamus
+Answer: D
+Explanation: Craniopharyngioma is a benign suprasellar epithelial tumor derived from Rathke pouch remnants. The adenohypophysis comes from Rathke pouch (oral ectoderm), while the neurohypophysis is a hypothalamic evagination.
+
+Q: Microglia differ from other CNS glia in that they develop from which source?
+A) Ependymal cells
+B) Neural crest
+C) Radial glia
+D) Monocytes entering the CNS with blood vessels
+E) Neuroepithelial glioblasts
+Answer: D
+Explanation: Microglia arise from monocytes (mesoderm), not from glioblasts, and enter the CNS in the third week with the developing vessels.
+
+Q: Which is the correct order of appearance of the cerebral commissures?
+A) Anterior commissure, hippocampal commissure, corpus callosum
+B) Corpus callosum, hippocampal commissure, anterior commissure
+C) Corpus callosum, anterior commissure, hippocampal commissure
+D) Anterior commissure, corpus callosum, hippocampal commissure
+E) Hippocampal commissure, corpus callosum, anterior commissure
+Answer: A
+Explanation: All cross in the lamina terminalis; the corpus callosum appears last (weeks 12–22).
+
+Q: Which statement about the development of the pallidum is correct?
+A) The globus pallidus originates in the subthalamus (diencephalon) and migrates into the telencephalon
+B) It arises from the neural crest
+C) It arises from the rhombic lip
+D) It arises from the ganglionic eminence with the caudate
+E) It arises from the roof plate of the third ventricle
+Answer: A
+Explanation: Subthalamic neuroblasts migrate to form the globus pallidus, whereas the caudate, putamen, amygdaloid nucleus, and claustrum arise from the ganglionic eminence of the telencephalon.
+
+Q: Which statement about myelination is correct?
+A) The corticospinal tracts are not fully myelinated until the end of the second postnatal year
+B) One Schwann cell myelinates multiple internodes
+C) Schwann cells myelinate CNS axons
+D) Myelination of association cortex is complete at birth
+E) Neural crest gives rise to CNS myelin
+Answer: A
+Explanation: Oligodendrocytes myelinate CNS axons (one cell, multiple internodes), whereas a Schwann cell myelinates only one internode. Association neocortex myelination extends into the third decade.
+
+Q: A child has weakness and sensory deficits of the lower limbs, neurogenic bladder, and foot deformities. MRI shows the conus at L5 with a short, thick filum terminale. What is the diagnosis?
+A) Guillain-Barré syndrome
+B) Tethered cord syndrome
+C) Cauda equina from disc herniation
+D) Syringomyelia
+E) Friedreich ataxia
+Answer: B
+Explanation: A thick, short filum terminale anchors the cord caudally, producing traction; it is often coincident with spina bifida.
+
+Q: A 55-year-old man has a stroke affecting the right internal capsule. Weeks later the neurons of the ipsilateral cortex whose axons were damaged show dispersal of Nissl substance and a peripherally displaced nucleus. What is this change called?
+A) Wallerian degeneration
+B) Chromatolysis (retrograde reaction)
+C) Gliosis
+D) Transneuronal atrophy
+E) Neuroma formation
+Answer: B
+Explanation: Retrograde (axonal) reaction affects the cell body proximal to the injury: Nissl substance disappears (chromatolysis), the soma swells, and the nucleus is displaced. Wallerian degeneration occurs distal to the injury.
+
+Q: Which feature allows effective regeneration in the PNS but not the CNS?
+A) Schwann cells and preserved basement membranes/endoneurium guiding axon sprouts
+B) Presence of astroglial scarring
+C) Absence of growth factors
+D) Slow debris clearance by microglia
+E) Myelin-associated inhibitory proteins
+Answer: A
+Explanation: Regenerating PNS axons grow about 3 mm/day along Schwann cell tubes. In the CNS, astroglial scarring, inhibitory myelin proteins, lack of growth factors, and slow debris clearance impede regeneration.
+
+Q: Which neuronal transport process carries herpes simplex virus, rabies virus, and tetanus toxin to the cell body?
+A) Fast retrograde axonal transport mediated by dynein
+B) Transcytosis across the blood–brain barrier
+C) Slow anterograde transport of neurofilaments
+D) Diffusion through the extracellular space
+E) Fast anterograde transport mediated by kinesin
+Answer: A
+Explanation: Retrograde transport (100–200 mm/day, dynein-dependent, microtubule-based) returns used materials and carries neurotropic viruses, toxins, and nerve growth factor. Colchicine disrupts microtubules and blocks transport.
+
+Q: A patient with Parkinson disease has a depigmented substantia nigra on autopsy. Which intracytoplasmic inclusion would be expected in surviving neurons?
+A) Lewy bodies
+B) Rosenthal fibers
+C) Negri bodies
+D) Hirano bodies
+E) Neurofibrillary tangles
+Answer: A
+Explanation: Lewy bodies are eosinophilic inclusions in the substantia nigra in Parkinson disease; neuromelanin disappears as dopaminergic neurons are lost. Neurofibrillary tangles characterize Alzheimer disease.
+
+Q: Which cell type is the source of the GFAP-positive glial scar formed after CNS injury?
+A) Astrocytes
+B) Microglia
+C) Oligodendrocytes
+D) Ependymal cells
+E) Schwann cells
+Answer: A
+Explanation: Astrocytes contain glial fibrillary acidic protein, form glial scars (gliosis), and buffer extracellular potassium.
+
+Q: Which structures constitute the blood–brain barrier?
+A) Endothelial cells joined by tight junctions, with surrounding astrocytic foot processes
+B) Fenestrated capillaries of the choroid plexus
+C) The dura mater
+D) Arachnoid granulations
+E) Ependymal cilia
+Answer: A
+Explanation: The BBB is formed by endothelial cells with tight junctions in continuous capillaries (supported by basement membrane and astrocytic end-feet). Tumors and strokes disrupt it, causing vasogenic edema.
+
+Q: A 10-year-old presents with a cerebellar cystic tumor with a mural nodule. Histology shows astrocytes and Rosenthal fibers. What is the diagnosis and prognosis?
+A) Cerebellar (pilocytic) astrocytoma; good prognosis
+B) Glioblastoma; rapidly fatal
+C) Ependymoma; invariably fatal
+D) Meningioma; malignant
+E) Medulloblastoma; poor prognosis
+Answer: A
+Explanation: Cerebellar astrocytomas are the commonest pediatric intracranial tumors of this type and are benign tumors of childhood with Rosenthal fibers and a good prognosis.
+
+Q: A 58-year-old man has a rapidly progressive frontal mass crossing the corpus callosum ("butterfly") with central necrosis and pseudopalisading. What is the tumor?
+A) Glioblastoma multiforme
+B) Ependymoma
+C) Meningioma
+D) Schwannoma
+E) Oligodendroglioma
+Answer: A
+Explanation: Glioblastoma is the commonest primary brain tumor, malignant and rapidly fatal, occurring more often in men, with histologic pseudopalisades; it often crosses the corpus callosum.
+
+Q: A 40-year-old woman has seizures. CT shows a calcified frontal lobe mass. Histology shows cells with perinuclear halos ("fried eggs"). What is the diagnosis?
+A) Ependymoma
+B) Meningioma
+C) Astrocytoma
+D) Medulloblastoma
+E) Oligodendroglioma
+Answer: E
+Explanation: Oligodendrogliomas are slow-growing, typically in frontal lobe white matter, with calcification in about 50% and fried-egg cells.
+
+Q: A 7-year-old has hydrocephalus and a fourth-ventricle mass showing perivascular pseudorosettes. What is the likely tumor?
+A) Hemangioblastoma
+B) Meningioma
+C) Ependymoma
+D) Choroid plexus papilloma
+E) Craniopharyngioma
+Answer: C
+Explanation: Ependymomas are slow-growing gliomas of ependymal origin, commonly in the fourth ventricle, with perivascular pseudorosettes and ependymal tubules; they are the commonest spinal cord glioma, especially in adults.
+
+Q: A 35-year-old has bilateral acoustic schwannomas. Which condition is diagnosed?
+A) Neurofibromatosis type 2
+B) Neurofibromatosis type 1
+C) Von Hippel–Lindau disease
+D) Tuberous sclerosis
+E) Sturge–Weber syndrome
+Answer: A
+Explanation: Bilateral acoustic neuromas are diagnostic of NF-2. Hemangioblastomas of the cerebellum and retina suggest von Hippel–Lindau disease.
+
+Q: Which sensory receptor mediates vibration and pressure and is found in the dermis, mesenteries, and periosteum?
+A) Meissner corpuscle
+B) Merkel disk
+C) Free nerve ending
+D) Golgi tendon organ
+E) Pacinian corpuscle
+Answer: E
+Explanation: Pacinian corpuscles are encapsulated mechanoreceptors (A-beta) projecting via the posterior column–medial lemniscus. Meissner corpuscles mediate fine discriminative touch, Merkel disks light touch, and free endings pain/temperature.
+
+Q: A patient lacks sensation of tension in a muscle tendon. Which receptor and fiber type are involved?
+A) Merkel disk via group III
+B) Free nerve ending via group IV
+C) Pacinian corpuscle via group II
+D) Muscle spindle via group Ia fibers
+E) Golgi tendon organ via group Ib fibers
+Answer: E
+Explanation: Golgi tendon organs at the muscle–tendon junction respond to muscle tension via Ib fibers. Muscle spindles (intrafusal fibers) respond to length via Ia (nuclear bag/chain) and II fibers.
+
+Q: Slow, dull pain is conducted by which fibers?
+A) A-delta (group III) fibers
+B) A-alpha (group Ia) fibers
+C) Preganglionic autonomic B fibers
+D) Unmyelinated C fibers (group IV)
+E) A-beta (group II) fibers
+Answer: D
+Explanation: Fast pain travels in myelinated A-delta fibers, and slow pain/temperature in unmyelinated C fibers (0.5–2 m/s). Proprioceptors use Ia/Ib.
+
+Q: A 30-year-old patient has a spinal cord lesion producing sympathetic dysfunction (Horner syndrome) and loss of preganglionic sympathetic outflow. Which cord segments contain the intermediolateral cell column?
+A) T1–L2
+B) C5–T1
+C) S2–S4
+D) C1–C4
+E) L3–S1
+Answer: A
+Explanation: The lateral horn is found only at thoracolumbar levels (T1–L2), containing preganglionic sympathetic neurons. The ciliospinal center of Budge at T1–T2 supplies the eye. S2–S4 contains the sacral parasympathetic nucleus.
+
+Q: Which nucleus (Clarke column) is the origin of the posterior spinocerebellar tract?
+A) Substantia gelatinosa
+B) Sacral parasympathetic nucleus
+C) Nucleus proprius
+D) Posteromarginal nucleus
+E) Posterior thoracic nucleus (C8–L3)
+Answer: E
+Explanation: The posterior thoracic nucleus (lamina VII) is homologous to the accessory cuneate nucleus and subserves unconscious proprioception from muscle spindles and Golgi tendon organs; it is most prominent at T1–L2.
+
+Q: Which spinal cord structure is the homolog of the spinal trigeminal nucleus?
+A) Anterior horn motor nuclei
+B) Anterior white commissure
+C) Substantia gelatinosa (Rexed lamina II)
+D) Intermediolateral nucleus
+E) Nucleus dorsalis of Clarke
+Answer: C
+Explanation: The substantia gelatinosa mediates pain, temperature, and light touch. The spinal trigeminal tract replaces Lissauer tract, and the spinal trigeminal nucleus replaces the substantia gelatinosa.
+
+Q: The fasciculus cuneatus is present only at which levels of the cord?
+A) C1–C4 only
+B) C1–T6
+C) T7–L2
+D) L1–S5
+E) All levels
+Answer: B
+Explanation: The posterior funiculus divides into fasciculus gracilis (legs) and cuneatus (arms) only above T6, separated by the posterior intermediate sulcus.
+
+Q: Which statement about spinal nerves is correct?
+A) Gray rami contain myelinated preganglionic fibers
+B) C1 has a large posterior root and dermatome
+C) There are 7 cervical spinal nerves
+D) Spinal ganglia contain multipolar neurons
+E) White communicating rami are found only at T1–L2, while gray rami are found at all levels
+Answer: E
+Explanation: There are 31 pairs (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal). Gray rami carry unmyelinated postganglionic sympathetic fibers. Spinal ganglion neurons are pseudounipolar neural crest cells.
+
+Q: A patient has loss of vibration and joint position sense in the right leg and foot. At which site is the lesion most likely, assuming the tract is lesioned in the cord?
+A) Right lateral spinothalamic tract
+B) Right anterior horn
+C) Left lateral corticospinal tract
+D) Left fasciculus gracilis
+E) Right fasciculus gracilis
+Answer: E
+Explanation: The posterior column carries fine touch, vibration, and conscious proprioception ipsilaterally until decussating in the medulla as internal arcuate fibers. The leg fibers ascend in the fasciculus gracilis.
+
+Q: Which sequence correctly describes the pain and temperature pathway from the limb?
+A) Spinal ganglion → posterior horn → anterior white commissure → contralateral lateral spinothalamic tract → VPL
+B) Spinal ganglion → gracile nucleus → medial lemniscus
+C) Posterior horn → ipsilateral posterior column → VPL
+D) Anterior horn → lateral corticospinal tract → VPL
+E) Spinal ganglion → ipsilateral lateral funiculus → VPM
+Answer: A
+Explanation: First-order neurons enter via Lissauer tract, synapse in the posterior horn, and the second-order axons decussate in the anterior white commissure and ascend in the lateral spinothalamic tract to VPL. Pain and temperature loss therefore begins about one segment below the lesion.
+
+Q: A lesion of the left lateral spinothalamic tract at T10 would cause loss of pain and temperature on which side and at which approximate level?
+A) Right side, at three or four segments below
+B) Left side, one segment above
+C) Right side, beginning about one segment below the lesion
+D) Bilateral, at the level of the lesion
+E) Left side, at the level of the lesion
+Answer: C
+Explanation: Spinothalamic fibers ascend one or two segments as they cross, so sensory loss begins one segment below the lesion on the contralateral side. Crude touch loss in the anterior spinothalamic tract begins three or four segments below.
+
+Q: Which tract mediates unconscious proprioception from the lower limb and enters the cerebellum via the inferior cerebellar peduncle on the same side?
+A) Anterior spinocerebellar tract
+B) Cuneocerebellar tract
+C) Lateral vestibulospinal tract
+D) Rubrospinal tract
+E) Posterior spinocerebellar tract
+Answer: E
+Explanation: The posterior spinocerebellar tract arises from the ipsilateral posterior thoracic nucleus and enters via the inferior cerebellar peduncle. The anterior spinocerebellar tract enters via the superior cerebellar peduncle; the cuneocerebellar tract is its upper-limb counterpart.
+
+Q: A patient has a transection of the right lateral corticospinal tract at T8. Which finding is expected?
+A) Left spastic paresis of the leg
+B) Bilateral loss of vibration sense
+C) Loss of pain and temperature on the right
+D) Right flaccid paralysis of the leg
+E) Right spastic paresis of the leg with Babinski sign
+Answer: E
+Explanation: Lateral corticospinal fibers decussate (90%) in the caudal medulla, so a cord lesion causes ipsilateral deficits below the lesion: spasticity, hyperreflexia, Babinski sign, and loss of superficial reflexes (UMN signs).
+
+Q: Which descending pathway facilitates extensor tone and arises from Deiters cells?
+A) Rubrospinal tract
+B) Anterior corticospinal tract
+C) Lateral vestibulospinal tract
+D) Tectospinal tract
+E) Medial reticulospinal tract
+Answer: C
+Explanation: The lateral vestibulospinal tract arises from the ipsilateral lateral vestibular nucleus (giant cells of Deiters) and facilitates extensor/antigravity muscle tone. The rubrospinal tract facilitates flexor tone.
+
+Q: A lesion transects the hypothalamospinal tract in the lateral funiculus above T1. Which finding results?
+A) Ipsilateral anisocoria with dilated pupil
+B) Loss of accommodation
+C) Ipsilateral Horner syndrome
+D) Bilateral mydriasis
+E) Contralateral Horner syndrome
+Answer: C
+Explanation: The hypothalamospinal tract descends in the posterior lateral funiculus to the ciliospinal center (T1–T2). Interruption anywhere in this sympathetic pathway causes Horner syndrome (ptosis, miosis, anhidrosis).
+
+Q: Which clinical sign differentiates a lower motor neuron lesion from an upper motor neuron lesion?
+A) Hyperreflexia with clonus
+B) Babinski sign
+C) Loss of superficial abdominal reflexes without atrophy
+D) Spasticity with clasp-knife rigidity
+E) Flaccid paralysis with fasciculations and areflexia
+Answer: E
+Explanation: LMN lesions produce flaccid paralysis, atrophy, fasciculations, fibrillations, and loss of reflexes. UMN lesions produce spastic paresis, hyperreflexia, clonus, clasp-knife spasticity, and an extensor plantar response.
+
+Q: A patient has a lesion of the fasciculus gracilis. Which gait finding might be present?
+A) Cerebellar broad-based ataxia worsened by eye opening
+B) Hemiparetic circumduction
+C) Spastic scissoring gait
+D) Foot drop with high stepping
+E) Sensory (posterior column) ataxia with positive Romberg sign
+Answer: E
+Explanation: Posterior column loss produces sensory dystaxia: unsteadiness that worsens with eyes closed (Romberg), as in tabes dorsalis and vitamin B12 deficiency.
+
+Q: A 26-year-old man is stabbed in the back. Exam shows right-sided weakness and loss of vibration and position sense below T8 and left-sided loss of pain and temperature beginning two dermatomes below the lesion. What is the diagnosis and the side of the lesion?
+A) Brown-Séquard syndrome; right hemisection of the cord
+B) Complete transection
+C) Anterior cord syndrome
+D) Central cord syndrome
+E) Brown-Séquard syndrome; left hemisection of the cord
+Answer: A
+Explanation: Hemisection causes ipsilateral UMN weakness and posterior column loss and contralateral loss of pain and temperature (spinothalamic fibers have already crossed). Ipsilateral segmental LMN signs occur at the level.
+
+Q: A 30-year-old woman has bilateral "cape-like" loss of pain and temperature in her arms with preserved light touch, and wasting of the small muscles of the hands. MRI shows a cervical syrinx and cerebellar tonsil herniation. Which structure is affected first?
+A) Dorsal columns
+B) Lateral corticospinal tracts
+C) Anterior white commissure with decussating spinothalamic fibers
+D) Posterior spinocerebellar tract
+E) Posterior roots
+Answer: C
+Explanation: Syringomyelia destroys the anterior white commissure, so pain and temperature are lost bilaterally with preserved touch (dissociated sensory loss). Extension to the anterior horn produces LMN hand atrophy, and to the lateral horn, Horner syndrome. It may accompany Chiari malformation.
+
+Q: A 58-year-old man has progressive weakness with fasciculations and atrophy in his arms and hyperreflexia and spasticity in his legs, with no sensory deficit. What is the diagnosis?
+A) Subacute combined degeneration
+B) Syringomyelia
+C) Guillain-Barré syndrome
+D) Multiple sclerosis
+E) Amyotrophic lateral sclerosis
+Answer: E
+Explanation: ALS combines UMN and LMN signs without sensory deficits (Lou Gehrig disease), usually at ages 50–70, more commonly in men.
+
+Q: A 35-year-old develops ascending symmetric flaccid paralysis and areflexia two weeks after a diarrheal illness. CSF shows elevated protein with a normal cell count. What is the underlying pathology?
+A) Demyelination in the CNS with oligoclonal bands
+B) Enteroviral destruction of anterior horn cells
+C) Tumor compression of the conus
+D) Cell-mediated segmental demyelination of peripheral nerves
+E) Degeneration of dorsal columns
+Answer: D
+Explanation: Guillain–Barré syndrome (postinfectious polyneuritis) produces albuminocytologic dissociation and LMN signs; facial nerve involvement is often bilateral. Poliomyelitis destroys anterior horn cells.
+
+Q: A 60-year-old strict vegan with pernicious anemia has leg paresthesias, loss of vibration and position sense, ataxia, and spastic weakness. Which tracts are involved in this disorder?
+A) Spinothalamic tracts only
+B) Posterior roots only
+C) Anterior spinal artery territory
+D) Posterior columns, spinocerebellar tracts, and corticospinal tracts
+E) Anterior horns only
+Answer: D
+Explanation: Subacute combined degeneration (vitamin B12 deficiency) demyelinates the posterior columns (loss of vibration/position), spinocerebellar tracts (dystaxia), and lateral corticospinal tracts (spastic paresis).
+
+Q: A 14-year-old has progressive gait ataxia, pes cavus, kyphoscoliosis, and cardiomyopathy. Spinal pathology involves posterior columns, spinocerebellar tracts, and corticospinal tracts. What is the diagnosis?
+A) Huntington disease
+B) Charcot–Marie–Tooth disease
+C) Werdnig–Hoffmann disease
+D) Friedreich ataxia
+E) Tabes dorsalis
+Answer: D
+Explanation: Friedreich ataxia is the commonest hereditary ataxia, autosomal recessive, with cerebellar (Purkinje and dentate) involvement, cardiomyopathy, pes cavus, and kyphoscoliosis.
+
+Q: A 55-year-old man with a history of untreated syphilis has lightning pains, areflexia, loss of vibration and joint position sense, and a positive Romberg sign. Which structures are affected?
+A) Anterior spinal artery territory
+B) Lateral corticospinal tracts
+C) Spinothalamic tracts
+D) Posterior columns and posterior roots
+E) Anterior horn cells
+Answer: D
+Explanation: Tabes dorsalis involves posterior roots and columns, causing sensory dystaxia, paresthesias, pain, hyporeflexia, bladder dysfunction, and positive Romberg sign.
+
+Q: A 28-year-old woman has a spinal cord injury at C4 following a diving accident. Which feature is expected?
+A) Preserved sensation below the lesion
+B) Ipsilateral hemiparesis only
+C) Paraplegia with preserved arm function
+D) Quadriplegia with paralysis of volitional and automatic breathing if above C5 involvement
+E) Flaccid paralysis below the lesion permanently
+Answer: D
+Explanation: Complete transection results in spastic paralysis below the lesion (after spinal shock), complete anesthesia, bladder/bowel incontinence, anhidrosis, and loss of vasomotor tone; lesions above C5 (phrenic nucleus) impair breathing (above C3, usually fatal).
+
+Q: A 25-year-old presents after a fall with saddle anesthesia, urinary retention, fecal incontinence, impotence, and no lower limb motor deficit. Which structure is most likely involved?
+A) Cervical cord
+B) Anterior spinal artery in the cervical region
+C) Lumbar enlargement
+D) Cauda equina at L5 only
+E) Conus medullaris (sacral parasympathetic nucleus)
+Answer: E
+Explanation: Conus medullaris lesions destroy the sacral parasympathetic nucleus (paralytic bladder, fecal incontinence, impotence) with perianal/saddle sensory loss and typically sparing of lower limb motor function. Cauda equina syndrome usually has radicular pain, motor deficits, and often asymmetric findings.
+
+Q: A 45-year-old has severe low back pain radiating to the lateral leg and weakness of ankle dorsiflexion after lifting. Which level of disc herniation is most common?
+A) T4–T5
+B) C2–C3
+C) S2–S3
+D) L4–L5 or L5–S1
+E) L1–L2
+Answer: D
+Explanation: About 90% of herniations occur at L4–L5 or L5–S1; the nucleus pulposus herniates through a defective annulus fibrosus, compressing roots and producing radiculopathy. About 10% occur in the cervical region (C5–C6, C6–C7).
+
+Q: A 50-year-old develops painful vesicles in a band-like pattern over the right T7 dermatome. Where is the primary site of the viral reactivation?
+A) Spinal (dorsal root) ganglion
+B) Dorsal columns
+C) Lateral horn
+D) Anterior horn
+E) Anterior white commissure
+Answer: A
+Explanation: Herpes zoster is an acute inflammatory reaction in spinal or cranial nerve ganglia, usually limited to one dermatome (T5–T10 most commonly) with a vesicular eruption.
+
+Q: An infant is floppy with tongue fasciculations and flaccid weakness with areflexia. The disease affects anterior horn cells. What is the diagnosis?
+A) Werdnig–Hoffmann disease (progressive infantile muscular atrophy)
+B) Syringomyelia
+C) Charcot–Marie–Tooth disease
+D) Friedreich ataxia
+E) Guillain–Barré syndrome
+Answer: A
+Explanation: Werdnig–Hoffmann disease is a heredofamilial degenerative LMN disease of infants. Poliomyelitis is an enteroviral infection of LMNs causing flaccid paralysis.
+
+Q: Which pair of structures is found in the base of the pons?
+A) Inferior olivary nucleus and pyramids
+B) Facial motor nucleus and abducens nucleus
+C) Medial lemniscus and spinothalamic tract
+D) Superior colliculus and red nucleus
+E) Corticospinal fibers and pontine nuclei
+Answer: E
+Explanation: The base of the pons contains corticobulbar, corticospinal, and corticopontine fibers plus pontine nuclei, which give rise to pontocerebellar fibers forming the middle cerebellar peduncle. The cranial nerve nuclei are in the tegmentum.
+
+Q: Which nucleus gives rise to the vagal efferents that innervate the pharyngeal and laryngeal striated muscles?
+A) Dorsal motor nucleus of the vagus
+B) Inferior salivatory nucleus
+C) Nucleus ambiguus
+D) Solitary nucleus
+E) Hypoglossal nucleus
+Answer: C
+Explanation: The nucleus ambiguus (SVE column) innervates the pharyngeal arch muscles of the pharynx and larynx via CN IX and X. The dorsal motor nucleus gives rise to parasympathetic (GVE) fibers.
+
+Q: Which cranial nerve nucleus receives taste information (SVA) from CN VII, IX, and X?
+A) Dorsal motor nucleus of the vagus
+B) Superior salivatory nucleus
+C) Spinal trigeminal nucleus
+D) Solitary nucleus
+E) Nucleus ambiguus
+Answer: D
+Explanation: The solitary nucleus (tract) receives GVA and SVA (taste) fibers and projects via the central tegmental tract to the parabrachial nucleus and VPM of the thalamus.
+
+Q: Which nucleus in the CNS contains the only population of pseudounipolar neurons (first-order proprioceptive neurons)?
+A) Nucleus proprius
+B) Mesencephalic nucleus of CN V
+C) Chief sensory nucleus of CN V
+D) Solitary nucleus
+E) Spinal trigeminal nucleus
+Answer: B
+Explanation: The mesencephalic nucleus houses primary afferent cell bodies (jaw proprioception) and mediates the jaw-jerk reflex via the trigeminal motor nucleus.
+
+Q: Which midbrain structure is the largest nucleus of the midbrain, and its degeneration leads to Parkinson disease?
+A) Periaqueductal gray
+B) Inferior colliculus
+C) Substantia nigra
+D) Superior colliculus
+E) Red nucleus
+Answer: C
+Explanation: The substantia nigra (pars compacta with melanin-containing dopaminergic cells; pars reticularis GABAergic) projects dopaminergic fibers to the caudatoputamen (nigrostriatal tract).
+
+Q: The red nucleus receives input from the contralateral cerebellar nuclei and gives rise to which tract?
+A) Corticonuclear tract
+B) Tectospinal tract
+C) Crossed rubrospinal tract
+D) Vestibulospinal tract
+E) Uncrossed rubrospinal tract
+Answer: C
+Explanation: The red nucleus (midbrain tegmentum at the level of the superior colliculus) gives rise to the crossed rubrospinal tract, facilitating flexor tone. It also projects an uncrossed rubro-olivary tract.
+
+Q: The upper face receives bilateral corticobulbar input, whereas the lower face receives only contralateral input. A lesion of the right internal capsule would cause which finding?
+A) Left lower facial weakness with sparing of the forehead
+B) Bilateral lower facial weakness
+C) Right complete facial paralysis
+D) Right lower facial weakness with sparing of the forehead
+E) Left complete facial paralysis
+Answer: A
+Explanation: Supranuclear (UMN) facial palsy causes contralateral weakness below the orbit. Bell palsy (LMN) causes ipsilateral weakness of upper and lower face.
+
+Q: A 22-year-old has a fracture of the cribriform plate following a car accident and complains of clear fluid dripping from his nose and loss of smell. Which statement is correct?
+A) The olfactory nerve projects directly to the telencephalon without a thalamic relay
+B) Olfactory neurons cannot regenerate
+C) The olfactory nerve enters via the optic canal
+D) The olfactory nerve is myelinated and relays in the trigeminal ganglion
+E) Olfactory fibers synapse in the lateral geniculate body
+Answer: A
+Explanation: Olfactory axons (unmyelinated) from bipolar neurons pass through the cribriform plate to synapse with mitral and tufted cells in the olfactory bulb. Fractures cause anosmia and CSF rhinorrhea. The olfactory epithelium regenerates.
+
+Q: A 55-year-old diabetic man has sudden onset diplopia and ptosis; the right eye is down and out but the pupil is normal. Which fibers are spared, and what explains this?
+A) All fibers, because of nuclear involvement
+B) Central somatic motor fibers, because of external compression
+C) Pupillomotor fibers, because of uncal herniation
+D) Peripheral parasympathetic fibers, because the infarct affects the central part of the nerve
+E) Sympathetic fibers, because of carotid involvement
+Answer: D
+Explanation: Diabetic oculomotor palsy damages central fibers (ischemic) and spares the superficial pupilloconstrictor fibers. In compressive lesions (aneurysm, uncal herniation) pupillary fibers are affected first.
+
+Q: A patient has vertical diplopia, worse on looking down, and tilts the head to the left. Which nerve is involved, and what is the characteristic eye finding?
+A) Left trochlear nerve; intorsion
+B) Right trochlear nerve; extorsion of the right eye
+C) Right abducens nerve; esotropia
+D) Right oculomotor nerve; ptosis
+E) Right oculomotor nerve; mydriasis
+Answer: B
+Explanation: Trochlear palsy paralyzes the superior oblique (depresses, intorts, and abducts), resulting in extorsion and weakness of downward gaze. Head tilt toward the opposite side compensates and permits binocular alignment.
+
+Q: A patient with a left abducens nerve lesion looks to the left. What will be observed?
+A) Failure of left eye adduction
+B) Left eye turned down and out
+C) Vertical diplopia
+D) Bilateral ptosis
+E) Failure of left eye abduction with horizontal diplopia worst on left gaze
+Answer: E
+Explanation: CN VI innervates the lateral rectus; palsy results in esotropia, an inability to abduct, and horizontal diplopia, maximal looking toward the paretic side.
+
+Q: A 40-year-old man has a lesion of the right trigeminal motor root. Upon opening his mouth, what is observed?
+A) Tongue deviates to the right
+B) No deviation
+C) Uvula deviates to the left
+D) Jaw deviates to the right
+E) Jaw deviates to the left
+Answer: D
+Explanation: The jaw deviates toward the weak side because of the unopposed action of the opposite lateral pterygoid. Motor V innervates the muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani, and tensor palati.
+
+Q: A 45-year-old woman wakes up with drooping of the entire right side of her face, inability to close the right eye, loss of taste on the anterior two-thirds of the tongue, and hyperacusis. Where is the lesion most likely located?
+A) Right internal capsule
+B) Facial nerve within the facial canal proximal to the chorda tympani and stapedius branches
+C) Facial nerve distal to the stylomastoid foramen
+D) Left facial motor cortex
+E) Right trigeminal ganglion
+Answer: B
+Explanation: Bell palsy is an LMN lesion affecting the ipsilateral upper and lower face; involvement of the stapedial branch gives hyperacusis and the chorda tympani gives loss of taste. Lesion at the stylomastoid foramen would spare taste, lacrimation, and the stapedial reflex.
+
+Q: A 60-year-old man has a left facial droop affecting only the lower face; the forehead wrinkles normally. Where is the lesion?
+A) Left cerebellopontine angle
+B) Right corticobulbar fibers (e.g., internal capsule)
+C) Left facial nerve in the facial canal
+D) Left parotid gland
+E) Left facial nucleus
+Answer: B
+Explanation: The lower face receives contralateral cortical input only, so a supranuclear lesion causes contralateral lower facial weakness with forehead sparing. The forehead is spared because the upper face receives bilateral corticobulbar input.
+
+Q: A patient recovering from a proximal facial nerve injury sheds tears while eating. What is the proposed mechanism?
+A) Corneal hypersensitivity
+B) Hyperactivity of the sympathetic chain
+C) Regeneration of the greater petrosal nerve into the otic ganglion
+D) Misdirection of regenerating preganglionic salivatory fibers to the pterygopalatine ganglion
+E) Damage to the nerve of the pterygoid canal
+Answer: D
+Explanation: Crocodile tears (lacrimation during eating) result from a lesion proximal to the geniculate ganglion with misdirection of salivatory fibers to the lacrimal pathway.
+
+Q: In an unconscious patient, which cranial nerves form the afferent and efferent limbs of the gag reflex?
+A) Glossopharyngeal (afferent) and vagus (efferent)
+B) Vagus (afferent) and accessory (efferent)
+C) Vagus (afferent) and glossopharyngeal (efferent)
+D) Glossopharyngeal (afferent) and hypoglossal (efferent)
+E) Trigeminal (afferent) and facial (efferent)
+Answer: A
+Explanation: CN IX carries the afferent limb (also carotid sinus reflex), and the nucleus ambiguus via CN X is the efferent limb.
+
+Q: A patient with right vagus nerve injury says "ah." What happens to the uvula?
+A) Uvula elevates bilaterally
+B) Palatal arches rise symmetrically
+C) Uvula deviates to the right
+D) Uvula remains midline
+E) Uvula deviates to the left (away from the lesion)
+Answer: E
+Explanation: With unilateral vagal LMN lesion, the affected side sags and the uvula deviates toward the intact (opposite) side, with loss of the ipsilateral gag reflex (efferent limb), hoarseness, dysphagia.
+
+Q: A patient has weakness turning the head to the left and inability to shrug the right shoulder. Which injury would explain this?
+A) Right hypoglossal nerve
+B) Right spinal accessory nerve
+C) Right vagus nerve
+D) Left phrenic nerve
+E) Left spinal accessory nerve
+Answer: B
+Explanation: The accessory nerve (C1–C6 anterior horn origin) innervates the sternocleidomastoid and trapezius. Right SCM weakness impairs turning the head to the left (opposite side); trapezius weakness causes ipsilateral shoulder droop.
+
+Q: A patient's tongue deviates to the left on protrusion, with atrophy and fasciculations of the left half of the tongue. What is the correct interpretation?
+A) Left glossopharyngeal nerve lesion
+B) Right vagus nerve lesion with unopposed palatoglossus
+C) Left hypoglossal nerve (lower motor neuron) lesion; the tongue points toward the weak side
+D) Left corticobulbar (upper motor neuron) lesion; the tongue points to the left
+E) Right hypoglossal nerve lesion; the tongue points away from the lesion
+Answer: C
+Explanation: In an LMN lesion of CN XII (nucleus or nerve), the tongue deviates toward the weak, ipsilateral side because of unopposed contralateral genioglossus, with atrophy and fasciculations. In a UMN lesion the tongue deviates toward the weak side, which is contralateral to the cortical/internal capsule lesion.
+
+Q: A 62-year-old woman has paroxysmal, stabbing, electric shock–like pain in the right cheek triggered by chewing. MRI shows a loop of the superior cerebellar artery impinging on the trigeminal root. Which drug is the first-line therapy?
+A) Edrophonium
+B) Haloperidol
+C) D-penicillamine
+D) Levodopa
+E) Carbamazepine
+Answer: E
+Explanation: Trigeminal neuralgia causes recurrent paroxysms of sharp pain in one or more trigeminal divisions, occurs after age 50, and is more common in women. Carbamazepine is used for idiopathic cases.
+
+Q: A patient has a lesion of the right spinal trigeminal tract in the medulla. Which deficit is expected?
+A) Loss of pain and temperature on the left face
+B) Weakness of mastication on the right
+C) Loss of taste on the right
+D) Loss of discriminative touch on the left face
+E) Loss of pain and temperature sensation on the right side of the face
+Answer: E
+Explanation: The spinal trigeminal tract carries ipsilateral first-order pain/temperature fibers (CN V, VII, IX, X) before they synapse and cross; tractotomy produces ipsilateral facial anesthesia.
+
+Q: Which cranial nerves mediate the afferent and efferent limbs of the corneal (blink) reflex?
+A) Mandibular division (afferent) and facial nerve (efferent)
+B) Ophthalmic division of CN V (afferent) and facial nerve (efferent)
+C) Glossopharyngeal (afferent) and vagus (efferent)
+D) Facial nerve (afferent) and trigeminal nerve (efferent)
+E) Optic nerve (afferent) and oculomotor nerve (efferent)
+Answer: B
+Explanation: V1 conveys the afferent limb via the spinal trigeminal nucleus (rostral two-thirds), and the facial nucleus gives the efferent limb to orbicularis oculi. It is consensual and disynaptic.
+
+Q: A patient with a tumor in the cavernous sinus has diplopia, ptosis, loss of sensation over the forehead and cheek, and Horner syndrome. Which structures are involved?
+A) CN IX, X, XI
+B) CN II and optic chiasm only
+C) CN III, IV, VI, V1, V2, and sympathetic fibers
+D) CN V3 and VII only
+E) CN VII, VIII, and IX
+Answer: C
+Explanation: The cavernous sinus contains the ICA, CN VI, and sympathetic plexus, with CN III, IV, V1, and V2 in the lateral wall. Involvement may produce complete ophthalmoplegia, sensory loss in V1/V2, and Horner syndrome.
+
+Q: A 58-year-old man with sudden vertigo, hoarseness, dysphagia, ipsilateral facial numbness, contralateral loss of pain and temperature in the body, ipsilateral ptosis and miosis, and ipsilateral limb ataxia. Which artery is occluded?
+A) Superior cerebellar artery
+B) Posterior inferior cerebellar artery (or the vertebral artery)
+C) Anterior spinal artery
+D) Anterior inferior cerebellar artery
+E) Basilar artery paramedian branch
+Answer: B
+Explanation: Lateral medullary (Wallenberg) syndrome involves the vestibular nuclei (vertigo, nystagmus), inferior cerebellar peduncle (ipsilateral ataxia), nucleus ambiguus (dysphagia, hoarseness), spinal trigeminal tract (ipsilateral facial pain/temperature loss), spinothalamic tract (contralateral body), and descending sympathetic fibers (Horner).
+
+Q: A patient has right tongue weakness with deviation to the right on protrusion, left hemiparesis, and loss of left vibration and position sense. Where is the lesion?
+A) Left medial medulla
+B) Right midbrain base
+C) Right lateral medulla
+D) Right medial pons
+E) Right medial medulla (anterior spinal artery territory)
+Answer: E
+Explanation: Medial medullary syndrome involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral loss of vibration/proprioception), and hypoglossal fibers (ipsilateral tongue paralysis with deviation toward the lesion).
+
+Q: A 65-year-old has right lateral rectus palsy, right peripheral facial paralysis, left hemiparesis, and loss of left proprioception. Which lesion explains this?
+A) Right medial inferior pons (paramedian basilar branches)
+B) Right lateral inferior pons (AICA)
+C) Right midbrain
+D) Left medial pons
+E) Right medial medulla
+Answer: A
+Explanation: Medial inferior pontine syndrome affects the abducens fibers (lateral rectus palsy), facial nerve fibers/nucleus, corticospinal tract (contralateral hemiparesis), and medial lemniscus (contralateral proprioception loss).
+
+Q: A 70-year-old has vertigo, ipsilateral deafness, facial paralysis, ipsilateral facial pain/temperature loss, ipsilateral ataxia, and contralateral body pain/temperature loss. Which artery is occluded?
+A) Posterior cerebral artery
+B) Posterior inferior cerebellar artery
+C) Anterior inferior cerebellar artery
+D) Superior cerebellar artery
+E) Anterior spinal artery
+Answer: C
+Explanation: AICA syndrome (lateral inferior pontine) involves the facial nucleus, cochlear and vestibular nuclei, spinal trigeminal tract, cerebellar peduncles, and spinothalamic tract, with Horner syndrome. Deafness distinguishes it from lateral medullary syndrome.
+
+Q: A patient with a midbrain infarct has a right oculomotor palsy (ptosis, down and out eye, dilated pupil) and left hemiparesis with left lower facial weakness. What syndrome is this?
+A) Benedikt syndrome
+B) Parinaud syndrome
+C) Wallenberg syndrome
+D) Weber syndrome (medial midbrain)
+E) Millard–Gubler syndrome
+Answer: D
+Explanation: Weber syndrome involves the oculomotor fibers and the crus cerebri (corticospinal and corticobulbar). Benedikt syndrome adds red nucleus involvement (contralateral ataxia and intention tremor) and medial lemniscus loss.
+
+Q: A patient has contralateral intention tremor and loss of proprioception along with an ipsilateral oculomotor palsy. Which structures are involved?
+A) Superior colliculus and pretectum
+B) Spinal trigeminal nucleus
+C) Facial colliculus and abducens fibers
+D) Red nucleus, medial lemniscus, and oculomotor fibers (Benedikt syndrome)
+E) Crus cerebri and oculomotor nerve only
+Answer: D
+Explanation: Paramedian midbrain (Benedikt) syndrome occurs with occlusion of PCA midbrain branches, affecting the oculomotor fibers, red nucleus/dentatorubrothalamic tract (contralateral cerebellar ataxia, intention tremor), and medial lemniscus.
+
+Q: A 12-year-old has headaches, paralysis of upward gaze, pupils that do not react to light but react to convergence, and hydrocephalus. MRI shows a pineal mass. What is the diagnosis?
+A) Internuclear ophthalmoplegia
+B) Dorsal midbrain (Parinaud) syndrome from a pineal germinoma
+C) Argyll Robertson pupil
+D) Horner syndrome
+E) Weber syndrome
+Answer: B
+Explanation: Pineal tumors compress the superior colliculus/pretectal area, causing paralysis of upward (and often downward) gaze, pupillary disturbances, and noncommunicating hydrocephalus by aqueductal compression.
+
+Q: A patient is quadriplegic, mute, can communicate only by blinking and vertical eye movements, and is fully conscious. Which lesion?
+A) Bilateral dorsal midbrain tegmentum
+B) Bilateral occipital lobes
+C) Infarct of the basis pontis (ventral pons)
+D) Bilateral thalamic infarct
+E) Bilateral lateral medulla
+Answer: C
+Explanation: Locked-in syndrome results from infarction of the base of the pons (basilar artery), interrupting corticobulbar and corticospinal tracts, but sparing the vertical gaze pathways (midbrain) and the reticular formation (consciousness). Central pontine myelinolysis may cause it as well.
+
+Q: A 45-year-old woman has progressive right-sided hearing loss, tinnitus, facial numbness, a diminished corneal reflex, and mild facial weakness. MRI shows an enhancing mass in the internal auditory meatus extending into the cerebellopontine angle. Which tumor?
+A) Pituitary adenoma
+B) Vestibular schwannoma (acoustic neuroma)
+C) Glioblastoma
+D) Meningioma of the tentorium
+E) Medulloblastoma
+Answer: B
+Explanation: Acoustic neuroma arises from Schwann cells of CN VIII; as it grows it compresses CN VII and the spinal trigeminal tract (loss of pain/temperature on the ipsilateral face and corneal reflex).
+
+Q: A 30-year-old woman with multiple sclerosis has, on attempted left gaze, failure of the right eye to adduct and nystagmus in the abducting left eye. Convergence is preserved. Where is the lesion?
+A) Right frontal eye field
+B) Left medial longitudinal fasciculus
+C) Right oculomotor nerve
+D) Left abducens nucleus
+E) Right medial longitudinal fasciculus
+Answer: E
+Explanation: Internuclear ophthalmoplegia (MLF syndrome) shows medial rectus palsy on lateral gaze with nystagmus in the abducting eye; convergence is intact. The MLF lesion is on the side of the eye that fails to adduct.
+
+Q: A patient with a skull-base tumor has hoarseness, dysphagia, loss of gag reflex, loss of taste in the posterior third of the tongue, loss of the carotid sinus reflex, and weakness of the trapezius and sternocleidomastoid. Which cranial nerves are involved, and where?
+A) CN IX, X, and XI at the jugular foramen
+B) CN III, IV, VI at the cavernous sinus
+C) CN V at the foramen ovale
+D) CN XII at the hypoglossal canal
+E) CN VII and VIII at the internal acoustic meatus
+Answer: A
+Explanation: Jugular foramen (Vernet) syndrome affects CN IX, X, and XI, which traverse the foramen.
+
+Q: A comatose patient has extension, adduction, and hyperpronation of the arms and plantarflexion of the legs. Where is the brainstem transection?
+A) Above the thalamus
+B) Below the vestibular nuclei at the medulla
+C) Within the internal capsule
+D) At the pyramidal decussation
+E) Between the red nucleus and the vestibular nuclei
+Answer: E
+Explanation: Decerebrate rigidity results from unopposed pontine reticular formation/lateral vestibular nucleus activity on extensor motor neurons. Decorticate posturing (flexed arms, extended legs) results from lesions of the internal capsule or hemisphere.
+
+Q: A 66-year-old has a stroke that interrupts the ventral posterolateral nucleus of the thalamus on the right. Which deficit is expected?
+A) Loss of the same modalities on the left face only
+B) Loss of pain, temperature, and tactile discrimination on the left side of the trunk and limbs
+C) Contralateral loss of vision
+D) Ipsilateral loss on the right trunk
+E) Contralateral loss of hearing
+Answer: B
+Explanation: VPL receives the spinothalamic tracts and medial lemniscus and projects to areas 3, 1, 2. VPM serves the head (trigeminothalamic and taste pathways).
+
+Q: A 68-year-old develops contralateral hemianesthesia, hemiparesis, spontaneous agonizing burning pain, and athetoid posturing of the hand (thalamic hand) after an infarct. Which artery was occluded?
+A) Anterior cerebral artery
+B) Lateral striate artery
+C) Posterior thalamoperforating (posterior cerebral) artery
+D) Anterior choroidal artery
+E) Anterior spinal artery
+Answer: C
+Explanation: Thalamic (Dejerine–Roussy) syndrome follows occlusion of the posterior thalamoperforating arteries, with elevated pain threshold and hyperpathia.
+
+Q: A patient with chronic alcoholism presents with ophthalmoplegia, ataxia, and confusion. Which lesions would be found at autopsy, and what is the cause?
+A) Anterior vermis atrophy only; folate deficiency
+B) Degeneration of the substantia nigra; dopamine deficiency
+C) Mammillary body hemorrhages and periaqueductal lesions; thiamine deficiency
+D) Atrophy of the caudate head; trinucleotide repeat
+E) Lentiform necrosis; copper accumulation
+Answer: C
+Explanation: Wernicke encephalopathy (triad: ocular palsies, ataxic gait, confusion) results from thiamine deficiency; if untreated it progresses to Korsakoff syndrome (amnesia, confabulation) due to damage of mammillary bodies and the dorsomedial thalamic nucleus.
+
+Q: A 40-year-old man has polyuria and polydipsia with very dilute urine after a hypothalamic tumor. Which nuclei are damaged?
+A) Supraoptic and paraventricular nuclei
+B) Mammillary nuclei
+C) Lateral hypothalamic nucleus
+D) Ventromedial nucleus
+E) Suprachiasmatic nucleus
+Answer: A
+Explanation: These nuclei synthesize ADH and oxytocin, which travel via the supraopticohypophyseal tract to the neurohypophysis. Destruction causes diabetes insipidus.
+
+Q: Bilateral destruction of the ventromedial hypothalamic nucleus would cause which outcome?
+A) Diabetes insipidus
+B) Hyperphagia, obesity, and savage behavior
+C) Hyperthermia only
+D) Loss of circadian rhythm only
+E) Anorexia and starvation
+Answer: B
+Explanation: The ventromedial nucleus is the satiety center; the lateral hypothalamic nucleus is the feeding center (lesions cause anorexia and starvation).
+
+Q: A patient with a tumor of the posterior hypothalamus cannot maintain body temperature in a cold environment. Which is the most likely area damaged?
+A) Suprachiasmatic nucleus
+B) Posterior hypothalamic nucleus (heat conservation)
+C) Anterior hypothalamic nucleus
+D) Paraventricular nucleus
+E) Supraoptic nucleus
+Answer: B
+Explanation: The posterior hypothalamus conserves and produces heat; its destruction causes poikilothermia. The anterior hypothalamus mediates heat loss (parasympathetic), and its destruction causes hyperthermia.
+
+Q: A 9-year-old has bitemporal hemianopia, hypopituitarism, and a calcified suprasellar mass. What is the diagnosis?
+A) Craniopharyngioma
+B) Hemangioblastoma
+C) Acoustic neuroma
+D) Meningioma of the tuberculum sellae
+E) Prolactinoma
+Answer: A
+Explanation: Craniopharyngioma, derived from Rathke pouch remnants, is the commonest supratentorial tumor in children; pressure on the chiasm causes bitemporal hemianopia and pressure on the hypothalamus causes hypothalamic syndrome. It commonly calcifies.
+
+Q: Which fiber bundle carries output from the hippocampal formation to the mammillary bodies?
+A) Stria terminalis
+B) Stria medullaris
+C) Fornix
+D) Medial forebrain bundle
+E) Mammillothalamic tract
+Answer: C
+Explanation: The fornix (alveus, fimbria, crus, body, column) carries hippocampal output to the septal area, mammillary nuclei, and anterior thalamic nucleus. Bilateral transection results in acute amnesic syndrome.
+
+Q: Which thalamic nucleus is a part of the Papez circuit and receives the mammillothalamic tract?
+A) Anterior nucleus
+B) Lateral geniculate body
+C) Ventral lateral nucleus
+D) Ventral posterolateral nucleus
+E) Centromedian nucleus
+Answer: A
+Explanation: The anterior nucleus receives mammillary input via the mammillothalamic tract and projects to the cingulate gyrus, participating in learning and memory.
+
+Q: Which thalamic nucleus receives input from the globus pallidus, substantia nigra, and cerebellum (dentate), and projects to the motor cortex (area 4)?
+A) Medial geniculate body
+B) Pulvinar
+C) Ventral posteromedial nucleus
+D) Ventral lateral nucleus
+E) Mediodorsal nucleus
+Answer: D
+Explanation: The VL integrates basal nuclei and cerebellar output; destruction (ventrolateral thalamotomy) reduces parkinsonian tremor. The VA projects to premotor cortex (area 6).
+
+Q: A tuning fork placed on the vertex lateralizes to the left ear, and bone conduction exceeds air conduction on the left. What is the diagnosis?
+A) Right conduction deafness
+B) Left conduction deafness
+C) Right sensorineural deafness
+D) Normal hearing
+E) Left sensorineural deafness
+Answer: B
+Explanation: In conduction deafness (e.g., otosclerosis, cerumen), Weber lateralizes to the affected ear, and Rinne shows BC > AC on that side. In nerve deafness, Weber lateralizes to the normal ear and AC > BC.
+
+Q: A 70-year-old has gradual bilateral high-frequency hearing loss. Which cochlear region is predominantly degenerated?
+A) Stria vascularis only
+B) Tectorial membrane only
+C) Apex of the cochlea
+D) Basal coil of the organ of Corti
+E) Tympanic membrane
+Answer: D
+Explanation: Presbycusis results from degenerative disease of the organ of Corti in the first few millimeters of the basal coil (high frequencies). The cochlea is tonotopic: high frequencies at the base, low frequencies at the apex.
+
+Q: A 35-year-old woman has progressive conduction deafness that began in her 20s, worse during pregnancy. Which pathology is likely?
+A) Hair cell loss from aminoglycosides
+B) Ossification of the stapes footplate at the oval window
+C) Destruction of the inferior colliculus
+D) Acoustic neuroma
+E) Atrophy of the spiral ganglion
+Answer: B
+Explanation: Otosclerosis is neogenesis of spongy bone around the oval window, fixing the stapes, and is the most frequent cause of progressive conduction deafness.
+
+Q: A lesion of which structure would cause total deafness in only one ear?
+A) Medial geniculate body
+B) Cochlear nuclei or cochlear nerve
+C) Lateral lemniscus
+D) Inferior colliculus
+E) Primary auditory cortex
+Answer: B
+Explanation: The cochlear nuclei are the only auditory nuclei that don't receive binaural input; higher structures receive bilateral input from both ears, so lesions above produce only partial deafness.
+
+Q: Which structure is the first site of binaural processing important for sound localization?
+A) Dorsal cochlear nucleus
+B) Medial geniculate body
+C) Ventral cochlear nucleus
+D) Superior olivary nucleus
+E) Inferior colliculus
+Answer: D
+Explanation: The superior olivary nuclei, at the level of the facial motor nucleus, receive input from both ventral cochlear nuclei and give rise to the lateral lemniscus and the olivocochlear efferent bundle.
+
+Q: Ice-cold water is irrigated into the right ear of an unconscious patient with an intact brainstem. What will the eyes do?
+A) Show convergence
+B) Show no movement
+C) Deviate toward the left
+D) Deviate toward the right (irrigated) side
+E) Show vertical movement
+Answer: D
+Explanation: Using COWS (Cold, Opposite; Warm, Same), the nystagmus fast phase is opposite to the cold irrigated ear. In comatose patients, the slow tonic deviation is toward the cold side with intact brainstem; with bilateral MLF lesions only the abducting eye deviates, and with lower brainstem damage there is no deviation.
+
+Q: A 45-year-old has episodic vertigo, tinnitus, fluctuating hearing loss, and ear fullness. Which mechanism is described?
+A) MLF demyelination
+B) Increased endolymphatic fluid pressure
+C) Cupulolithiasis of the horizontal canal
+D) Vestibular nerve schwannoma
+E) Otolith displacement into the posterior canal
+Answer: B
+Explanation: Ménière disease is associated with increased endolymph pressure. BPPV produces positional vertigo without hearing loss, presumably by dislodged otoconia in the posterior semicircular duct.
+
+Q: A 55-year-old has brief vertigo with nystagmus when she turns over in bed, with no tinnitus or hearing loss. Which diagnosis fits?
+A) Benign paroxysmal positional vertigo
+B) Acoustic neuroma
+C) Labyrinthitis
+D) Ménière disease
+E) Vestibular neuritis with deafness
+Answer: A
+Explanation: BPPV is the commonest cause of recurrent vertigo, elicited by head position and not associated with hearing loss or tinnitus.
+
+Q: Which receptor organs respond to linear acceleration and the static position of the head relative to gravity?
+A) Tectorial membrane
+B) Organ of Corti
+C) Stria vascularis
+D) Maculae of the utricle and saccule
+E) Cristae ampullares
+Answer: D
+Explanation: Otolith organs (maculae) detect static head position and linear acceleration. Cristae of the semicircular ducts detect angular acceleration.
+
+Q: A 45-year-old woman has headaches, amenorrhea, and galactorrhea. Visual field testing shows loss of the temporal field in both eyes. Which lesion explains the visual defect?
+A) Left occipital lobe lesion
+B) Midline compression of the optic chiasm
+C) Left optic nerve lesion
+D) Right optic tract lesion
+E) Bilateral lateral chiasmal compression
+Answer: B
+Explanation: Pituitary adenoma (prolactinoma is the commonest) compresses decussating nasal retinal fibers, causing heteronymous bitemporal hemianopia. Lateral chiasm compression by calcified carotid arteries yields binasal hemianopia.
+
+Q: A 60-year-old has a left optic tract lesion. What field deficit results?
+A) Left eye blindness
+B) Left homonymous hemianopia
+C) Bitemporal hemianopia
+D) Right homonymous hemianopia
+E) Right upper quadrantanopia only
+Answer: D
+Explanation: The optic tract carries ipsilateral temporal and contralateral nasal hemiretinal fibers, so a left lesion produces loss of the right visual field in both eyes (contralateral homonymous hemianopia).
+
+Q: A temporal lobe tumor interrupts the loop of Meyer in the left hemisphere. What is the visual defect?
+A) Right lower homonymous quadrantanopia
+B) Bitemporal hemianopia
+C) Left upper quadrantanopia
+D) Right homonymous hemianopia
+E) Right upper homonymous quadrantanopia
+Answer: E
+Explanation: Meyer's loop carries inferior retinal quadrant fibers (superior visual field) to the lingual gyrus. Parietal lesions affecting the upper division (to the cuneus) produce contralateral lower quadrantanopia ("pie in the sky" versus "pie on the floor").
+
+Q: An occipital infarct involving the left calcarine cortex spares central vision. What explains macular sparing?
+A) Supply from the anterior choroidal artery
+B) Bilateral macular representation in the lateral geniculate body only
+C) Absence of macular representation in area 17
+D) Crossed projection of the macula
+E) Dual blood supply to the occipital pole from the posterior and middle cerebral arteries
+Answer: E
+Explanation: PCA calcarine occlusion causes contralateral homonymous hemianopia with macular sparing because the occipital pole receives MCA collateral supply.
+
+Q: Which pathway correctly describes the efferent limb of the pupillary light reflex?
+A) Lateral geniculate body → pretectum
+B) Facial nerve → orbicularis
+C) Accessory oculomotor nucleus → CN III → ciliary ganglion → sphincter pupillae
+D) Trigeminal ganglion → ciliary muscle
+E) Superior cervical ganglion → dilator pupillae
+Answer: C
+Explanation: The afferent limb is CN II to the pretectal nuclei, then bilateral projections (via the posterior commissure) to the Edinger–Westphal nuclei; preganglionic fibers run in CN III to the ciliary ganglion, with postganglionic fibers via short ciliary nerves to the sphincter pupillae.
+
+Q: A patient has a pupil that doesn't constrict to light but constricts with accommodation. Which description best fits, and which condition is classically associated?
+A) Marcus Gunn pupil; optic neuritis
+B) Argyll Robertson pupil; tertiary syphilis
+C) Parinaud pupil; pituitary adenoma
+D) Adie pupil; diabetes
+E) Horner pupil; apical lung tumor
+Answer: B
+Explanation: Argyll Robertson pupil shows loss of miotic reaction to light (direct and consensual) with preserved near response (accommodation–convergence); it is seen in tertiary syphilis, diabetes mellitus, and lupus.
+
+Q: A 30-year-old with multiple sclerosis and retrobulbar neuritis of the left optic nerve shows pupils that constrict briskly when light is shone into the right eye but dilate when the light is swung to the left eye. What is this finding called?
+A) Argyll Robertson pupil
+B) Relative afferent pupillary defect (Marcus Gunn pupil)
+C) Horner syndrome
+D) Adie tonic pupil
+E) Third nerve palsy
+Answer: B
+Explanation: The swinging flashlight test shows a lesion in the afferent limb: stimulating the affected eye elicits less consensual constriction than the normal eye, so the pupils appear to dilate.
+
+Q: A 55-year-old smoker has an apical lung (Pancoast) tumor with left ptosis, miosis, and anhidrosis. Which pathway is interrupted?
+A) Sympathetic pathway to the eye (first through third order neurons)
+B) Parasympathetic ciliary ganglion pathway
+C) Oculomotor nucleus
+D) Trigeminal ganglion
+E) Optic nerve
+Answer: A
+Explanation: Horner syndrome (ptosis from superior tarsal muscle, miosis, hemianhidrosis, enophthalmos) results from interruption anywhere in the hypothalamo–T1–superior cervical ganglion–carotid plexus pathway.
+
+Q: A 50-year-old has headaches, vomiting, bilateral blurred optic disc margins, and normal visual acuity. What is the most likely mechanism of the disc changes?
+A) Optic neuritis
+B) Central retinal artery occlusion
+C) Increased intracranial pressure transmitted through the optic nerve sheath (papilledema)
+D) Pituitary compression of the chiasm
+E) Optic nerve transection
+Answer: C
+Explanation: Papilledema is noninflammatory congestion of the optic disk caused by raised ICP (tumor, subdural hematoma, hydrocephalus), usually without early visual acuity or field loss.
+
+Q: Which center, when destroyed on the right side, causes transient conjugate eye deviation to the right?
+A) Right occipital cortex
+B) Right frontal eye field (area 8)
+C) Left frontal eye field
+D) Left abducens nucleus
+E) Right paramedian pontine reticular formation
+Answer: B
+Explanation: The frontal eye field drives contralateral saccades via the contralateral PPRF; destruction causes deviation toward the lesion (ipsilateral), while irritative (seizure) lesions cause contralateral deviation.
+
+Q: A 40-year-old woman has bilateral fluctuating ptosis and diplopia that worsen at the end of the day and improve with edrophonium. Which receptor is targeted by the autoantibodies?
+A) NMDA receptor
+B) Presynaptic voltage-gated calcium channel
+C) Nicotinic acetylcholine receptor at the neuromuscular junction
+D) Dopamine D2 receptor
+E) Muscarinic receptor at the parasympathetic ganglion
+Answer: C
+Explanation: Myasthenia gravis (antibodies to nicotinic ACh receptors) involves ocular and bulbar muscles, worsens with fatigue, and responds to cholinesterase inhibitors; thymectomy and corticosteroids are used. Lambert–Eaton involves presynaptic calcium channels.
+
+Q: Which statement about the olfactory pathway is correct?
+A) The olfactory tract synapses in the lateral geniculate body
+B) Olfactory receptor neurons are multipolar and myelinated
+C) Mitral and tufted cell axons reach the primary olfactory cortex without a thalamic relay
+D) Olfactory neurons cannot be replaced after injury
+E) The primary olfactory cortex lies in the occipital lobe
+Answer: C
+Explanation: Olfaction is the only sensory system without a precortical thalamic relay. Mitral/tufted cells project via the lateral olfactory stria to the prepiriform and periamygdaloid cortex, with conscious perception in the orbitofrontal cortex via the mediodorsal thalamic nucleus.
+
+Q: A 55-year-old woman has ipsilateral anosmia, ipsilateral optic atrophy, and contralateral papilledema. Which tumor is the most likely cause?
+A) Olfactory groove meningioma (Foster Kennedy syndrome)
+B) Craniopharyngioma
+C) Pituitary adenoma
+D) Acoustic neuroma
+E) Pineal germinoma
+Answer: A
+Explanation: A meningioma of the olfactory groove compresses the olfactory tract and optic nerve (ipsilateral optic atrophy) while raising ICP (contralateral papilledema).
+
+Q: After herpes simplex encephalitis, a patient is placid, hypersexual, hyperphagic, and tries to put everything in his mouth, and he does not recognize familiar objects. What is the structure most damaged?
+A) Bilateral temporal poles including the amygdalae
+B) Bilateral occipital poles
+C) Bilateral caudate heads
+D) Bilateral mammillary bodies
+E) Bilateral cingulate gyri
+Answer: A
+Explanation: Klüver–Bucy syndrome results from ablation of the temporal poles, amygdalae, hippocampi, and anterior temporal neocortex: placidity, hypersexuality, hyperphagia, and psychic (visual) blindness.
+
+Q: Which pathway accurately describes the circuit of Papez?
+A) Amygdala → stria terminalis → septal area → habenula
+B) Hippocampal formation → fornix → mammillary nucleus → mammillothalamic tract → anterior thalamic nucleus → cingulate gyrus → entorhinal cortex → hippocampus
+C) Hypothalamus → medial forebrain bundle → midbrain tegmentum
+D) Olfactory bulb → olfactory tract → thalamus → cortex
+E) Substantia nigra → striatum → globus pallidus → thalamus
+Answer: B
+Explanation: The Papez circuit interconnects limbic structures and is involved in memory. Damage to mammillary bodies and the dorsomedial thalamic nucleus in thiamine deficiency produces Korsakoff syndrome.
+
+Q: Which structure sends output to the hypothalamus via the stria terminalis and the ventral amygdalofugal pathway, and whose stimulation may produce rage?
+A) Hippocampus
+B) Dentate gyrus
+C) Amygdaloid nucleus
+D) Septal nuclei
+E) Habenular nucleus
+Answer: C
+Explanation: The amygdala has corticomedial (olfactory input) and basolateral (cortical input) groups. Bilateral lesions produce placidity with loss of fear.
+
+Q: Taste fibers from the anterior two-thirds of the tongue reach the solitary nucleus via which route?
+A) Glossopharyngeal nerve → petrosal ganglion
+B) Chorda tympani → facial nerve → geniculate ganglion
+C) Lingual nerve → trigeminal ganglion
+D) Vagus nerve → nodose ganglion
+E) Hypoglossal nerve
+Answer: B
+Explanation: Anterior two-thirds taste travels via the chorda tympani (CN VII; geniculate ganglion); the posterior third travels via CN IX (petrosal ganglion), and the epiglottis via CN X (nodose ganglion). Second-order fibers go to the VPM and then the gustatory cortex (area 43).
+
+Q: A 65-year-old man has a resting pill-rolling tremor, bradykinesia, cogwheel rigidity, and a shuffling gait. Autopsy would show loss of pigmented neurons in which structure?
+A) Caudate nucleus head
+B) Mammillary bodies
+C) Subthalamic nucleus
+D) Dentate nucleus
+E) Substantia nigra pars compacta
+Answer: E
+Explanation: Parkinson disease results from degeneration of dopaminergic nigrostriatal neurons, with Lewy bodies and depletion of striatal dopamine.
+
+Q: A 45-year-old man has choreiform movements, personality changes, and progressive dementia; his father had a similar illness. MRI shows atrophy of the caudate head with ex vacuo enlargement of the frontal horns. What is the diagnosis and neurochemical deficit?
+A) Huntington disease; loss of GABAergic and cholinergic striatal neurons
+B) Wilson disease; copper accumulation
+C) Tardive dyskinesia; dopamine receptor supersensitivity
+D) Sydenham chorea; rheumatic fever
+E) Parkinson disease; loss of dopamine
+Answer: A
+Explanation: Huntington disease is autosomal dominant (chromosome 4), with caudate/putamen neuron loss, choreiform movements, dementia, and slowed saccades.
+
+Q: A 55-year-old hypertensive man has sudden violent flinging movements of his right arm and leg. A lacunar infarct is likely in which structure?
+A) Right caudate nucleus
+B) Left substantia nigra
+C) Left red nucleus
+D) Left subthalamic nucleus
+E) Right subthalamic nucleus
+Answer: D
+Explanation: Hemiballismus follows a vascular lesion of the contralateral subthalamic nucleus.
+
+Q: A 20-year-old has tremor, rigidity, psychiatric symptoms, cirrhosis, and Kayser–Fleischer rings. What is the diagnosis and treatment?
+A) Huntington disease; tetrabenazine
+B) Wilson disease; copper-chelating D-penicillamine
+C) Friedreich ataxia; no therapy
+D) Tardive dyskinesia; discontinue neuroleptics only
+E) Parkinson disease; levodopa only
+Answer: B
+Explanation: Hepatolenticular degeneration is autosomal recessive with defective copper metabolism; lesions occur in liver and lentiform nuclei, with low ceruloplasmin and increased urinary copper.
+
+Q: A 55-year-old man with chronic alcoholism has a wide-based gait with leg ataxia but normal arm coordination. Which structure is most likely atrophied?
+A) Cerebellar hemisphere
+B) Flocculonodular lobe
+C) Dentate nucleus
+D) Rostral vermis of the anterior lobe
+E) Inferior olive
+Answer: D
+Explanation: Anterior lobe vermis atrophy, most commonly from alcohol, results in gait, trunk, and leg dystaxia with relative preservation of the arms.
+
+Q: A 6-year-old has morning vomiting, truncal ataxia, and a midline cerebellar mass in the fourth ventricle roof causing hydrocephalus. Which tumor?
+A) Meningioma
+B) Medulloblastoma
+C) Acoustic neuroma
+D) Cerebellar astrocytoma
+E) Hemangioblastoma
+Answer: B
+Explanation: Medulloblastomas (about 20% of pediatric primary intracranial tumors) arise in the posterior vermis, can seed through CSF, and cause the posterior vermis syndrome.
+
+Q: Which statement about cerebellar cortex circuitry is correct?
+A) Climbing fibers excite granule cells
+B) Granule cells are inhibitory
+C) Purkinje cells provide the sole output of the cerebellar cortex and are inhibitory (GABA)
+D) Basket cells excite Purkinje cells
+E) Mossy fibers arise from the inferior olive
+Answer: C
+Explanation: Mossy fibers (spinocerebellar, pontocerebellar) excite granule cells (glutamate), whose parallel fibers excite Purkinje cells; climbing fibers (olivocerebellar, aspartate) excite Purkinje cells directly. Basket and stellate cells inhibit Purkinje cells.
+
+Q: A patient with a right cerebellar hemisphere lesion attempts to touch his nose with his right finger. Which finding is expected?
+A) Loss of position sense
+B) Resting tremor
+C) Ipsilateral intention tremor and past-pointing
+D) Contralateral intention tremor
+E) Spastic paresis
+Answer: C
+Explanation: Cerebellar lesions cause ipsilateral deficits: dysmetria, intention tremor, dysdiadochokinesia, hypotonia, and decomposition of movement.
+
+Q: Which statement describes the sympathetic outflow to the head?
+A) Postganglionic fibers travel on the facial nerve
+B) Preganglionic neurons at T1–T2 synapse in the superior cervical ganglion, and postganglionic fibers travel with the carotid arteries
+C) Preganglionic fibers travel in CN III to the ciliary ganglion
+D) Fibers arise from the Edinger–Westphal nucleus
+E) All sympathetic head fibers synapse in the otic ganglion
+Answer: B
+Explanation: The entire sympathetic innervation of the head is via the superior cervical ganglion, with postganglionic fibers riding on arteries/CN V branches to the dilator pupillae, superior tarsal muscle, and sweat glands.
+
+Q: A newborn fails to pass meconium, and the colon is dilated proximal to an aganglionic segment. What is the embryologic basis?
+A) Failure of Rathke pouch obliteration
+B) Defective rhombic lip development
+C) Failure of neural crest cells to migrate into the colon
+D) Abnormal placodal differentiation
+E) Failure of neural tube closure
+Answer: C
+Explanation: Hirschsprung disease (congenital aganglionic megacolon) lacks ganglion cells in the myenteric plexus.
+
+Q: A 28-year-old man has descending paralysis, dry mouth, dilated pupils, and constipation after eating home-canned vegetables. Which mechanism?
+A) Inhibition of GABA release
+B) Antibodies against nicotinic receptors
+C) Blockade of sodium channels
+D) Destruction of anterior horn cells
+E) Toxin blocking presynaptic acetylcholine release
+Answer: E
+Explanation: Botulinum toxin blocks ACh release from presynaptic vesicles at motor end plates and autonomic ganglia, causing striated muscle paralysis and autonomic deficits.
+
+Q: Which preganglionic parasympathetic fibers terminate in the otic ganglion?
+A) Fibers from the superior salivatory nucleus via CN VII
+B) Fibers from the dorsal motor nucleus via CN X
+C) Fibers from the Edinger–Westphal nucleus via CN III
+D) Fibers from the sacral spinal cord
+E) Fibers from the inferior salivatory nucleus via CN IX
+Answer: E
+Explanation: Inferior salivatory fibers go via the tympanic nerve and lesser petrosal nerve to the otic ganglion; postganglionic fibers reach the parotid via the auriculotemporal nerve.
+
+Q: A 70-year-old man has a spinal lesion that destroys the S2–S4 segments and has an atonic bladder with overflow incontinence. Which innervation is affected?
+A) Femoral nerve
+B) Phrenic nerve
+C) Vagus nerve
+D) Hypogastric sympathetic nerves only
+E) Parasympathetic pelvic splanchnic nerves and the pudendal nerve
+Answer: E
+Explanation: Bladder detrusor contraction is mediated by pelvic splanchnic (S2–S4) parasympathetics; the external urethral sphincter is by the pudendal nerve. Sympathetic damage has little effect.
+
+Q: Which pathway is responsible for the inhibitory control of prolactin release?
+A) Mesolimbic pathway
+B) Serotonergic pathway from the raphe
+C) Nigrostriatal pathway
+D) Noradrenergic pathway from the locus ceruleus
+E) Dopaminergic tuberoinfundibular pathway from the arcuate nucleus
+Answer: E
+Explanation: Dopamine is the prolactin-inhibiting factor. Dopamine antagonists thus raise prolactin.
+
+Q: Which nucleus contains the largest concentration of noradrenergic neurons in the CNS?
+A) Substantia nigra
+B) Nucleus basalis of Meynert
+C) Ventral tegmental area
+D) Dorsal raphe nucleus
+E) Locus ceruleus
+Answer: E
+Explanation: The locus ceruleus in the pons projects widely to the whole CNS and shows neuronal loss in Alzheimer and Parkinson disease; it is implicated in anxiety and panic disorders.
+
+Q: Describe the descending endogenous analgesia pathway.
+A) Locus ceruleus → thalamus → cortex
+B) Hypothalamus → pituitary
+C) Substantia nigra → striatum
+D) Periaqueductal gray → nucleus raphe magnus → serotonergic fibers → enkephalinergic interneurons in the substantia gelatinosa
+E) Raphe nuclei → basal nucleus of Meynert
+Answer: D
+Explanation: Enkephalin inhibits substance P release from primary pain afferents and inhibits tract neurons of the spinothalamic and spinoreticular tracts.
+
+Q: A 72-year-old has progressive memory loss, and autopsy shows neurofibrillary tangles, senile plaques, and degeneration of the nucleus basalis of Meynert. Which neurotransmitter is reduced?
+A) Serotonin in the pineal
+B) Dopamine
+C) GABA in the striatum
+D) Norepinephrine in the adrenal medulla
+E) Acetylcholine
+Answer: E
+Explanation: Alzheimer disease features reduced choline acetyltransferase in the cortex, with senile plaques containing amyloid and neurofibrillary tangles.
+
+Q: A man with tetanus-like rigidity is poisoned with strychnine. Which neurotransmitter system is blocked?
+A) Nicotinic receptors
+B) Substance P receptors
+C) Glycine (Renshaw cells in spinal cord)
+D) GABA-A receptors in the cerebellum
+E) Glutamate NMDA receptors
+Answer: C
+Explanation: Glycine is the major inhibitory neurotransmitter of the spinal cord, used by Renshaw cells; strychnine blocks glycine receptors. GABA is the major inhibitory neurotransmitter of the brain.
+
+Q: A 64-year-old right-handed man has a left frontal stroke; speech is slow and effortful with good comprehension, poor repetition, and right face and arm weakness. Which aphasia?
+A) Wernicke aphasia
+B) Conduction aphasia
+C) Global aphasia
+D) Broca (expressive) aphasia
+E) Anomic aphasia
+Answer: D
+Explanation: A lesion of the inferior frontal gyrus (areas 44, 45) causes nonfluent, telegraphic speech with intact comprehension; MCA superior division infarcts commonly accompany contralateral lower face and arm weakness.
+
+Q: A 70-year-old has fluent speech with word substitutions, poor comprehension, no awareness of the deficit, and a right upper quadrantanopia. Where is the lesion?
+A) Right superior temporal gyrus
+B) Left arcuate fasciculus
+C) Left posterior superior temporal gyrus (area 22)
+D) Left angular gyrus
+E) Left inferior frontal gyrus
+Answer: C
+Explanation: Wernicke aphasia presents with fluent paraphasic speech with neologisms, poor comprehension and repetition, and often a superior quadrantanopia due to involvement of the optic radiations.
+
+Q: A patient has fluent speech with good comprehension but cannot repeat the phrases. Which structure is interrupted?
+A) Fornix
+B) Arcuate fasciculus
+C) Corpus callosum splenium
+D) Anterior commissure
+E) Uncinate fasciculus
+Answer: B
+Explanation: Conduction aphasia results from transection of the arcuate fasciculus connecting Wernicke and Broca areas; paraphasic errors are common and patients are aware of the deficit.
+
+Q: A man cannot write, calculate, tell right from left, or name his fingers. Which gyrus is involved?
+A) Left inferior frontal gyrus
+B) Left angular gyrus (area 39)
+C) Left cingulate gyrus
+D) Left fusiform gyrus
+E) Right angular gyrus
+Answer: B
+Explanation: Gerstmann syndrome (dominant angular gyrus lesion) includes agraphia, dyscalculia, finger agnosia, and left–right disorientation.
+
+Q: A 68-year-old with a right parietal stroke ignores the left half of his body, denies illness, and draws only the right half of a clock. What is this?
+A) Conduction aphasia
+B) Alexia without agraphia
+C) Wernicke aphasia
+D) Hemineglect from a nondominant inferior parietal lesion
+E) Gerstmann syndrome
+Answer: D
+Explanation: Nondominant inferior parietal (supramarginal and angular gyri) lesions result in contralateral neglect, anosognosia, constructional and dressing apraxia, and inability to negotiate familiar surroundings.
+
+Q: Which layer of the neocortex contains the giant pyramidal cells of Betz in the motor cortex?
+A) Layer II
+B) Layer IV
+C) Layer V
+D) Layer I
+E) Layer VI
+Answer: C
+Explanation: Layer V (internal pyramidal) gives rise to corticobulbar, corticospinal, and corticostriatal fibers. Layer IV is the main thalamocortical input and contains the stria of Gennari in the visual cortex.
