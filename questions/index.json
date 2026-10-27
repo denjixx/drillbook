@@ -4,5 +4,7 @@
   { "name": "Upper Limb [Part II]", "file": "UpperLimb2.txt" },
   { "name": "Upper Limb [Clinics]", "file": "UpperLimb3.txt" },
   { "name": "Upper Limb [BRS]", "file": "UpperLimb4.txt" },
-  { "name": "Lower Limb [Part I]", "file": "LowerLimb1.txt" }
+  { "name": "Lower Limb [Part I]", "file": "LowerLimb1.txt" },
+  { "name": "Neuro [Part I]", "file": "Neuro1.txt" },
+  { "name": "Neuro [Part II]", "file": "Neuro2.txt" }
 ]
