@@ -1,0 +1,476 @@
+Q: A stab wound penetrates the posterior thoracic wall near vertebra of a 24-year-old man. Examination at the emergency department indicates a lesion of gray rami communicantes. Which of the following nerve fibers would most likely be damaged?
+A) General somatic afferent (GSA) fibers
+B) Postganglionic parasympathetic fibers
+C) Preganglionic sympathetic fibers
+D) Postganglionic sympathetic fibers
+E) General visceral afferent (GVA) fibers
+Answer: D
+Explanation: Gray rami communicantes contain postganglionic sympathetic nerve fibers but contain no other nerve fibers.
+
+Q: A 31-year-old NHL hockey player complains of numbness in the area of his umbilicus after the national championship game. Which of the following structures that carries GSA fibers was injured during the hockey game?
+A) Sympathetic trunk
+B) Dorsal root
+C) Greater splanchnic nerve
+D) Gray rami communicantes
+E) White rami communicantes
+Answer: B
+Explanation: The dorsal root contains both GSA and GVA fibers. The sympathetic trunk contains preganglionic sympathetic fibers. The greater splanchnic nerve and white rami communicantes contain GVA and preganglionic sympathetic fibers. The gray rami communicantes contain sympathetic postganglionic (GVE) fibers.
+
+Q: A 75-year-old veteran suffers a heart attack and is found in his home unconscious. He is in ventricular tachycardia and is shocked into normal sinus rhythm. He undergoes emergent catheterization and is found to have a thrombosis in the coronary sinus. Which of the following cardiac veins might remain normal in diameter by catheterization study by the cardiologist?
+A) Great cardiac vein
+B) Middle cardiac vein
+C) Anterior cardiac vein
+D) Small cardiac vein
+E) Oblique cardiac vein
+Answer: C
+Explanation: Because the anterior cardiac vein drains directly into the right atrium, its diameter is unchanged. However, all other cardiac veins drain into the coronary sinus, and they are dilated.
+
+Q: A 35-year-old man is suffering from an infected mediastinum (mediastinitis) after neck and chest injuries resulting from a head-on automobile collision. He has been intubated since the accident and on broadspectrum intravenous antibiotics since admission; however, the infection continues to progress throughout the mediastinum. Which of the following structures is free from infection?
+A) Thymus gland
+B) Esophagus
+C) Trachea
+D) Lungs
+E) Heart
+Answer: D
+Explanation: The mediastinum does not contain the lungs; it contains the thymus, esophagus, trachea, and heart.
+
+Q: A 42-year-old man suffers from a rare tongue disease and comes to the emergency department. On examination, he is unable to protrude his tongue. Which of the following muscles is paralyzed?
+A) Hyoglossus
+B) Genioglossus
+C) Styloglossus
+D) Palatoglossus
+E) Geniohyoid
+Answer: B
+Explanation: The genioglossus protrudes the tongue. The hyoglossus and styloglossus muscles retract the tongue. The palatoglossus elevates the tongue. The geniohyoid elevates the hyoid bone and the floor of the mouth.
+
+Q: A new biotech company is interested in developing a new mechanical heart with a superficial implantable and rechargeable battery for easy access. During the design phase, the physician hired from the local academic hospital is asked about which structure carries or comes in contact with oxygenated blood. Which of the following answers is correct?
+A) Pectinate muscle
+B) Crista terminalis
+C) Septomarginal trabecula
+D) Pulmonary vein
+E) Pulmonary artery
+Answer: D
+Explanation: The pulmonary veins carry oxygenated blood, and the pulmonary artery carries deoxygenated blood. The right atrium (which contains the crista terminalis and pectinate muscle) and the right ventricle (which contains the septomarginal trabecula) carry deoxygenated blood.
+
+Q: A 62-year-old man is diagnosed with a Pancoast’s tumor that invades the inferior trunk of the brachial plexus. Which of the following muscle actions most likely resulted from injury to the brachial plexus?
+A) Lateral rotation of the arm
+B) Extension of the ring finger
+C) Abduction of the index finger
+D) Flexion of the forearm
+E) Pronation of the forearm
+Answer: C
+Explanation: The ulnar nerve arises from the lower trunk of the brachial plexus, which is formed by ventral primary rami of C8 and T1. Abduction of the index finger is done by the palmar interosseous muscle, which is innervated by the ulnar nerve. Lateral rotation of the arm is performed by the deltoid and teres minor muscles, which are innervated by the axillary nerve. The ring finger is extended by the extensor digitorum, which is innervated by the radial nerve. The forearm is flexed by the biceps brachii and brachialis muscles, which are innervated by the musculocutaneous nerve. Pronator teres and pronator quadratus muscles, which pronate the forearm, are innervated by the median nerve.
+
+Q: A 67-year-old woman complains of increasing urinary frequency and a heaviness in her pelvic area. On examination, her uterine cervix is visible at the vaginal opening. This symptom is caused by which of the following conditions?
+A) Tear of the transversalis fascia
+B) Weakness of the ovarian ligament
+C) Relaxation of the cardinal ligament
+D) Weakness of the arcuate pubic ligament
+E) Paralysis of the piriformis muscle
+Answer: C
+Explanation: The cardinal ligament provides the major support for the uterus. Therefore, the weakness of the cardinal ligament may result in uterine prolapse. The transversalis fascia, ovarian ligament, arcuate pubic ligament, and piriformis muscles do not support the uterus.
+
+Q: Weight lifters in competition are often concerned about muscle tone and complications with hernias. In particular, the most common hernia in this case is an indirect inguinal hernia, which appears:
+A) Lateral to the inferior epigastric artery
+B) Between the inferior epigastric and obliterated umbilical arteries
+C) Medial to the obliterated umbilical artery
+D) Between the median and medial umbilical folds
+E) Between the linea alba and linea semilunaris
+Answer: A
+Explanation: An indirect inguinal hernia occurs lateral to the inferior epigastric vessels, whereas a direct inguinal hernia arises medial to these vessels. The other statements are not related to the indirect inguinal hernia.
+
+Q: A 32-year-old man is involved in a car accident and receives a crushed internal injury in his abdomen. Examination reveals a lesion of parasympathetic fibers in the vagus nerve, which interferes with glandular secretory or smooth muscle functions in which of the following organs?
+A) Bladder
+B) Transverse colon
+C) Sigmoid colon
+D) Prostate gland
+E) Rectum
+Answer: B
+Explanation: The vagus nerve supplies parasympathetic fibers to the thoracic and abdominal viscera, including the transverse colon. The descending colon, sigmoid colon, prostate, rectum, and other pelvic viscera are innervated by the pelvic splanchnic nerves.
+
+Q: Pancreatic cancer has one of the highest mortality rates of all cancers because of the lack of symptoms until an advanced stage of disease. The one exception is the cancer that is slow growing and located in the head of the pancreas. This may present in an early stage by causing compression of which of the following structures?
+A) Duodenojejunal junction
+B) Gastroduodenal artery
+C) Bile duct
+D) Inferior mesenteric artery
+E) Common hepatic duct
+Answer: C
+Explanation: The bile duct traverses the head of the pancreas; thus, a tumor located there could compress this structure. The duodenojejunal junction comes into contact with the tip of the uncinate process and the interior portion of the body of the pancreas. The other structures are not closely associated with the head of the pancreas.
+
+Q: An elderly man with a known large abdominal aortic aneurysm presents to the emergency department with acute severe and diffuse pain in his abdomen. The physician performing the evaluation considers mesenteric ischemia, a life-threatening disease, as a possible etiology. Which of the following organs may be spared from ischemia in the presence of an occlusive lesion in the celiac trunk?
+A) Liver
+B) Spleen
+C) Pancreas
+D) Gallbladder
+E) Stomach
+Answer: C
+Explanation: The arterial supply to the pancreas is from both the celiac trunk and superior mesenteric artery. Other organs, including the liver, spleen, gallbladder, and stomach, receive blood from the celiac trunk.
+
+Q: A young woman with cryptogenic cirrhosis presents to the university hospital for an evaluation as a possible candidate for liver transplant. She has late-stage cirrhosis, and her liver-spleen scan shows a high degree of portal hypertension. The portal venous system includes which of the following veins?
+A) Left suprarenal vein
+B) Inferior epigastric vein
+C) Superior rectal vein
+D) Azygos vein
+E) Hepatic vein
+Answer: C
+Explanation: The superior rectal vein is part of the portal venous system. All the other veins belong to the systemic (caval) venous system.
+
+Q: A 2-month-old boy is admitted to the hospital with diarrhea, vomiting, and difficulty in bowel movements. A computed tomography (CT) scan of his abdomen reveals a distinctly dilated lower colon and is diagnosed as having Hirschsprung’s disease. Which of the following is the most likely embryonic mechanism responsible for development of this congenital megacolon?
+A) Malrotation of the hindgut
+B) Abnormal formation of the urorectal septum
+C) Failure of neural crest cell migration into the hindgut
+D) Absence of visceral afferent cells in the myenteric plexus
+E) Failure of partitioning of the cloaca
+Answer: C
+Explanation: Hirschsprung’s disease (congenital megacolon) is abnormal dilatation of the lower colon proximal to the inactive segment and caused by the absence of enteric ganglia (parasympathetic postganglionic neuron cell bodies) in the myenteric plexus in the wall of the colon due to the failure of neural crest cells to migrate into the walls of the hindgut or colon. Abnormal rotation of the hindgut as they return to the abdominal cavity can cause volvulus or strangulation (twisting) of the gut. Abnormal formation of the urorectal septum or deficient (incomplete) separation of the cloaca results in anal agenesis.
+
+Q: A 29-year-old farmer falls on tractor blades and injures his groin. Several days later, he comes to the emergency department, and examination by a physician reveals that the urogenital diaphragm and bulbourethral glands are infected. The infected deep perineal space:
+A) Is formed superiorly by the perineal membrane
+B) Is formed inferiorly by Colles’s fascia
+C) Contains a segment of the dorsal nerve of the penis
+D) Contains superficial transverse perineal muscles
+E) Contains the greater vestibular glands
+Answer: C
+Explanation: The deep perineal space contains a segment of the dorsal nerve of the penis in males. The deep perineal space is bounded superiorly by the superior fascia and inferiorly by the inferior fascia (perineal membrane) of the urogenital diaphragm. The superficial transverse perineal muscles and the greater vestibular glands are found in the superficial perineal space. The Colles’s fascia is the deep membranous layer of the superficial perineal fascia and forms the inferior boundary of the superficial perineal space.
+
+Q: A 2-day-old baby is admitted to the hospital with vomiting, fever, and rectal bleeding. Physical and CT scan examinations reveal small bowel obstruction and are diagnosed as having Meckel’s diverticulum. Which portion of the gastrointestinal tract is most likely involved in the development of the diverticulum that may be connected to the inner surface of the umbilicus by a fibrous cord?
+A) Stomach
+B) Jejunum
+C) Ileum
+D) Appendix
+E) Sigmoid colon
+Answer: C
+Explanation: The ileum is the most common site of Meckel’s diverticulum, which is located on the antimesenteric border of the ileum. This finger-like pouch (diverticulum) is the remnant of the proximal portion of the embryonic yolk stalk (vitelline duct), which may be connected to the inner surface of the umbilicus via a fibrous cord or fistula. The other digestive organs are not associated with the development of the Meckel’s diverticulum.
+
+Q: A 59-year-old woman has a large pelvic tumor that compresses the inferior hypogastric (pelvic) plexus. Parasympathetic nerve fibers in this plexus come from which of the following nerves?
+A) Lumbar splanchnic nerves
+B) Pelvic splanchnic nerves
+C) Sacral sympathetic chain ganglia
+D) Vagus nerve
+E) Sacral splanchnic nerves
+Answer: B
+Explanation: The inferior hypogastric (pelvic) plexus contains preganglionic parasympathetic fibers from the pelvic splanchnic nerves. The lumbar and sacral splanchnic nerves and the sacral sympathetic chain ganglia contain preganglionic sympathetic fibers. The vagus nerve does not supply parasympathetic nerve fibers to the pelvic organs.
+
+Q: Because of a lesion, the parasympathetic nerve fibers are unable to induce a contraction of the detrusor muscle and relaxation of the internal sphincter. The injured parasympathetic fibers that supply the urinary bladder are derived from which of following nerves?
+A) Vagus nerve
+B) Pelvic splanchnic nerve
+C) Sacral splanchnic nerve
+D) Lesser splanchnic nerve
+E) Greater splanchnic nerve
+Answer: B
+Explanation: The urinary bladder receives parasympathetic fibers from the pelvic splanchnic nerve, not the vagus nerve. The greater, lesser, lumbar, and sacral splanchnic nerves contain sympathetic preganglionic fibers.
+
+Q: At a local hospital tumor board, a gynecologic oncologist discusses the next case for the multidisciplinary team. He explains the rationale for using chemotherapy and radiation after surgical resection because carcinoma of the uterus can spread directly to the labia majus through lymphatics that follow the:
+A) Ovarian ligament
+B) Suspensory ligament of the ovary
+C) Round ligament of the uterus
+D) Uterosacral ligaments
+E) Pubocervical ligaments
+Answer: C
+Explanation: Carcinoma of the uterus can spread directly to the labium majus through the lymphatics that follow the round ligament of the uterus. This ligament extends from the uterus, enters the inguinal canal at the deep inguinal ring, emerges from the superficial inguinal ring, and merges with the subcutaneous tissue of the labium majus. The other ligaments do not reach the labium majus.
+
+Q: A young couple is seeing a sex therapist for the first time to determine the cause of some of their recent difficulties. The husband tells the therapist that he no longer has sensation in his scrotum after a race car accident. Which of the following nerves carries undamaged sensory nerve fibers?
+A) Ilioinguinal nerve
+B) Genitofemoral nerve
+C) Iliohypogastric nerve
+D) Perineal branch of the pudendal nerve
+E) Perineal branch of the posterior femoral cutaneous nerve
+Answer: C
+Explanation: The iliohypogastric nerve does not supply the scrotum. The scrotum is innervated by the anterior scrotal branch of the ilioinguinal nerve, the genital branch of the genitofemoral nerve, the posterior scrotal branch of the perineal branch of the pudendal nerve, and the perineal branch of the posterior femoral cutaneous nerve.
+
+Q: A patient has a damaged pelvic outlet as the result of an automobile accident. Following this accident, which of the following structures is still intact?
+A) Sacrotuberous ligament
+B) Inferior pubic ramus
+C) Pubic crest
+D) Ischial tuberosity
+E) Coccyx
+Answer: C
+Explanation: Although the pubic crest forms a part of the pelvic inlet (pelvic brim), it does not contribute to the formation of the pubic outlet. The pelvic outlet (lower pelvic aperture) is bounded posteriorly by the sacrum and coccyx; laterally by the ischial tuberosities and sacrotuberous ligaments; and anteriorly by the pubic symphysis, the arcuate ligament, and the rami of the pubis and ischium.
+
+Q: A forensic pathologist is examining the pelvic bone of a murder victim to identify the sex of the victim. Which of the following characteristics is that of a female pelvis?
+A) Oval-shaped pelvic inlet
+B) Smaller pelvic outlet
+C) Lesser pubic angle
+D) Narrower and longer sacrum
+E) Narrower and deeper pelvic cavity
+Answer: A
+Explanation: Compared with the male pelvis, the female pelvis is characterized by presence of the oval inlet, larger outlet, larger pubic angle, shorter and wider sacrum, and wider and shallower cavity.
+
+Q: A 26-year-old woman experiences severe back pain from an automobile accident. A CT scan reveals that the L5 vertebral foramen is completely obliterated by a collapsed L5 laminae and pedicles. In this injury, which of the following structures is crushed?
+A) Vertebral artery
+B) Spinal cord
+C) Filum terminale externus (filum of the dura)
+D) Denticulate ligament
+E) Cauda equina
+Answer: E
+Explanation: The cauda equina is formed by dorsal and ventral roots of the lumbar and sacral spinal nerves. Thus, it is crushed at the level of the L5 vertebra, whereas the other structures are not. The vertebral artery, which arises from the subclavian artery, ascends through the transverse foramina of the upper six cervical vertebrae. The spinal cord ends at the level of the L2 vertebra. The filum terminale externus (filum of the dura) extends from the apex of the dura at the level of the S2 vertebra to the dorsum of the coccyx. The denticulate ligament, a lateral extension of the pia between the dorsal and ventral roots of the spinal nerves, consists of 21 pairs of processes, the last one lying between the T12 and L1 spinal nerves.
+
+Q: A performer at the traveling circus for the state fair has injured her shoulder during a routine. When she fell off the trapeze, she struck the ground on her back, and most of the blunt force was directed toward her shoulders. A crush injury of the suboccipital nerve would result in paralysis of which of the following muscles?
+A) Splenius capitis
+B) Trapezius
+C) Rectus capitis posterior major
+D) Levator scapulae
+E) Iliocostalis
+Answer: C
+Explanation: The suboccipital nerve supplies the suboccipital muscles, including the rectus capitis posterior major. The dorsal primary rami of the spinal nerves innervate the deep muscles of the back, including the splenius capitis and iliocostalis muscles. The spinal accessory nerve innervates the trapezius muscle, and the dorsal scapular nerve innervates the levator scapulae muscle; these are the superficial muscles of the back.
+
+Q: A neonate is brought to the pediatrician with headaches, fevers, and change in mental status, mostly manifested as lethargy and lack of appetite. The baby is admitted emergently to rule out meningitis and is to undergo a diagnostic lumbar puncture. When withdrawing cerebrospinal fluid (CSF), the needle may penetrate which of the following pairs of structures?
+A) Dura mater and denticulate ligament
+B) Arachnoid mater and pia mater
+C) Dura mater and arachnoid mater
+D) Annulus fibrosus and pia mater
+E) Arachnoid mater and nucleus pulposus
+Answer: C
+Explanation: To obtain cerebrospinal fluid (CSF) contained in the subarachnoid space, the needle should penetrate the dura mater and arachnoid mater. The denticulate ligament, pia mater, annulus fibrosus, and nucleus pulposus should not be penetrated during a lumbar puncture.
+
+Q: Mrs. Jones was riding in the front seat of her son’s van when the vehicle abruptly stopped. Unfortunately, she was not wearing her seatbelt and was thrown forward. As a result of the accident, the transverse processes of her cervical vertebrae were crushed against the dashboard of the van. Which of the following muscles might be paralyzed?
+A) Trapezius
+B) Latissimus dorsi
+C) Rhomboid major
+D) Levator scapulae
+E) Serratus posterior superior
+Answer: D
+Explanation: The levator scapulae are attached to the transverse processes of the upper cervical vertebrae. All of the other muscles are attached to the spinous processes.
+
+Q: A middle-aged woman is receiving a shiatsu massage when her therapist notices that the client has numbness of her back. A lack of sensation overlying the skin over the anterior triangle of the neck may be due to injury to which of the following nerves?
+A) Great auricular nerve
+B) Transverse cervical nerve
+C) Superior ramus of the ansa cervicalis
+D) Inferior ramus of the ansa cervicalis
+E) Superior laryngeal nerve
+Answer: B
+Explanation: The transverse cervical nerve innervates the skin over the anterior cervical triangle; the great auricular nerve innervates the skin behind the auricle and over the parotid gland. The ansa cervicalis innervates the infrahyoid muscles, including the sternohyoid, sternothyroid, and omohyoid muscles. The superior laryngeal nerve divides into the internal laryngeal nerve, which supplies sensory fibers to the larynx above the vocal cord, and the external laryngeal nerve, which supplies the cricothyroid and inferior pharyngeal constrictor muscles.
+
+Q: A young man presents to your clinic with a 3-month history of an enlarging mass in his right neck. He undergoes a CT scan that reveals a fluid-filled mass where the common carotid artery bifurcates. Which of the following is another structure that would be located at this level?
+A) Thyroid isthmus
+B) Cricoid cartilage
+C) Sternal angle
+D) Superior border of the thyroid cartilage
+E) Jugular notch
+Answer: D
+Explanation: The common carotid artery normally bifurcates into the external and internal carotid arteries at the level of the superior border of the thyroid cartilage. The thyroid isthmus crosses the second and third tracheal rings. The cricoid cartilage is at the level of CV6, and its lower border marks the end of the pharynx and larynx. The sternal angle is at the level of the intervertebral disk between TV4 and TV5, where the aortic arch begins and ends. The jugular notch is at the level of TV3.
+
+Q: A kick fighter is brought into the locker room after being knocked out by his opponent. He has suffered severe trauma to the articular disk and capsule of the temporomandibular joint. This could result in paralysis of which of the following muscles?
+A) Masseter
+B) Temporalis
+C) Medial pterygoid
+D) Lateral pterygoid
+E) Buccinator
+Answer: D
+Explanation: The lateral pterygoid muscle is paralyzed because it inserts on the articular disk and capsule of the temporomandibular joint. The temporalis muscle inserts on the coronoid process, and the medial pterygoid and masseter muscles insert on the medial and lateral surfaces of the ramus and angle of the mandible, respectively. The buccinator muscle inserts into the orbicularis oris at the angle of the mouth.
+
+Q: A 25-year-old woman is suffering from facial paralysis and exhibits ptosis (drooping of the upper eyelid). Injury to which of the following nerves would result in ptosis?
+A) Trochlear nerve
+B) Abducens nerve
+C) Oculomotor nerve
+D) Ophthalmic nerve
+E) Facial nerve
+Answer: C
+Explanation: Damage to the oculomotor nerve results in ptosis (drooping) of the eyelid because the levator palpebrae superioris is innervated by the oculomotor nerve. The trochlear nerve innervates the superior oblique, and the abducens nerve innervates the lateral rectus. The oculomotor nerve innervates the remaining ocular muscles. The facial nerve innervates the orbicularis oculi, which functions to close the eyelids.
+
+Q: A 67-year-old man is known to have infection in the superior petrosal sinus. The infected sinus lies in the margin of which of the following structures?
+A) Tentorium cerebelli
+B) Falx cerebri
+C) Falx cerebelli
+D) Diaphragma sellae
+E) Straight sinus
+Answer: A
+Explanation: The superior petrosal sinus lies in the margin of the tentorium cerebelli. The falx cerebri contains the inferior and superior sagittal sinuses, and the falx cerebelli encloses the occipital sinus. The diaphragma sellae forms the dural roof of the sella turcica. The straight sinus runs along the line of attachment of the falx cerebri and tentorium cerebelli.
+
+Q: A 59-year-old man has pus in the loose connective tissue layer of the scalp, and consequently, his superior sagittal sinus is infected. The arachnoid granulations in the infected sinus:
+A) Absorb CSF into the dural venous sinuses
+B) Are storage areas for CSF
+C) Produce CSF
+D) Allow CSF to return to the ventricles of the brain
+E) Filter venous blood into CSF
+Answer: A
+Explanation: Arachnoid granulations are tuft-like collections of highly folded arachnoid that project into the superior sagittal sinus and the lateral lacunae, which are lateral extensions of the superior sagittal sinus. They absorb the CSF into dural sinuses and often produce erosion or pitting of the inner surface of the calvaria. The CSF is produced in the ventricles of the brain.
+
+Q: While speaking at a charity program, an elderly woman suddenly collapses to the ground. She is found to have a massive stroke, but it is unclear where the vascular lesion is located. She undergoes a cerebral arteriogram. Normally, the great cerebral vein of Galen drains directly into which of the following sinuses?
+A) Superior sagittal sinus
+B) Inferior sagittal sinus
+C) Cavernous sinus
+D) Transverse sinus
+E) Straight sinus
+Answer: E
+Explanation: The great cerebral vein of Galen and the inferior sagittal sinus unite to form the straight sinus.
+
+Q: While resecting a tumor in the palate, a surgical intern removes the mass but finds that it is deeply invasive into the tendon that loops around the pterygoid hamulus. Which of the following muscles would most likely be paralyzed?
+A) Tensor tympani
+B) Tensor veli palatini
+C) Levator veli palatini
+D) Superior pharyngeal constrictor
+E) Stylohyoid
+Answer: B
+Explanation: The tendon of the tensor veli palatini curves around the pterygoid hamulus to insert on the soft palate. The tensor tympani inserts on the handle of the malleus, the levator veli palatini inserts on the soft palate, the superior pharyngeal constrictor inserts on the median raphe and the pharyngeal tubercle, and the stylohyoid inserts on the body of the hyoid.
+
+Q: During a domestic incident, a 28-yearold woman receives a vertical stab wound that lacerates the pterygomandibular raphe. As a result, which of the following muscles would be paralyzed?
+A) Superior and middle pharyngeal constrictors
+B) Middle and inferior pharyngeal constrictors
+C) Superior pharyngeal constrictor and buccinator muscles
+D) Medial and lateral pterygoid muscles
+E) Tensor veli palatini and levator veli palatini
+Answer: C
+Explanation: The pterygomandibular raphe serves as a common origin for the superior pharyngeal constrictor and buccinator muscles. None of the other choices are involved with the pterygomandibular raphe.
+
+Q: A 31-year-old football player with a head injury is brought to a local emergency department. Physical examination, radiogram, and a magnetic resonance imaging scan indicate a lesion of the trigeminal nerve. Which of the following muscles is most likely paralyzed?
+A) Geniohyoid
+B) Palatoglossus
+C) Cricothyroid
+D) Tensor veli palatini
+E) Levator veli palatini
+Answer: D
+Explanation: The tensor veli palatini is innervated by the trigeminal nerve, the levator veli palatini and palatoglossus are innervated by the vagus nerve, the cricothyroid is innervated by the external laryngeal branch of the superior laryngeal nerve, and the geniohyoid muscle is innervated by the first cervical nerve through the hypoglossal nerve.
+
+Q: The muscle that indents the submandibular gland and divides it into superficial and deep parts is paralyzed because of compression by a large salivary glandular tumor. Which of the following muscles is involved?
+A) Hyoglossus
+B) Digastric posterior belly
+C) Styloglossus
+D) Stylohyoid
+E) Mylohyoid
+Answer: E
+Explanation: The mylohyoid muscle indents the submandibular gland and divides it into superficial and deep parts. The deep portion of the gland is located between the mylohyoid muscle laterally and the hyoglossus and styloglossus muscles medially. Posteriorly, the gland lies against the posterior digastric and stylohyoid muscles.
+
+Q: A young homeless child presents to the emergency department with high fever and low blood pressure. He had strep throat 2 weeks ago when seen in the free clinic; however, his parents could not afford antibiotic medication, and he did not take any. He now has an abscess in the auditory tube that is blocking communication between the nasopharynx and which of the following structures?
+A) Vestibule of the inner ear
+B) Middle ear
+C) Semicircular canals
+D) External ear
+E) Inner ear
+Answer: B
+Explanation: The auditory (eustachian) tube connects the nasopharynx with the middle ear cavity. The vestibule and semicircular canals are parts of the inner ear. The external ear and inner ear communicate with the nasopharynx.
+
+Q: A man with a neuromuscular autoimmune disease has another attack at home. His wife calls the doctor’s office because he is unable to speak. Once at the office, he is unable to open his jaw because of paralysis of which of the following muscles?
+A) Medial pterygoid
+B) Masseter
+C) Temporalis
+D) Lateral pterygoid
+E) Buccinator
+Answer: D
+Explanation: The action of the lateral pterygoid muscles opens the jaws. The medial pterygoid, masseter, and temporalis muscles are involved in closing the jaws. The buccinator presses the cheek to keep it taut.
+
+Q: A 29-year-old baseball player whose head is hit by a high-speed baseball is brought to an emergency department. Physical examination and radiogram reveal fracture of the temporal bone and damage to the lesser petrosal nerve. Which of the following conditions could occur as a result of injury to the lesser petrosal nerve?
+A) Lack of lacrimal secretion
+B) Lack of submandibular gland secretion
+C) Lack of parotid gland secretion
+D) Constriction of the pupil
+E) Ptosis of the upper eyelid
+Answer: C
+Explanation: Parasympathetic preganglionic fibers in the lesser petrosal nerve enter the otic ganglion where they synapse, and postganglionic parasympathetic fibers join the auriculotemporal nerve to supply the parotid gland for secretion of saliva. The other conditions are not caused by a lesion of the lesser petrosal nerve.
+
+Q: A 26-year-old woman with the flu comes to an outpatient clinic. On examination, a physician diagnoses her with sinus and palate infection, and her uvula deviates to the left side on phonation. Which of the following nerves is injured?
+A) Left hypoglossal nerve
+B) Right hypoglossal nerve
+C) Left vagus nerve
+D) Right vagus nerve
+E) Left trigeminal nerve
+Answer: D
+Explanation: The musculus uvulae are innervated by the vagus nerve. A lesion of the vagus nerve results in deviation of the uvula toward the opposite side of the injury. An injury of the right vagus nerve causes paralysis of the right uvular muscle, which means that the uvula deviates toward the left. A lesion of the hypoglossal nerve causes deviation of the tongue toward the injured side on protrusion. A lesion of the trigeminal nerve (mandibular division) causes paralysis of the mastication muscles.
+
+Q: During a palatine tonsillectomy, a surgeon must ligate arteries to avoid bleeding within the surgical field. Which of the following arteries can be spared?
+A) Lesser palatine artery
+B) Facial artery
+C) Lingual artery
+D) Superior thyroid artery
+E) Ascending pharyngeal artery
+Answer: D
+Explanation: The superior thyroid artery does not supply the palatine tonsil. The palatine tonsil receives blood from the lesser palatine branch of the maxillary artery, the ascending palatine branch of the facial artery, the dorsal lingual branches of the lingual artery, and the ascending pharyngeal artery.
+
+Q: A young child is evaluated by his pediatrician for chronic nosebleeds. He is referred to an allergist when it is determined that his nasal cavity is chronically dry because of a lack of glandular secretions. A possible etiology may be a lesion of which of the following structures?
+A) Superior cervical ganglion
+B) Lesser petrosal nerve
+C) Facial nerve in the facial canal
+D) Greater petrosal nerve
+E) Deep petrosal nerve
+Answer: D
+Explanation: The parasympathetic secretomotor fibers for mucous glands in the nasal cavity run in the facial nerve, the greater petrosal nerve, the nerve of the pterygoid canal, and the pterygopalatine ganglion. The lesser petrosal nerve contains parasympathetic preganglionic fibers for the parotid gland. The facial nerve in the facial canal contains parasympathetic fibers for submandibular and sublingual salivary glands but not for nasal mucosal glands. The superior cervical ganglion and the deep petrosal nerve contain sympathetic postganglionic nerve cell bodies and/or fibers, which supply blood vessels in the lacrimal gland and the nasal and palate mucosa.
+
+Q: A 12-year-old girl suffers from a type of neural tube defect called tethered cord syndrome, a congenital anomaly that results from defective closure of the neural tube. This syndrome is characterized by an abnormally low conus medullaris, which is tethered by a short, thickened filum terminale, leading to progressive neurologic defects in the legs and feet. Which of the following defects is commonly associated with the tethered cord syndrome?
+A) Spina bifida occulta
+B) Kyphosis
+C) Meningomyelocele
+D) Herniated disk
+E) Scoliosis
+Answer: C
+Explanation: Tethered cord syndrome is frequently associated with meningomyelocele or intraspinal lipomatous growth. Meningomyelocele is a protrusion of the spinal cord and the meninges through the unfused arch of the vertebra. Spinal bifida occulta is a condition caused by failure of the vertebral arch to fuse, with no protrusion of the spinal cord and the meninges. Kyphosis is an abnormal accentuation of lumbar curvature. Herniated disk represents a protrusion of the nucleus pulposus through the annulus fibrosus of the intervertebral disk into the intervertebral foramen or into the vertebral canal, compressing the spinal nerve roots. Scoliosis is a lateral deviation of the spine resulting from unequal growth of the vertebral column.
+
+Q: A 12-year-old girl suffers from a type of neural tube defect called tethered cord syndrome, a congenital anomaly that results from defective closure of the neural tube. This syndrome is characterized by an abnormally low conus medullaris, which is tethered by a short, thickened filum terminale, leading to progressive neurologic defects in the legs and feet. This girl has strong muscle function of the flexors of the thigh, but she has weakness of the extensors (hamstrings). A lesion has occurred at which of the following spinal cord levels?
+A) T12
+B) L1
+C) L3
+D) L5
+E) S5
+Answer: D
+Explanation: The quadratus femoris muscles—the flexors of the thigh—are innervated by the femoral nerve, which originates from the spinal cord at L2 to L4. In contrast, the hamstring muscles—the extensors of the thigh—are innervated by the sciatic nerve, which originates from L4 to S3. Therefore, the lesion occurs at the level of L5 (between L4 and S3).
+
+Q: A 36-year-old plumber slips and breaks a porcelain sink, cutting an anterior aspect of his wrist deeply on a sharp edge. On arrival to the emergency department, he can adduct his thumb but not oppose it. Which of the following structures has been severed?
+A) Radial nerve
+B) Median nerve
+C) Ulnar nerve
+D) Anterior interosseous nerve
+E) Posterior interosseous nerve
+Answer: B
+Explanation: The median nerve enters the palm of the hand through the carpal tunnel deep to the flexor retinaculum, giving off a muscular branch (recurrent branch) to the thenar muscles including the abductor pollicis brevis, flexor pollicis brevis, and opponens pollicis. The ulnar nerve enters the hand superficial to the flexor retinaculum and lateral to the pisiform bone, supplying the hypothenar muscles and adductor pollicis. The patient can adduct his thumb but not oppose it. Therefore, the median nerve is injured. The radial nerve and the anterior and posterior interosseous nerves do not supply the muscle that opposes the thumb.
+
+Q: A 21-year-old soccer player is tackled via a high-impact sweeping injury about the right knee, causing a posterior knee dislocation. Soon after, he is unable to plantar flex his right ankle or flex his toes. He also experiences loss of sensation on the sole of his right foot. Which of the following nerves is most likely injured?
+A) Saphenous nerve
+B) Tibial nerve
+C) Deep peroneal nerve
+D) Superficial peroneal nerve
+E) Common peroneal nerve
+Answer: B
+Explanation: The tibial nerve innervates the triceps surae, plantaris, and posterior tibialis, which plantar flex; innervates the flexor digitorum longus and brevis, flexor hallucis longus and brevis, and flexor digiti minimi brevis, which flex toes; and supplies sensory innervation on the sole of the foot. The common peroneal nerve divides into the deep peroneal nerve, which innervates muscles of the anterior compartment that dorsiflex the foot, and the superficial peroneal nerve, which innervates the peroneus longus and brevis that dorsiflex the foot. The saphenous nerve is a cutaneous nerve and does not supply the muscles.
+
+Q: A 56-year-old man with a one pack/day history of cigarette smoking is found to have a malignant squamous cell carcinoma located in the superior sulcus of Pancoast (superior apex of the lung). Shortly after the diagnosis is known, the patient develops symptoms that consist of shoulder pain along with ptosis, miosis, enophthalmos, and anhidrosis. Which of the following nerves is most likely compressed by the tumor mass?
+A) Phrenic nerve
+B) Vagus nerve
+C) Cervical sympathetic trunk
+D) Ansa cervicalis
+E) Recurrent laryngeal nerve
+Answer: C
+Explanation: Lung cancer in the apex of the lung compresses the cervical sympathetic trunk and stellate ganglion, causing ptosis, miosis, enophthalmos, and anhidrosis, which are symptoms of Horner’s syndrome. Injury of the other nerves does not cause ptosis, miosis, enophthalmos, or anhidrosis.
+
+Q: A 57-year-old woman presents with increasing numbness of the fourth and fifth digits on her right hand. On examination, it is noticed that she has a wasted hypothenar eminence, inability to abduct the thumb, and a characteristic claw hand. Which of the following nerves has most likely been injured?
+A) Axillary nerve
+B) Anterior interosseous nerve
+C) Radial nerve
+D) Ulnar nerve
+E) Median nerve
+Answer: D
+Explanation: The ulnar nerve supplies sensation to the fourth and fifth digits and innervates the hypothenar muscles, the dorsal interosseous muscles that abduct the fingers, and the medial half of the flexor digitorum profundus (to the ring and little fingers or fourth and fifth digits) that flexes the distal interphalangeal joints. Claw hand is a condition in which the ring and little fingers are hyperextended at the metacarpophalangeal joints and flexed at the interphalangeal joints. The axillary and anterior interosseous nerves do not supply the hand. Injury to the radial nerve results in wrist drop. Injury to the median nerve causes an ape hand (flattening of the thenar eminence).
+
+Q: A 47-year-old woman has had a lumpectomy and axillary dissection to check for metastasis. She has come in for her followup appointment, and her physician notices on her physical examination that the medial part of her scapula protrudes from her back and that she is not able to raise her arm above the horizontal level. Which of the following nerves has been damaged during her surgery?
+A) Median nerve
+B) Ulnar nerve
+C) Thoracodorsal nerve
+D) Long thoracic nerve
+E) Radial nerve
+Answer: D
+Explanation: The long thoracic nerve innervates the serratus anterior muscle. Paralysis of this muscle causes a “winged scapula,” in which the vertebral or medial border and inferior angle of the scapula protrude away from the thorax. Other nerves do not supply the serratus anterior muscle.
+
+Q: A 31-year-old carpenter was wounded in his left arm by a utility knife and is brought to a local emergency department. He complains of numbness on the medial side of his arm. Which of the following nerves is most likely injured?
+A) Axillary nerve
+B) Musculocutaneous nerve
+C) Medial brachial cutaneous nerve
+D) Medial antebrachial cutaneous nerve
+E) Radial nerve
+Answer: C
+Explanation: The medial brachial cutaneous nerve supplies the skin on the medial aspect of the arm. The axillary nerve supplies the skin of the lateral side of the arm. The musculocutaneous nerve supplies the lateral side of the forearm as the lateral antebrachial cutaneous nerve. The medial antebrachial cutaneous nerve supplies the medial aspect of the forearm. The radial nerve gives off the posterior brachial and posterior antebrachial cutaneous nerves.
+
+Q: A 54-year-old high school teacher has been diagnosed with coronary artery disease and is going to undergo coronary bypass surgery. During the surgery, the thoracic surgeon decides to use the internal thoracic artery for one of the bypasses. Which of the following arteries gives rise to the internal thoracic artery?
+A) Axillary artery
+B) Superior epigastric artery
+C) Costocervical trunk
+D) Subclavian artery
+E) Ascending aorta
+Answer: D
+Explanation: The internal thoracic or internal mammary artery arises from the subclavian artery. Other arteries do not give rise to the internal thoracic artery. The superior epigastric artery is a branch of the internal thoracic artery.
+
+Q: A 34-year-old singer has been diagnosed with thyroid cancer and consequently has a thyroidectomy. He has been hoarse ever since the surgery 8 weeks ago. It has been suspected that a nerve was injured during the operation. Which of the following nerves is most likely damaged?
+A) External laryngeal nerve
+B) Internal laryngeal nerve
+C) Recurrent laryngeal nerve
+D) Hypoglossal nerve
+E) Glossopharyngeal nerve
+Answer: C
+Explanation: The recurrent laryngeal nerve runs behind the thyroid gland in a groove between the trachea and esophagus and is vulnerable to injury during thyroidectomy. This nerve innervates all of the laryngeal muscles, except the cricothyroid muscle, which is innervated by the external laryngeal nerve. The internal laryngeal nerve is sensory to the larynx above the vocal cord. The hypoglossal and glossopharyngeal nerves do not supply the larynx and are not closely associated with the thyroid gland.
