@@ -1,0 +1,1799 @@
+Q: A 22-year-old man presented to his family physician with a laceration of the fibrous sheets or bands that cover his body under the skin and invest the muscles. Which of the following structures would most likely be injured?
+A) Tendon
+B) Fascia
+C) Synovial tendon sheath
+D) Aponeurosis
+E) Ligament
+Answer: B
+Explanation: The fascia is a fibrous sheet or band that covers the body under the skin and invests the muscles. Although they are fibrous, tendons connect muscles to bones or cartilage, aponeuroses serve as the means of origin or insertion of a flat muscle, and ligaments connect bones to bones or cartilage. Synovial tendon sheets are tubular sacs filled with synovial fluid that wrap around the tendons.
+
+Q: On the basis of the examination at her doctor’s office, a patient is told that her parasympathetic nerves are damaged. Which of the following muscles would most likely be affected?
+A) Muscles in the hair follicles
+B) Muscles in blood vessels
+C) Muscles that act at the elbow joint
+D) Muscles in the gastrointestinal (GI) tract
+E) Muscles enclosed by epimysium
+Answer: D
+Explanation: Smooth muscles in the gastrointestinal tract are innervated by both parasympathetic and sympathetic nerves. Smooth muscles in the wall of the blood vessels and arrector pili muscles in hair follicles are innervated only by sympathetic nerves. Muscles that act at the elbow joint and muscles enclosed by epimysium are skeletal muscles that are innervated by somatic motor (general somatic efferent [GSE]) nerves.
+
+Q: A 46-year-old male patient with high blood pressure was examined in the emergency department, and his physician found a leakage of blood from the blood vessel that normally carries richly oxygenated blood. Which of the following vessels would most likely be damaged?
+A) Superior vena cava
+B) Pulmonary arteries
+C) Pulmonary veins
+D) Portal vein
+E) Coronary sinus
+Answer: C
+Explanation: Pulmonary veins return oxygenated blood to the heart from the lungs. Pulmonary arteries carry deoxygenated blood from the heart to the lungs for oxygen renewal. The portal vein carries deoxygenated blood with nutrients from the intestine to the liver. The superior vena cava and coronary sinus carry deoxygenated blood to the right atrium.
+
+Q: A 16-year-old patient received a stab wound, and axons of the general somatic efferent (GSE) neurons to the shoulder muscles were severed. The damaged axons:
+A) Would carry impulses toward the cell bodies
+B) Would carry impulses away from the cell bodies
+C) Would carry pain impulses
+D) Are several in numbers for multipolar neurons
+E) Are found primarily in the gray matter
+Answer: B
+Explanation: The axons of the neurons carry impulses away from the cell bodies, and dendrites carry impulses to the cell bodies. The axons contain sensory or motor fibers. Multipolar neurons have several dendrites and one axon. The GSE neurons do not carry sensory impulses. The gray matter of the central nervous system consists largely of neuron cell bodies, dendrites, and neuroglia, whereas the white matter consists largely of axons and neuroglia.
+
+Q: A 16-year-old patient received a laceration of the posterior intercostal nerves by a penetrated knife blade. A pathologist obtained needle biopsy tissues and observed numerous degenerated cell bodies of the unipolar or pseudounipolar neurons. Which of the following structures would most likely provide the abnormal cell morphology?
+A) Ventral horn of the spinal cord
+B) Lateral horn of the spinal cord
+C) Dorsal horn of the spinal cord
+D) Dorsal root ganglion
+E) Sympathetic chain ganglion
+Answer: D
+Explanation: Ventral, lateral, and dorsal horns and sympathetic chain ganglia contain multipolar neurons, whereas the dorsal root ganglion contains unipolar or pseudounipolar neurons. A laceration of the intercostal nerve injures GSE, postganglionic sympathetic general visceral efferent (GVE), general visceral afferent, and general somatic afferent (GSA) fibers, whose cell bodies are located in the anterior horn, sympathetic chain ganglia, and dorsal root ganglia.
+
+Q: A 19-year-old college student came to his doctor’s office for a neurologic examination. His physician told him that normally synapses are absent in or on which of the following structures?
+A) Anterior horn of the spinal cord
+B) Dorsal root ganglia
+C) Sympathetic chain ganglia
+D) Dendrites
+E) Cell bodies
+Answer: B
+Explanation: Dorsal root ganglia consist of cell bodies of the unipolar or pseudounipolar neurons and have no synapses. Axosomatic and axodendritic synapses are the most common, but axoaxonal and dendrodendritic contacts are also found in many nerve tissues.
+
+Q: A 27-year-old woman involved in a car accident is brought into the emergency department. Her magnetic resonance imaging reveals that she has a laceration of the spinal cord at the L4 spinal cord level. Which of the following structures would you expect to be intact?
+A) Dorsal horn
+B) Lateral horn
+C) Ventral horn
+D) Gray matter
+E) White matter
+Answer: B
+Explanation: The lateral horns are found in the gray matter of the spinal cord between T1 and L2 and also between S2 and S4. Therefore, the lateral horns are absent at the L4 spinal cord level.
+
+Q: A 33-year-old male patient complains of feeling severe pain when he tries to turn his neck. A physician realizes that the problem is in his pivot (trochoid) joint. Which of the following joints would most likely be examined?
+A) Atlantooccipital joint
+B) Atlantoaxial joint
+C) Carpometacarpal joint
+D) Proximal tibiofibular joint
+E) Intervertebral disks
+Answer: B
+Explanation: The atlantoaxial joint is the pivot or trochoid joint. The atlantooccipital joints are the condyloid (ellipsoidal) joints, the carpometacarpal joint of the thumb is the saddle (sellar) joint, and the proximal tibiofibular joint is the plane (gliding) joint. The intervertebral disk is the secondary cartilaginous (symphysis) joint.
+
+Q: A patient presents with a loss of sensation to the skin over the shoulder. Injury to which of the following nerve cells would most likely affect the conduction of sensory information to the central nervous system?
+A) Multipolar neurons
+B) Bipolar neurons
+C) Unipolar or pseudounipolar neurons
+D) Neurons in the ventral horn
+E) Neurons in sympathetic chain ganglia
+Answer: C
+Explanation: Sensation from the skin is carried by GSA fibers, and their cells are unipolar or pseudounipolar types located in the dorsal root ganglia. Multipolar neurons and neurons in the ventral horn and in sympathetic chain ganglia are motor neurons. Bipolar neurons are sensory neurons, but they are not somatic sensory neurons.
+
+Q: A 7-year-old girl comes to the emergency department with severe diarrhea. Tests show that the diarrhea is due to decreased capacity of normal absorption in one of her organs. Which of the following organs is involved?
+A) Stomach
+B) Gallbladder
+C) Large intestine
+D) Liver
+E) Pancreas
+Answer: C
+Explanation: The large intestine absorbs water, salts, and electrolytes. Hence, the patient’s diarrhea stems from an absorption problem. The stomach mixes food with mucus and gastric juice, which contains hydrochloric acid and enzymes, and forms chyme. The gallbladder receives bile, concentrates it, and stores it. The liver produces bile, whereas the pancreas secretes pancreatic juice, which contains digestive enzymes and which releases hormones, such as insulin and glucagon.
+
+Q: A 16-year-old girl with urinary diseases comes to a local hospital. Her urologist’s examination and laboratory test results reveal that she has difficulty in removing wastes from the blood and in producing urine. Which of the following organs may have abnormal functions?
+A) Ureter
+B) Spleen
+C) Urethra
+D) Bladder
+E) Kidney
+Answer: E
+Explanation: The urinary system includes the kidneys, which remove wastes from the blood and produce the urine; the ureters, which carry urine; the urinary bladder, which stores urine; and the urethra, which conveys urine from the bladder to the exterior of the body. The spleen filters blood to remove particulate matter and cellular residue, stores red blood cells, and produces lymphocytes. Because the patient is not producing urine properly, the malfunctioning organs are the kidneys.
+
+Q: A 53-year-old man with a known history of emphysema is examined in the emergency department. Laboratory findings along with examination indicate that the patient is unable to exchange oxygen in the air and carbon dioxide in the blood. This exchange occurs in which portion of the respiratory system?
+A) Bronchi
+B) Alveolar (air) sac
+C) Nasal cavity
+D) Larynx
+E) Trachea
+Answer: B
+Explanation: The respiratory portion of the lung contains the alveolar (air) sacs or alveoli, which are surrounded by networks of pulmonary capillaries. Oxygen and carbon dioxide exchange occurs across the thin walls of the alveoli and blood capillaries with the aid of the diaphragm and thoracic cage. The nasal cavity, larynx, trachea, and bronchi are air-conducting portions.
+
+Q: A 26-year-old woman has an amenorrhea, followed by uterine bleeding, pelvic pain, and pelvic mass. Her obstetrician performed a thorough examination, and the patient was diagnosed as having an ectopic pregnancy. Which of the following organs is most likely to provide a normal site of fertilization?
+A) Fundus of the uterus
+B) Ampulla of the uterine tube
+C) Fimbriae
+D) Infundibulum of the uterine tube
+E) Body of the uterus
+Answer: B
+Explanation: Fertilization occurs in the ampulla of the uterine tube, and a fertilized oocyte forms a blastocyst by day 7 after fertilization and becomes embedded or implanted in the wall of the uterus during the progestational (secretory) phase of the menstrual cycle. Fertilization is the process beginning with the penetration of the secondary oocyte by the sperm and completed by fusion of the male and female pronuclei.
+
+Q: A 29-year-old woman with abdominal pain was admitted to a local hospital, and examination shows that a retroperitoneal infection is affecting a purely endocrine gland. Which of the following structures is infected?
+A) Ovary
+B) Suprarenal gland
+C) Pancreas
+D) Liver
+E) Stomach
+Answer: B
+Explanation: The suprarenal gland is a retroperitoneal organ and is a purely endocrine gland. The pancreas is a retroperitoneal organ and contains endocrine cells, but it is not a purely endocrine gland. The liver and stomach contain endocrine cells, but they are not purely endocrine glands and also are surrounded by peritoneum. The ovary contains endocrine cells and is located in the pelvic cavity.
+
+Q: A 36-year-old woman received a firstdegree burn on her neck, arm, and forearm from a house fire. Which of the following skin structures or functions is most likely damaged or impaired?
+A) GSE nerves
+B) Parasympathetic general visceral efferent nerves
+C) Trophic hormone production
+D) Exocrine gland secretion
+E) Vitamin A production
+Answer: D
+Explanation: Skin has sweat glands and sebaceous glands, which are exocrine glands. Skin produces vitamin D, but it does not produce a trophic hormone and does not produce vitamin A. In addition, skin contains no GSE and parasympathetic GVE nerve fibers.
+
+Q: A 21-year-old patient has a lesion of the upper trunk of the brachial plexus (Erb– Duchenne paralysis). Which of the following is the most likely diagnosis?
+A) Paralysis of the rhomboid major
+B) Inability to elevate the arm above the horizontal
+C) Arm tending to lie in medial rotation
+D) Loss of sensation on the medial side of the arm
+E) Inability to adduct the thumb
+Answer: C
+Explanation: A lesion of the upper trunk of the brachial plexus results in a condition called “waiter’s tip hand,” in which the arm tends to lie in medial rotation because of paralysis of lateral rotators and abductors of the arm. The long thoracic nerve, which arises from the root (C5–C7) of the brachial plexus, innervates the serratus anterior muscle that can elevate the arm above the horizontal. The dorsal scapular nerve, which arises from the root (C5), innervates the rhomboid major. The medial side of the arm receives cutaneous innervation from the medial brachial cutaneous nerve of the medial cord. The adductor pollicis is innervated by the ulnar nerve.
+
+Q: A patient comes in with a gunshot wound and requires surgery in which his thoracoacromial trunk needs to be ligated. Which of the following arterial branches would maintain normal blood flow?
+A) Acromial
+B) Pectoral
+C) Clavicular
+D) Deltoid
+E) Superior thoracic
+Answer: E
+Explanation: The superior thoracic artery is a direct branch of the axillary artery. The thoracoacromial trunk has four branches: the pectoral, clavicular, acromial, and deltoid.
+
+Q: A 29-year-old man comes in with a stab wound, cannot raise his arm above horizontal, and exhibits a condition known as “winged scapula.” Which of the following structures of the brachial plexus would most likely be damaged?
+A) Medial cord
+B) Posterior cord
+C) Lower trunk
+D) Roots
+E) Upper trunk
+Answer: D
+Explanation: Winged scapula is caused by paralysis of the serratus anterior muscle that results from damage to the long thoracic nerve, which arises from the roots of the brachial plexus (C5–C7).
+
+Q: A 16-year-old patient has weakness flexing the metacarpophalangeal joint of the ring finger and is unable to adduct the same finger. Which of the following muscles is most likely paralyzed?
+A) Flexor digitorum profundus
+B) Extensor digitorum
+C) Lumbrical
+D) Dorsal interosseous
+E) Palmar interosseous
+Answer: E
+Explanation: The dorsal and palmar interosseous and lumbrical muscles can flex the metacarpophalangeal joints and extend the interphalangeal joints. The palmar interosseous muscles adduct the fingers, while the dorsal interosseous muscles abduct the fingers. The flexor digitorum profundus flexes the distal interphalangeal (DIP) joints.
+
+Q: A 27-year-old patient presents with an inability to draw the scapula forward and downward because of paralysis of the pectoralis minor. Which of the following would most likely be a cause of his condition?
+A) Fracture of the clavicle
+B) Injury to the posterior cord of the brachial plexus
+C) Fracture of the coracoid process
+D) Axillary nerve injury
+E) Defects in the posterior wall of the axilla
+Answer: C
+Explanation: The pectoralis minor inserts on the coracoid process, originates from the second to the fifth ribs, and is innervated by the medial and lateral pectoral nerves that arise from the medial and lateral cords of the brachial plexus. It depresses the shoulder and forms the anterior wall of the axilla. The pectoralis minor has no attachment on the clavicle.
+
+Q: A 22-year-old patient received a stab wound in the chest that injured the intercostobrachial nerve. Which of the following conditions results from the described lesion of the nerve?
+A) Inability to move the ribs
+B) Loss of tactile sensation on the lateral aspect of the arm
+C) Absence of sweating on the posterior aspect of the arm
+D) Loss of sensory fibers from the second intercostal nerve
+E) Damage to the sympathetic preganglionic fibers
+Answer: D
+Explanation: The intercostobrachial nerve arises from the lateral cutaneous branch of the second intercostal nerve and pierces the intercostal and serratus anterior muscles. It may communicate with the medial brachial cutaneous nerve, and it supplies skin on the medial side of the arm. It contains no skeletal motor fibers but does contain sympathetic postganglionic fibers, which supply sweat glands.
+
+Q: A 16 year-old boy fell from a motorcycle, and his radial nerve was severely damaged because of a fracture of the midshaft of the humerus. Which of the following conditions would most likely result from this accident?
+A) Loss of wrist extension leading to wrist drop
+B) Weakness in pronating the forearm
+C) Sensory loss over the ventral aspect of the base of the thumb
+D) Inability to oppose the thumb
+E) Inability to abduct the fingers
+Answer: A
+Explanation: Injury to the radial nerve results in loss of wrist extension, leading to wrist drop. The median nerve innervates the pronator teres, pronator quadratus, and opponens pollicis muscles and the skin over the ventral aspect of the thumb. The ulnar nerve innervates the dorsal interosseous muscles, which act to abduct the fingers.
+
+Q: A patient comes in complaining that she cannot flex her proximal interphalangeal joints. Which of the following muscles appear(s) to be paralyzed on further examination of her finger?
+A) Palmar interossei
+B) Dorsal interossei
+C) Flexor digitorum profundus
+D) Flexor digitorum superficialis
+E) Lumbricals
+Answer: D
+Explanation: The flexor digitorum superficialis muscle flexes the proximal interphalangeal joints. The flexor digitorum profundus muscle flexes the DIP joints. The palmar and dorsal interossei and lumbricals can flex metacarpophalangeal joints and extend the interphalangeal joints. The palmar interossei adduct the fingers, and the dorsal interossei abduct the fingers.
+
+Q: A 21-year-old woman walks in with a shoulder and arm injury after falling during horseback riding. Examination indicates that she cannot adduct her arm because of paralysis of which of the following muscles?
+A) Teres minor
+B) Supraspinatus
+C) Latissimus dorsi
+D) Infraspinatus
+E) Serratus anterior
+Answer: C
+Explanation: The latissimus dorsi adducts the arm, and the supraspinatus muscle abducts the arm. The infraspinatus and the teres minor rotate the arm laterally. The serratus anterior rotates the glenoid cavity of the scapula upward, abducts the arm, and elevates it above a horizontal position.
+
+Q: A 35-year-old man walks in with a stab wound to the most medial side of the proximal portion of the cubital fossa. Which of the following structures would most likely be damaged?
+A) Biceps brachii tendon
+B) Radial nerve
+C) Brachial artery
+D) Radial recurrent artery
+E) Median nerve
+Answer: E
+Explanation: The contents of the cubital fossa from medial to lateral side are the median nerve, the brachial artery, the biceps brachii tendon, and the radial nerve. Thus, the median nerve is damaged. The radial recurrent artery ascends medial to the radial nerve.
+
+Q: The police bring in a murder suspect who has been in a gunfight with a police officer. The suspect was struck by a bullet in the arm; his median nerve has been damaged. Which of the following symptoms is likely produced by this nerve damage?
+A) Waiter’s tip hand
+B) Claw hand
+C) Wrist drop
+D) Ape hand
+E) Flattening of the hypothenar eminence
+Answer: D
+Explanation: Injury to the median nerve produces the ape hand (a hand with the thumb permanently extended). Injury to the radial nerve results in loss of wrist extension, leading to wrist drop. Damage to the upper trunk of the brachial plexus produces waiter’s tip hand. A claw hand and flattening of the hypothenar eminence or atrophy of the hypothenar muscles result from damage to the ulnar nerve.
+
+Q: An automobile body shop worker has his middle finger crushed while working on a transmission. Which of the following muscles is most likely to retain function?
+A) Extensor digitorum
+B) Flexor digitorum profundus
+C) Palmar interosseous
+D) Dorsal interosseous
+E) Lumbrical
+Answer: C
+Explanation: The extensor digitorum, flexor digitorum profundus, dorsal interosseous, and lumbrical muscles are attached to the middle digit, but no palmar interosseous muscle is attached to the middle digit.
+
+Q: A 14-year-old boy falls on his outstretched hand and has a fracture of the scaphoid bone. The fracture is most likely accompanied by a rupture of which of the following arteries?
+A) Brachial artery
+B) Ulnar artery
+C) Deep palmar arterial arch
+D) Radial artery
+E) Princeps pollicis artery
+Answer: D
+Explanation: The scaphoid bone forms the floor of the anatomic snuffbox, through which the radial artery passes to enter the palm. The radial artery divides into the princeps pollicis artery and the deep palmar arch.
+
+Q: A 12-year-old boy walks in; he fell out of a tree and fractured the upper portion of his humerus. Which of the following nerves are intimately related to the humerus and are most likely to be injured by such a fracture?
+A) Axillary and musculocutaneous
+B) Radial and ulnar
+C) Radial and axillary
+D) Median and musculocutaneous
+E) Median and ulnar
+Answer: C
+Explanation: The axillary nerve passes posteriorly around the surgical neck of the humerus, and the radial nerve lies in the radial groove of the middle of the shaft of the humerus. The ulnar nerve passes behind the medial epicondyle, and the median nerve is vulnerable to injury by supracondylar fracture of the humerus, but these nerves lie close to or in contact with the lower portion of the humerus. The musculocutaneous nerve is not in direct contact with the humerus.
+
+Q: A man injures his wrist on broken glass. Which of the following structures entering the palm superficial to the flexor retinaculum may be damaged?
+A) Ulnar nerve and median nerve
+B) Median nerve and flexor digitorum profundus
+C) Median nerve and flexor pollicis longus
+D) Ulnar artery and ulnar nerve
+E) Ulnar nerve and flexor digitorum superficialis
+Answer: D
+Explanation: Structures entering the palm superficial to the flexor retinaculum include the ulnar nerve, ulnar artery, palmaris longus tendon, and palmar cutaneous branch of the median nerve. The median nerve, the flexor pollicis longus, and the flexor digitorum superficialis and profundus run deep to the flexor retinaculum.
+
+Q: A patient with Bennett’s fracture (a fracture of the base of the first metacarpal bone) experiences an impaired thumb movement. Which of the following intrinsic muscles of the thumb is most likely injured?
+A) Abductor pollicis brevis
+B) Flexor pollicis brevis (superficial head)
+C) Opponens pollicis
+D) Adductor pollicis
+E) Flexor pollicis brevis (deep head)
+Answer: C
+Explanation: The opponens pollicis inserts on the first metacarpal. All other intrinsic muscles of the thumb, including the abductor pollicis brevis, the flexor pollicis brevis, and the adductor pollicis muscles, insert on the proximal phalanges.
+
+Q: A 27-year-old pianist with a known carpal tunnel syndrome experiences difficulty in finger movements. Which of the following intrinsic muscles of her hand is paralyzed?
+A) Palmar interossei and adductor pollicis
+B) Dorsal interossei and lateral two lumbricals
+C) Lateral two lumbricals and opponens pollicis
+D) Abductor pollicis brevis and palmar interossei
+E) Medial two and lateral two lumbricals
+Answer: C
+Explanation: The median nerve innervates the abductor pollicis brevis, opponens pollicis, and two lateral lumbricals. The ulnar nerve innervates all interossei (palmar and dorsal), the adductor pollicis, and the two medial lumbricals.
+
+Q: A 31-year-old roofer walks in with tenosynovitis resulting from a deep penetrated wound in the palm by a big nail. Examination indicates that he has an infection in the ulnar bursa. This infection most likely resulted in necrosis of which of the following tendons?
+A) Tendon of the flexor carpi ulnaris
+B) Tendon of the flexor pollicis longus
+C) Tendon of the flexor digitorum profundus
+D) Tendon of the flexor carpi radialis
+E) Tendon of the palmaris longus
+Answer: C
+Explanation: The ulnar bursa, or common synovial flexor sheath, contains the tendons of both the flexor digitorum superficialis and profundus muscles. The radial bursa envelops the tendon of the flexor pollicis longus. The tendons of the flexor carpi ulnaris and the palmaris longus are not contained in the ulnar bursa.
+
+Q: An 18-year-old boy involved in an automobile accident presents with arm that cannot abduct. His paralysis is caused by damage to which of the following nerves?
+A) Suprascapular and axillary
+B) Thoracodorsal and upper subscapular
+C) Axillary and musculocutaneous
+D) Radial and lower subscapular
+E) Suprascapular and dorsal scapular
+Answer: A
+Explanation: The abductors of the arm are the deltoid and supraspinatus muscles, which are innervated by the axillary and suprascapular nerves, respectively. The thoracodorsal nerve supplies the latissimus dorsi, which can adduct, extend, and rotate the arm medially. The upper and lower subscapular nerves supply the subscapularis, and the lower subscapular nerve also supplies the teres major; both of these structures can adduct and rotate the arm medially. The musculocutaneous nerve supplies the flexors of the arm, and the radial nerve supplies the extensors of the arm. The dorsal scapular nerve supplies the levator scapulae and rhomboid muscles; these muscles elevate and adduct the scapula, respectively.
+
+Q: A 17-year-old boy with a stab wound received multiple injuries on the upper part of the arm and required surgery. If the brachial artery were ligated at its origin, which of the following arteries would supply blood to the profunda brachii artery?
+A) Lateral thoracic
+B) Subscapular
+C) Posterior humeral circumflex
+D) Superior ulnar collateral
+E) Radial recurrent
+Answer: C
+Explanation: The posterior humeral circumflex artery anastomoses with an ascending branch of the profunda brachii artery, whereas the lateral thoracic and subscapular arteries do not. The superior ulnar collateral and radial recurrent arteries arise inferior to the origin of the profunda brachii artery.
+
+Q: A 23-year-old woman who receives a deep cut to her ring finger by a kitchen knife is unable to move the metacarpophalangeal joint. Which of the following pairs of nerves was damaged?
+A) Median and ulnar
+B) Radial and median
+C) Musculocutaneous and ulnar
+D) Ulnar and radial
+E) Radial and axillary
+Answer: D
+Explanation: The metacarpophalangeal joint of the ring finger is flexed by the lumbrical, palmar, and dorsal interosseous muscles, which are innervated by the ulnar nerve. The extensor digitorum, which is innervated by the radial nerve, extends this joint. The musculocutaneous and axillary nerves do not supply muscles of the hand. The median nerve supplies the lateral two lumbricals, which can flex metacarpophalangeal joints of the index and middle fingers.
+
+Q: A 27-year-old baseball player is hit on his forearm by a high-speed ball during the World Series, and the muscles that form the floor of the cubital fossa appear to be torn. Which of the following groups of muscles have lost their functions?
+A) Brachioradialis and supinator
+B) Brachialis and supinator
+C) Pronator teres and supinator
+D) Supinator and pronator quadratus
+E) Brachialis and pronator teres
+Answer: B
+Explanation: The brachialis and supinator muscles form the floor of the cubital fossa. The brachioradialis and pronator teres muscles form the lateral and medial boundaries, respectively. The pronator quadratus is attached to the distal ends of the radius and the ulna.
+
+Q: A 23-year-old man complains of numbness on the medial side of the arm following a stab wound in the axilla. On examination, he is diagnosed with an injury of his medial brachial cutaneous nerve. In which of the following structures are the cell bodies of the damaged nerve involved in numbness located?
+A) Sympathetic chain ganglion
+B) Dorsal root ganglion
+C) Anterior horn of the spinal cord
+D) Lateral horn of the spinal cord
+E) Posterior horn of the spinal cord
+Answer: B
+Explanation: The medial brachial cutaneous nerve contains sensory (general somatic afferent [GSA]) fibers that have cell bodies in the dorsal root ganglia, and an injury of these GSA fibers causes numbness of the medial side of the arm. It also contains sympathetic postganglionic fibers that have cell bodies in the sympathetic chain ganglia. The anterior horn of the spinal cord contains cell bodies of skeletal motor (general somatic efferent [GSE]) fibers, and the lateral horn contains cell bodies of sympathetic preganglionic fibers. The posterior horn contains cell bodies of interneurons.
+
+Q: A 38-year-old homebuilder was involved in an accident and is unable to supinate his forearm. Which of the following nerves are most likely damaged?
+A) Suprascapular and axillary
+B) Musculocutaneous and median
+C) Axillary and radial
+D) Radial and musculocutaneous
+E) Median and ulnar
+Answer: D
+Explanation: The supinator and biceps brachii muscles, which are innervated by the radial and musculocutaneous nerves, respectively, produce supination of the forearm. This is a question of two muscles that can supinate the forearm.
+
+Q: A 31-year-old patient complains of sensory loss over the anterior and posterior surfaces of the medial third of the hand and the medial one and one-half fingers. He is diagnosed by a physician as having “funny bone” symptoms. Which of the following nerves is injured?
+A) Axillary
+B) Radial
+C) Median
+D) Ulnar
+E) Musculocutaneous
+Answer: D
+Explanation: The ulnar nerve supplies sensory fibers to the skin over the palmar and dorsal surfaces of the medial third of the hand and the medial one and one-half fingers. The median nerve innervates the skin of the lateral side of the palm; the palmar side of the lateral three and one-half fingers; and the dorsal side of the index finger, the middle finger, and one-half of the ring finger. The radial nerve innervates the skin of the radial side of the hand and the radial two and one-half digits over the proximal phalanx.
+
+Q: A patient with a deep stab wound in the middle of the forearm has impaired movement of the thumb. Examination indicates a lesion of the anterior interosseous nerve. Which of the following muscles is paralyzed?
+A) Flexor pollicis longus and brevis
+B) Flexor pollicis longus and opponens pollicis
+C) Flexor digitorum profundus and pronator quadratus
+D) Flexor digitorum profundus and superficialis
+E) Flexor pollicis brevis and pronator quadratus
+Answer: C
+Explanation: The anterior interosseous nerve is a branch of the median nerve and supplies the flexor pollicis longus, half of the flexor digitorum profundus, and the pronator quadratus. The median nerve supplies the pronator teres, flexor digitorum superficialis, palmaris longus, and flexor carpi radialis muscles. A muscular branch (the recurrent branch) of the median nerve innervates the thenar muscles.
+
+Q: A 29-year-old patient comes in; he cannot flex the distal interphalangeal (DIP) joint of the index finger. His physician determines that he has nerve damage from a supracondylar fracture. Which of the following conditions is also a symptom of this nerve damage?
+A) Inability to flex the DIP joint of the ring finger
+B) Atrophy of the hypothenar eminence
+C) Loss of sensation over the distal part of the second digit
+D) Paralysis of all the thumb muscles
+E) Loss of supination
+Answer: C
+Explanation: The flexor digitorum profundus muscle flexes the DIP joints of the index and middle fingers and is innervated by the median nerve, which also supplies sensation over the distal part of the second digit. The same muscle flexes the DIP joints of the ring and little fingers but receives innervation from the ulnar nerve, which also innervates the hypothenar muscles. The median nerve innervates the thenar muscles. The radial nerve innervates the supinator, abductor pollicis longus, and extensor pollicis longus and brevis muscles. The ulnar nerve innervates the adductor pollicis. The musculocutaneous nerve supplies the biceps brachii that can supinate the arm.
+
+Q: A 27-year-old man with cubital tunnel syndrome complains of numbness and tingling in the ring and little finger and back and sides of his hand because of damage to a nerve in the tunnel at the elbow. Which of the following muscles is most likely to be paralyzed?
+A) Flexor digitorum superficialis
+B) Opponens pollicis
+C) Two medial lumbricals
+D) Pronator teres
+E) Supinator
+Answer: C
+Explanation: The ulnar nerve innervates the two medial lumbricals. However, the median nerve innervates the two lateral lumbricals, the flexor digitorum superficialis, the opponens pollicis, and the pronator teres muscles.
+
+Q: A secretary comes in to your office complaining of pain in her wrists from typing all day. You determine that she likely has carpal tunnel syndrome. Which of the following conditions would help you determine the diagnosis?
+A) Inability to adduct the little finger
+B) Inability to flex the DIP joint of the ring finger
+C) Flattened thenar eminence
+D) Loss of skin sensation of the medial one and one-half fingers
+E) Atrophied adductor pollicis muscle
+Answer: C
+Explanation: The carpal tunnel contains the median nerve and the tendons of flexor pollicis longus, flexor digitorum profundus, and flexor digitorum superficialis muscles. Carpal tunnel syndrome results from injury to the median nerve, which supplies the thenar muscle. Thus, injury to this nerve causes the flattened thenar eminence. The middle finger has no attachment for the adductors. The ulnar nerve innervates the medial half of the flexor digitorum profundus muscle, which allows flexion of the DIP joints of the ring and little fingers. The ulnar nerve supplies the skin over the medial one and one-half fingers and adductor pollicis muscle.
+
+Q: A man is unable to hold typing paper between his index and middle fingers. Which of the following nerves was likely injured?
+A) Radial nerve
+B) Median nerve
+C) Ulnar nerve
+D) Musculocutaneous nerve
+E) Axillary nerve
+Answer: C
+Explanation: To hold a typing paper, the index finger is adducted by the palmar interosseous muscle, and the middle finger is abducted by the dorsal interosseous muscle. Both muscles are innervated by the ulnar nerve.
+
+Q: The victim of an automobile accident has a destructive injury of the proximal row of carpal bones. Which of the following bones is most likely damaged?
+A) Capitate
+B) Hamate
+C) Trapezium
+D) Triquetrum
+E) Trapezoid
+Answer: D
+Explanation: The proximal row of carpal bones consists of the scaphoid, lunate, triquetrum, and pisiform bones, whereas the distal row consists of the trapezium, trapezoid, capitate, and hamate bones.
+
+Q: A patient has a torn rotator cuff of the shoulder joint as the result of an automobile accident. Which of the following muscle tendons is intact and has normal function?
+A) Supraspinatus
+B) Subscapularis
+C) Teres major
+D) Teres minor
+E) Infraspinatus
+Answer: C
+Explanation: The rotator cuff consists of the tendons of the supraspinatus, infraspinatus, subscapularis, and teres minor muscles. It stabilizes the shoulder joint by holding the head of the humerus in the glenoid cavity during movement. The teres major inserts on the medial lip of the intertubercular groove of the humerus.
+
+Q: A patient complains of having pain with repeated movements of his thumb (claudication). His physician performs the Allen test and finds an insufficiency of the radial artery. Which of the following conditions would be a result of the radial artery stenosis?
+A) A marked decrease in the blood flow in the superficial palmar arterial arch
+B) Decreased pulsation in the artery passing superficial to the flexor retinaculum
+C) Ischemia of the entire extensor muscles of the forearm
+D) A marked decrease in the blood flow in the princeps pollicis artery
+E) A low blood pressure in the anterior interosseous artery
+Answer: D
+Explanation: The radial artery divides into the princeps pollicis artery and the deep palmar arterial arch. Thus, stenosis of the radial artery results in a decreased blood flow in the princeps pollicis artery. The superficial palmar arterial arch is formed primarily by the ulnar artery, which passes superficial to the flexor retinaculum. The extensor compartment of the forearm receives blood from the posterior interosseous artery, which arises from the common interosseous branch of the ulnar artery. However, the radial and radial recurrent arteries supply the brachioradialis and the extensor carpi radialis longus and brevis.
+
+Q: A patient bleeding from the shoulder secondary to a knife wound is in fair condition because there is vascular anastomosis around the shoulder. Which of the following arteries is most likely a direct branch of the subclavian artery that is involved in the anastomosis?
+A) Dorsal scapular artery
+B) Thoracoacromial artery
+C) Circumflex scapular artery
+D) Transverse cervical artery
+E) Suprascapular artery
+Answer: A
+Explanation: The dorsal scapular artery arises directly from the third part of the subclavian artery and replaces the deep (descending) branch of the transverse cervical artery. The suprascapular and transverse cervical arteries are branches of the thyrocervical trunk of the subclavian artery. The thoracoacromial artery is a short trunk from the first or second part of the axillary artery and has pectoral, clavicular, acromial, and deltoid branches.
+
+Q: During a breast examination of a 56-year-old woman, the physician found a palpable mass in her breast. Which of the following characteristics of breast cancer and its diagnosis is correct?
+A) Elevated nipple
+B) Polymastia
+C) Shortening of the clavipectoral fascia
+D) Dimpling of the overlying skin
+E) Enlargement of the breast
+Answer: D
+Explanation: Breast cancer may cause dimpling of the overlying skin because of shortening of the suspensory (Cooper’s) ligaments and inverted or retracted nipple because of pulling on the lactiferous ducts. Polymastia is a condition in which more than two breasts are present.
+
+Q: A patient with a stab wound receives a laceration of the musculocutaneous nerve. Which of the following conditions is most likely to have occurred?
+A) Lack of sweating on the lateral side of the forearm
+B) Inability to extend the forearm
+C) Paralysis of brachioradialis muscle
+D) Loss of tactile sensation on the arm
+E) Constriction of blood vessels on the hand
+Answer: A
+Explanation: The musculocutaneous nerve contains sympathetic postganglionic fibers that supply sweat glands and blood vessels on the lateral side of the forearm as the lateral antebrachial cutaneous nerve. The musculocutaneous nerve does not supply the extensors of the forearm and the brachioradialis. This nerve also supplies tactile sensation on the lateral side of the forearm but not the arm and supplies blood vessels on the lateral side of the forearm but not the hand.
+
+Q: A 20-year-old man fell from the parallel bar during the Olympic trial. A neurologic examination reveals that he has a lesion of the lateral cord of the brachial plexus. Which of the following muscles is most likely weakened by this injury?
+A) Subscapularis
+B) Teres major
+C) Latissimus dorsi
+D) Teres minor
+E) Pectoralis major
+Answer: E
+Explanation: The pectoralis major is innervated by the lateral and medial pectoral nerves originating from the lateral and medial cords of the brachial plexus, respectively. The subscapularis, teres major, latissimus dorsi, and teres minor muscles are innervated by nerves originating from the posterior cord of the brachial plexus.
+
+Q: A 24-year-old carpenter suffers a crush injury of his entire little finger. Which of the following muscles is most likely to be spared?
+A) Flexor digitorum profundus
+B) Extensor digitorum
+C) Palmar interossei
+D) Dorsal interossei
+E) Lumbricals
+Answer: D
+Explanation: The dorsal interossei are abductors of the fingers. The little finger has no attachment for the dorsal interosseous muscle because it has its own abductor. Therefore, the dorsal interosseous muscle is not affected. Other muscles are attached to the little finger, thus they are injured.
+
+Q: A 7-year-old boy falls from a tree house and is brought to the emergency department of a local hospital. On examination, he has weakness in rotating his arm laterally because of an injury of a nerve. Which of the following conditions is most likely to cause a loss of this nerve function?
+A) Injury to the lateral cord of the brachial plexus
+B) Fracture of the anatomic neck of the humerus
+C) Knife wound on the teres major muscle
+D) Inferior dislocation of the head of the humerus
+E) A tumor in the triangular space in the shoulder region
+Answer: D
+Explanation: Inferior dislocation of the head of the humerus may damage the axillary nerve, which arises from the posterior cord of the brachial plexus, runs through the quadrangular space accompanied by the posterior humeral circumflex vessels around the surgical neck of the humerus, and supplies the deltoid and teres minor, which are lateral rotators of the arm.
+
+Q: A 49-year-old woman is diagnosed as having a large lump in her right breast. Lymph from the cancerous breast drains primarily into which of the following nodes?
+A) Apical nodes
+B) Anterior (pectoral) nodes
+C) Parasternal (internal thoracic) nodes
+D) Supraclavicular nodes
+E) Nodes of the anterior abdominal wall
+Answer: B
+Explanation: Lymph from the breast drains mainly (75%) to the axillary nodes, more specifically to the anterior (pectoral) nodes.
+
+Q: A 17-year-old boy fell from his motorcycle and complains of numbness of the lateral part of the arm. Examination reveals that the axillary nerve is severed. Which of the following types of axons is most likely spared?
+A) Postganglionic sympathetic axons
+B) Somatic afferent axons
+C) Preganglionic sympathetic axons
+D) General somatic efferent axons
+E) General visceral afferent axons
+Answer: C
+Explanation: The axillary nerve contains no preganglionic sympathetic general visceral efferent (GVE) fibers, but it contains postganglionic sympathetic GVE fibers. The axillary nerve also contains GSA, GSE, and general visceral afferent (GVA) fibers.
+
+Q: A construction worker suffers a destructive injury of the structures related to the anatomic snuffbox. Which of the following structures would most likely be damaged?
+A) Triquetral bone
+B) Trapezoid bone
+C) Extensor indicis tendon
+D) Abductor pollicis brevis tendon
+E) Radial artery
+Answer: E
+Explanation: The radial artery lies on the floor of the anatomic snuffbox. Other structures are not related to the snuffbox. The tendons of the extensor pollicis longus, extensor pollicis brevis, and abductor pollicis longus muscles form the boundaries of the anatomic snuffbox. The scaphoid and trapezium bones form its floor.
+
+Q: A rock climber falls on his shoulder, resulting in a chipping off of the lesser tubercle of the humerus. Which of the following structures would most likely have structural and functional damage?
+A) Supraspinatus muscle
+B) Infraspinatus muscle
+C) Subscapularis muscle
+D) Teres minor muscle
+E) Coracohumeral ligament
+Answer: C
+Explanation: The subscapularis muscle inserts on the lesser tubercle of the humerus. The supraspinatus, infraspinatus, and teres minor muscles insert on the greater tubercle of the humerus. The coracohumeral ligament attaches to the greater tubercle.
+
+Q: A 22-year-old female Macarena dancer fell from the stage and complains of elbow pain and inability to supinate her forearm. Which of the following nerves are most likely injured from this accident?
+A) Median and ulnar nerves
+B) Axillary and radial nerves
+C) Radial and musculocutaneous nerves
+D) Ulnar and axillary nerves
+E) Musculocutaneous and median nerves
+Answer: C
+Explanation: The supinator and biceps brachii muscles supinate the forearm. The supinator is innervated by the radial nerve, and the biceps brachii is innervated by the musculocutaneous nerve.
+
+Q: A 37-year-old female patient has a fracture of the clavicle. The junction of the middle and lateral thirds of the bone exhibits overriding of the medial and lateral fragments. The arm is rotated medially, but it is not rotated laterally. The lateral portion of the fractured clavicle is displaced downward by which of the following?
+A) Deltoid and trapezius muscles
+B) Pectoralis major and deltoid muscles
+C) Pectoralis minor muscle and gravity
+D) Trapezius and pectoralis minor muscles
+E) Deltoid muscle and gravity
+Answer: E
+Explanation: The lateral fragment of the clavicle is displaced downward by the pull of the deltoid muscle and gravity. The medial fragment is displaced upward by the pull of the sternocleidomastoid muscle. None of the other muscles are involved.
+
+Q: A 37-year-old female patient has a fracture of the clavicle. The junction of the middle and lateral thirds of the bone exhibits overriding of the medial and lateral fragments. The arm is rotated medially, but it is not rotated laterally. Which of the following muscles causes upward displacement of the medial fragment?
+A) Pectoralis major
+B) Deltoid
+C) Trapezius
+D) Sternocleidomastoid
+E) Scalenus anterior
+Answer: D
+Explanation: The sternocleidomastoid muscle is attached to the superior border of the medial third of the clavicle, and the medial fragment of a fractured clavicle is displaced upward by the pull of the muscle.
+
+Q: A 37-year-old female patient has a fracture of the clavicle. The junction of the middle and lateral thirds of the bone exhibits overriding of the medial and lateral fragments. The arm is rotated medially, but it is not rotated laterally. Which of the following conditions is most likely to occur secondary to the fractured clavicle?
+A) A fatal hemorrhage from the brachiocephalic vein
+B) Thrombosis of the subclavian vein, causing a pulmonary embolism
+C) Thrombosis of the subclavian artery, causing an embolism in the ascending aorta
+D) Damage to the upper trunk of the brachial plexus
+E) Damage to the long thoracic nerve, causing the winged scapula
+Answer: B
+Explanation: The fractured clavicle may damage the subclavian vein, resulting in a pulmonary embolism; cause thrombosis of the subclavian artery, resulting in embolism of the brachial artery; or damage the lower trunk of the brachial plexus.
+
+Q: A 21-year-old man injures his right arm in an automobile accident. Radiographic examination reveals a fracture of the medial epicondyle of the humerus. Which of the following nerves is most likely injured as a result of this accident?
+A) Axillary
+B) Musculocutaneous
+C) Radial
+D) Median
+E) Ulnar
+Answer: E
+Explanation: The ulnar nerve runs down the medial aspect of the arm and behind the medial epicondyle in a groove, where it is vulnerable to damage by fracture of the medial epicondyle. Other nerves are not in contact with the medial epicondyle.
+
+Q: A 21-year-old man injures his right arm in an automobile accident. Radiographic examination reveals a fracture of the medial epicondyle of the humerus. Which of the following muscles is most likely paralyzed as a result of this accident?
+A) Extensor pollicis brevis
+B) Abductor pollicis longus
+C) Abductor pollicis brevis
+D) Adductor pollicis
+E) Opponens pollicis
+Answer: D
+Explanation: The ulnar nerve innervates the adductor pollicis muscle. The radial nerve innervates the abductor pollicis longus and extensor pollicis brevis muscles, whereas the median nerve innervates the abductor pollicis brevis and opponens pollicis muscles.
+
+Q: A 21-year-old man injures his right arm in an automobile accident. Radiographic examination reveals a fracture of the medial epicondyle of the humerus. After this injury, the patient is unable to do which of the following?
+A) Flex the proximal interphalangeal joint of his ring finger
+B) Flex the DIP joint of his index finger
+C) Feel sensation on his middle finger
+D) Abduct his thumb
+E) Adduct his index finger
+Answer: E
+Explanation: The fingers are adducted by the palmar interosseous muscles; abduction is performed by the dorsal interosseous muscles. The palmar and dorsal interosseous muscles are innervated by the ulnar nerve. The proximal interphalangeal joints are flexed by the flexor digitorum superficialis, which is innervated by the median nerve. However, the DIP joints of the index and middle fingers are flexed by the flexor digitorum profundus, which is innervated by the median nerve (except the medial half of the muscle, which is innervated by the ulnar nerve). The median nerve supplies sensory innervation on the palmar aspect of the middle finger. The abductor pollicis brevis is innervated by the median nerve; the abductor pollicis longus is innervated by the radial nerve.
+
+Q: A 10-year-old boy falls off his bike, has difficulty in moving his shoulder, and is brought to an emergency department. His radiogram and angiogram reveal fracture of the surgical neck of his humerus and bleeding from the point of the fracture. Which of the following nerves is most likely injured as a result of this accident?
+A) Musculocutaneous
+B) Axillary
+C) Radial
+D) Median
+E) Ulnar
+Answer: B
+Explanation: The axillary nerve runs posteriorly around the surgical neck of the humerus and is vulnerable to injury such as fracture of the surgical neck of the humerus or inferior dislocation of the humerus. The other nerves listed are not in contact with the surgical neck of the humerus.
+
+Q: A 10-year-old boy falls off his bike, has difficulty in moving his shoulder, and is brought to an emergency department. His radiogram and angiogram reveal fracture of the surgical neck of his humerus and bleeding from the point of the fracture. Following this accident, the damaged nerve causes difficulty in abduction, extension, and lateral rotation of his arm. Cell bodies of the injured nerve involved in movement of his arm are located in which of the following structures?
+A) Dorsal root ganglion
+B) Sympathetic chain ganglion
+C) Anterior horn of the spinal cord
+D) Lateral horn of the spinal cord
+E) Posterior horn of the spinal cord
+Answer: C
+Explanation: The (injured) axillary nerve contains GSE fibers whose cell bodies are located in the anterior horn of the spinal cord, and these GSE fibers supply the deltoid and teres minor muscles. The axillary nerve also contains GSA and GVA fibers, whose cell bodies are located in the dorsal root ganglia, and sympathetic postganglionic fibers, whose cell bodies are located in sympathetic chain ganglia. The lateral horn of the spinal cord between T1 and L2 contains cell bodies of sympathetic preganglionic fibers. The posterior horn of the spinal cord contains cell bodies of interneurons.
+
+Q: A 10-year-old boy falls off his bike, has difficulty in moving his shoulder, and is brought to an emergency department. His radiogram and angiogram reveal fracture of the surgical neck of his humerus and bleeding from the point of the fracture. The damaged nerve causes numbness of the lateral side of the arm. Cell bodies of the injured nerve fibers involved in sensory loss are located in which of the following structures?
+A) Anterior horn of the spinal cord
+B) Posterior horn of the spinal cord
+C) Lateral horn of the spinal cord
+D) Dorsal root ganglia
+E) Sympathetic chain ganglia
+Answer: D
+Explanation: Axillary nerve contains GSE, GSA, GVA, and sympathetic postganglionic GVE fibers. Cell bodies of GSA and GVA fibers are located in the dorsal root ganglia. Cell bodies of GSE fibers are located in the anterior horn of the spinal cord. Cell bodies of sympathetic postganglionic GVE fibers are located in the sympathetic chain ganglia, but cell bodies of sympathetic preganglionic GVE fibers lie in the lateral horn of the spinal cord.
+
+Q: A 10-year-old boy falls off his bike, has difficulty in moving his shoulder, and is brought to an emergency department. His radiogram and angiogram reveal fracture of the surgical neck of his humerus and bleeding from the point of the fracture. This accident most likely leads to damage of which of the following arteries?
+A) Axillary
+B) Deep brachial
+C) Posterior humeral circumflex
+D) Superior ulnar collateral
+E) Scapular circumflex
+Answer: C
+Explanation: The posterior humeral circumflex artery accompanies the axillary nerve that passes around the surgical neck of the humerus. None of the other arteries are involved.
+
+Q: A 10-year-old boy falls off his bike, has difficulty in moving his shoulder, and is brought to an emergency department. His radiogram and angiogram reveal fracture of the surgical neck of his humerus and bleeding from the point of the fracture. Following this accident, the boy has weakness in rotating his arm laterally. Which of the following muscles are paralyzed?
+A) Teres major and teres minor
+B) Teres minor and deltoid
+C) Infraspinatus and deltoid
+D) Supraspinatus and subscapularis
+E) Teres minor and infraspinatus
+Answer: B
+Explanation: The lateral rotators of the arm include the teres minor, deltoid, and infraspinatus muscles, but the infraspinatus muscle is innervated by the suprascapular nerve.
+
+Q: A 64-year-old man with a history of liver cirrhosis has been examined for hepatitis A, B, and C viruses. In an attempt to obtain a blood sample from the patient’s median cubital vein, a registered nurse inadvertently procures arterial blood. The blood most likely comes from which of the following arteries?
+A) Brachial
+B) Radial
+C) Ulnar
+D) Common interosseous
+E) Superior ulnar collateral
+Answer: A
+Explanation: The median cubital vein lies superficial to the bicipital aponeurosis and thus separates it from the brachial artery, which can be punctured during intravenous injections and blood transfusions.
+
+Q: A 64-year-old man with a history of liver cirrhosis has been examined for hepatitis A, B, and C viruses. In an attempt to obtain a blood sample from the patient’s median cubital vein, a registered nurse inadvertently procures arterial blood. During the procedure, the needle hits a nerve medial to the artery. Which of the following nerves is most likely damaged?
+A) Radial
+B) Median
+C) Ulnar
+D) Lateral antebrachial
+E) Medial antebrachial
+Answer: B
+Explanation: The median nerve is damaged because it lies medial to the brachial artery. The bicipital aponeurosis lies on the brachial artery and the median nerve. The V-shaped cubital fossa contains (from medial to lateral) the median nerve, brachial artery, biceps tendon, and radial nerve. The ulnar nerve runs behind the medial epicondyle; the lateral and medial antebrachial cutaneous nerves are not closely related to the brachial artery.
+
+Q: A 17-year-old boy is injured in an automobile accident. He has a fracture of the shaft of the humerus. Which of the following nerves is most likely damaged?
+A) Axillary nerve
+B) Radial nerve
+C) Musculocutaneous nerve
+D) Median nerve
+E) Ulnar nerve
+Answer: B
+Explanation: The radial nerve runs in the radial groove on the back of the shaft of the humerus with the profunda brachii artery. The axillary nerve passes around the surgical neck of the humerus. The ulnar nerve passes the back of the medial epicondyle. The musculocutaneous and median nerves are not in contact with the bone, but the median nerve can be damaged by supracondylar fracture.
+
+Q: A 17-year-old boy is injured in an automobile accident. He has a fracture of the shaft of the humerus. As a result of this fracture, the patient shows lack of sweating on the back of the arm and forearm. Cell bodies of the damaged nerve fibers involved in sweating are located in which of the following structures?
+A) Anterior horn of the spinal cord
+B) Posterior horn of the spinal cord
+C) Lateral horn of the spinal cord
+D) Sympathetic chain ganglion
+E) Dorsal root ganglion
+Answer: D
+Explanation: The (damaged) radial nerve contains sympathetic postganglionic nerve fibers whose cell bodies are located in the sympathetic chain ganglion. Sympathetic postganglionic fibers supply sweat glands, blood vessels, and hair follicles (arrector pili muscles). The radial nerve also contains GSE fibers whose cell bodies are located in the anterior horn of the spinal cord, and GSA and GVA fibers whose cell bodies are located in the dorsal root ganglion. The lateral horn of the spinal cord between T1 and L2 contains cell bodies of sympathetic preganglionic nerve fibers.
+
+Q: A 17-year-old boy is injured in an automobile accident. He has a fracture of the shaft of the humerus. Following this accident, the patient has no cutaneous sensation in which of the following areas?
+A) Medial aspect of the arm
+B) Lateral aspect of the forearm
+C) Palmar aspect of the second and third digits
+D) Area of the anatomic snuffbox
+E) Medial one and one-half fingers
+Answer: D
+Explanation: The superficial branch of the radial nerve runs distally to the dorsum of the hand to innervate the radial side of the hand, including the area of the anatomic snuffbox and the radial two and one-half digits over the proximal phalanx. The medial aspect of the arm is innervated by the medial brachial cutaneous nerve; the lateral aspect of the forearm is innervated by the lateral antebrachial cutaneous nerve of the musculocutaneous nerve; the palmar aspect of the second and third digits is innervated by the median nerve; and the medial one and one-half fingers are innervated by the ulnar nerve.
+
+Q: A 17-year-old boy is injured in an automobile accident. He has a fracture of the shaft of the humerus. Which of the following arteries may be damaged?
+A) Brachial artery
+B) Posterior humeral circumflex artery
+C) Profunda brachii artery
+D) Radial artery
+E) Radial recurrent artery
+Answer: C
+Explanation: The radial nerve accompanies the profunda brachii artery in the radial groove on the posterior aspect of the shaft of the humerus. The posterior humeral circumflex artery accompanies the axillary nerve around the surgical neck of the humerus. Other arteries are not associated with the radial groove of the humerus.
+
+Q: A 17-year-old boy is injured in an automobile accident. He has a fracture of the shaft of the humerus. After this accident, supination is still possible through contraction of which of the following muscles?
+A) Supinator
+B) Pronator teres
+C) Brachioradialis
+D) Biceps brachii
+E) Supraspinatus A
+Answer: D
+Explanation: A lesion of the radial nerve causes paralysis of the supinator and brachioradialis. The biceps brachii muscle is a flexor of the elbow and also a strong supinator; thus, supination is still possible through action of the biceps brachii muscle. Other muscles cannot supinate the forearm.
+
+Q: A 27-year-old patient exhibits a loss of skin sensation and paralysis of muscles on the plantar aspect of the medial side of the foot. Which of the following nerves is most likely damaged?
+A) Common peroneal
+B) Tibial
+C) Superficial peroneal
+D) Deep peroneal
+E) Sural
+Answer: B
+Explanation: The common peroneal nerve divides into the deep peroneal nerve, which innervates the anterior muscles of the leg and supplies the adjacent skin of the first and second toes, and the superficial peroneal nerve, which innervates the lateral muscles of the leg and supplies the skin on the side of the lower leg and the dorsum of the ankle and foot. The sural nerve supplies the lateral aspect of the foot and the little toe.
+
+Q: A patient with a deep knife wound in the buttock walks with a waddling gait that is characterized by the pelvis falling toward one side at each step. Which of the following nerves is damaged?
+A) Obturator nerve
+B) Nerve to obturator internus
+C) Superior gluteal nerve
+D) Inferior gluteal nerve
+E) Femoral nerve
+Answer: C
+Explanation: The superior gluteal nerve innervates the gluteus medius muscle. Paralysis of this muscle causes gluteal gait, a waddling gait characterized by a falling of the pelvis toward the unaffected side at each step. The gluteus medius muscle normally functions to stabilize the pelvis when the opposite foot is off the ground. The inferior gluteal nerve innervates the gluteus maximus, and the nerve to the obturator internus supplies the obturator internus and superior gemellus muscles. The obturator nerve innervates the adductor muscles of the thigh, and the femoral nerve supplies the flexors of the thigh.
+
+Q: A patient is unable to prevent anterior displacement of the femur on the tibia when the knee is flexed. Which of the following ligaments is most likely damaged?
+A) Anterior cruciate
+B) Fibular collateral
+C) Patellar
+D) Posterior cruciate
+E) Tibial collateral
+Answer: D
+Explanation: The posterior cruciate ligament is important because it prevents forward displacement of the femur on the tibia when the knee is flexed. The anterior cruciate ligament prevents backward displacement of the femur on the tibia.
+
+Q: A 41-year-old man was involved in a fight and felt weakness in extending the knee joint. On examination, he was diagnosed with a lesion of the femoral nerve. Which of the following symptoms would be a result of this nerve damage?
+A) Paralysis of the psoas major muscle
+B) Loss of skin sensation on the lateral side of the foot
+C) Loss of skin sensation over the greater trochanter
+D) Paralysis of the vastus lateralis muscle
+E) Paralysis of the tensor fasciae latae
+Answer: D
+Explanation: The femoral nerve innervates the quadratus femoris, sartorius, and vastus muscles. Therefore, damage to this nerve results in paralysis of these muscles. The second and third lumbar nerves innervate the psoas major muscle, the sural nerve innervates the skin on the lateral side of the foot, the iliohypogastric nerve and superior clunial nerves supply the skin over the greater trochanter, and the superior gluteal nerve innervates the tensor fasciae latae.
+
+Q: A 47-year-old woman is unable to invert her foot after she stumbled on her driveway. Which of the following nerves are most likely injured?
+A) Superficial and deep peroneal
+B) Deep peroneal and tibial
+C) Superficial peroneal and tibial
+D) Medial and lateral plantar
+E) Obturator and tibial
+Answer: B
+Explanation: The deep peroneal and tibial nerves innervate the chief evertors of the foot, which are the tibialis anterior, tibialis posterior, triceps surae, and extensor hallucis longus muscles. The tibialis anterior and extensor hallucis longus muscles are innervated by the deep peroneal nerve, and the tibialis posterior and triceps surae are innervated by the tibial nerve.
+
+Q: A 22-year-old patient is unable to “unlock” the knee joint to permit flexion of the leg. Which of the following muscles is most likely damaged?
+A) Rectus femoris
+B) Semimembranosus
+C) Popliteus
+D) Gastrocnemius
+E) Biceps femoris
+Answer: C
+Explanation: The popliteus muscle rotates the femur laterally (“unlocks” the knee) or rotates the tibia medially, depending on which bone is fixed. This action results in unlocking of the knee joint to initiate flexion of the leg at the joint. The rectus femoris flexes the thigh and extends the knee. The gastrocnemius flexes the knee and plantar flexes the foot. The semimembranosus extends the thigh and flexes and rotates the leg medially. The biceps femoris extends the thigh and flexes and rotates the leg laterally.
+
+Q: A patient presents with sensory loss on adjacent sides of the great and second toes and impaired dorsiflexion of the foot. These signs probably indicate damage to which of the following nerves?
+A) Superficial peroneal
+B) Lateral plantar
+C) Deep peroneal
+D) Sural
+E) Tibial
+Answer: C
+Explanation: The deep peroneal nerve supplies the anterior muscles of the leg, including the tibialis anterior, extensor hallucis longus, extensor digitorum longus, and peroneus tertius muscles, which dorsiflex the foot. The medial branch of the deep peroneal nerve supplies the skin of adjacent sides of the great and second toes, whereas the lateral branch supplies the extensor digitorum brevis and extensor hallucis brevis. The superficial peroneal nerve innervates the peroneus longus and brevis, which plantar flexes the foot, and supplies the skin on the side of the lower leg and the dorsum of the ankle and foot. The tibial nerve innervates the muscles of the posterior compartment that plantar flexes and supplies the skin on the heel and plantar aspect of the foot. The lateral plantar nerve innervates muscles and skin of the lateral plantar aspect of the foot. The sural nerve supplies the skin on the posterolateral aspect of the leg and the lateral aspect of the foot and the little toe.
+
+Q: A motorcyclist falls from his bike in an accident and gets a deep gash that severs the superficial peroneal nerve near its origin. Which of the following muscles is paralyzed?
+A) Peroneus longus
+B) Extensor hallucis longus
+C) Extensor digitorum longus
+D) Peroneus tertius
+E) Extensor digitorum brevis
+Answer: A
+Explanation: The superficial peroneal nerve supplies the peroneus longus and brevis muscles. Other muscles are innervated by the deep peroneal nerve.
+
+Q: A 67-year-old patient has been given a course of antibiotics by gluteal intramuscular injections after a major abdominal surgery. To avoid damaging the sciatic nerve during an injection, the needle should be inserted into which of the following areas?
+A) Over the sacrospinous ligament
+B) Midway between the ischial tuberosity and the lesser trochanter
+C) Midpoint of the gemelli muscles
+D) Upper lateral quadrant of the gluteal region
+E) Lower medial quadrant of the gluteal region
+Answer: D
+Explanation: To avoid damaging the sciatic nerve during an intramuscular injection, the clinician should insert the needle in the upper lateral quadrant of the gluteal region. The inserted needle in the lower medial quadrant may damage the pudendal and sciatic nerves. The inserted needle midway between the ischial tuberosity and the lesser trochanter may damage the sciatic and posterior femoral cutaneous nerves on the quadratus femoris. The inserted needle over the sacrospinous ligament may damage the pudendal nerve and vessels.
+
+Q: A 20-year-old patient cannot flex and medially rotate the thigh while running and climbing. Which of the following muscles is most likely damaged?
+A) Semimembranosus
+B) Sartorius
+C) Rectus femoris
+D) Vastus intermedius
+E) Tensor fasciae latae
+Answer: E
+Explanation: The tensor fasciae latae can flex and medially rotate the thigh, so this is the muscle most likely damaged. The hamstring muscles (semitendinosus, semimembranosus, and biceps femoris) can extend the thigh and flex the leg. The sartorius can flex the thigh and leg. The rectus femoris can flex the thigh and extend the leg. The vastus intermedius can extend the leg.
+
+Q: A 21-year-old man was involved in a motorcycle accident, resulting in destruction of the groove in the lower surface of the cuboid bone. Which of the following muscle tendons is most likely damaged?
+A) Flexor hallucis longus
+B) Peroneus brevis
+C) Peroneus longus
+D) Tibialis anterior
+E) Tibialis posterior
+Answer: C
+Explanation: The groove in the lower surface of the cuboid bone is occupied by the tendon of the peroneus longus muscle. The flexor hallucis longus tendon occupies a groove on the posterior surface of the body of the talus and a groove on the inferior surface of the calcaneus during its course. The tibialis posterior muscle tendon occupies the medial malleolar groove of the tibia. Other muscle tendons are not in the groove of the tarsal bones.
+
+Q: A construction worker falls feet first from a roof. He sustains a fracture of the groove on the undersurface of the sustentaculum tali of the calcaneus bone. Which of the following muscle tendons is most likely torn?
+A) Flexor digitorum brevis
+B) Flexor digitorum longus
+C) Flexor hallucis brevis
+D) Flexor hallucis longus
+E) Tibialis posterior
+Answer: D
+Explanation: The tendon of the flexor hallucis longus muscle occupies first the groove on the posterior surface of the talus and then the groove on the undersurface of the sustentaculum tali. None of the other tendons would have been affected in such an injury.
+
+Q: A thoracic surgeon is going to collect a portion of the greater saphenous vein for coronary bypass surgery. He has observed that this vein runs:
+A) Posterior to the medial malleolus
+B) Into the popliteal vein
+C) Anterior to the medial condyles of the tibia and femur
+D) Superficial to the fascia lata of the thigh
+E) Along with the femoral artery
+Answer: D
+Explanation: The greater saphenous vein ascends superficial to the fascia lata. It courses anterior to the medial malleolus and posterior to the medial condyles of the tibia and femur and terminates in the femoral vein by passing through the saphenous opening. The small saphenous vein drains into the popliteal vein. The greater saphenous vein does not run along with the femoral artery.
+
+Q: A 52-year-old woman slipped and fell and now complains of being unable to extend her leg at the knee joint. Which of the following muscles was paralyzed as a result of this accident?
+A) Semitendinosus
+B) Sartorius
+C) Gracilis
+D) Quadriceps femoris
+E) Biceps femoris
+Answer: D
+Explanation: The quadriceps femoris muscle includes the rectus femoris muscle and the vastus medialis, intermedialis, and lateralis muscles. They extend the leg at the knee joint. The semitendinosus, semimembranosus, and biceps femoris muscles (the hamstrings) extend the thigh and flex the leg. The sartorius and gracilis muscles can flex the thigh and the leg.
+
+Q: A patient experiences weakness in dorsiflexing and inverting the foot. Which of the following muscles is damaged?
+A) Peroneus longus
+B) Peroneus brevis
+C) Tibialis anterior
+D) Extensor digitorum longus
+E) Peroneus tertius
+Answer: C
+Explanation: The tibialis anterior can dorsiflex and invert the foot. The peroneus longus and brevis muscles can plantar flex and evert the foot, the peroneus tertius can dorsiflex and evert the foot, and the extensor digitorum longus can dorsiflex the foot and extend the toes.
+
+Q: A 62-year-old woman slips and falls on the bathroom floor. As a result, she has a posterior dislocation of the hip joint and a fracture of the neck of the femur. Rupture of the ligamentum teres capitis femoris may lead to damage to a branch of which of the following arteries?
+A) Medial circumflex femoral
+B) Lateral circumflex femoral
+C) Obturator
+D) Superior gluteal
+E) Inferior gluteal
+Answer: C
+Explanation: The obturator artery gives rise to an acetabular branch that runs in the round ligament of the head of the femur.
+
+Q: A 62-year-old woman slips and falls on the bathroom floor. As a result, she has a posterior dislocation of the hip joint and a fracture of the neck of the femur. Fracture of the neck of the femur results in avascular necrosis of the femoral head, probably resulting from lack of blood supply from which of the following arteries?
+A) Obturator
+B) Superior gluteal
+C) Inferior gluteal
+D) Medial femoral circumflex
+E) Lateral femoral circumflex
+Answer: D
+Explanation: In adults, the chief arterial supply to the head of the femur is from the branches of the medial femoral circumflex artery. The lateral femoral circumflex artery may supply the femoral head by anastomosing with the medial femoral circumflex artery. The posterior branch of the obturator artery gives rise to the artery of the head of the femur, which runs in the round ligament of the femoral head and is usually insufficient to supply the head of the femur in adults but is an important source of blood to the femoral head in children. The superior and inferior gluteal arteries do not supply the head of the femur.
+
+Q: A 62-year-old woman slips and falls on the bathroom floor. As a result, she has a posterior dislocation of the hip joint and a fracture of the neck of the femur. If the acetabulum is fractured at its posterosuperior margin by dislocation of the hip joint, which of the following bones could be involved?
+A) Pubis
+B) Ischium
+C) Ilium
+D) Sacrum
+E) Head of the femur
+Answer: C
+Explanation: The acetabulum is a cup-shaped cavity on the lateral side of the hip bone and is formed superiorly by the ilium, posteroinferiorly by the ischium, and anteromedially by the pubis. The sacrum and the head of the femur do not participate in the formation of the acetabulum.
+
+Q: A 62-year-old woman slips and falls on the bathroom floor. As a result, she has a posterior dislocation of the hip joint and a fracture of the neck of the femur. The woman experiences weakness when abducting and medially rotating the thigh after this accident. Which of the following muscles is most likely damaged?
+A) Piriformis
+B) Obturator internus
+C) Quadratus femoris
+D) Gluteus maximus
+E) Gluteus minimus
+Answer: E
+Explanation: The gluteus medius or minimus abducts and rotates the thigh medially. The piriformis, obturator internus, quadratus femoris, and gluteus maximus muscles can rotate the thigh laterally.
+
+Q: A 62-year-old woman slips and falls on the bathroom floor. As a result, she has a posterior dislocation of the hip joint and a fracture of the neck of the femur. The woman undergoes hip surgery. If all of the arteries that are part of the cruciate anastomosis of the upper thigh are ligated, which of the following arteries maintains blood flow?
+A) Medial femoral circumflex
+B) Lateral femoral circumflex
+C) Superior gluteal
+D) Inferior gluteal
+E) First perforating
+Answer: C
+Explanation: The superior gluteal artery does not participate in the cruciate anastomosis of the thigh. The inferior gluteal artery, transverse branches of the medial and lateral femoral circumflex arteries, and an ascending branch of the first perforating artery form the cruciate anastomosis of the thigh.
+
+Q: A 34-year-old woman sustains a deep cut on the dorsum of the foot just distal to her ankle joint by a falling kitchen knife. A physician in the emergency department has ligated the dorsalis pedis artery proximal to the injured area. Which of the following conditions most likely occurs as a result of the injury?
+A) Ischemia in the peroneus longus muscle
+B) Aneurysm in the plantar arterial arch
+C) Reduction of blood flow in the medial tarsal artery
+D) Low blood pressure in the anterior tibial artery
+E) High blood pressure in the arcuate artery
+Answer: C
+Explanation: Reduction of blood flow in the medial tarsal artery occurs because it is a branch of the dorsalis pedis artery, which begins at the ankle joint as the continuation of the anterior tibial artery. The anterior tibial and peroneal arteries supply the peroneus longus muscle. The deep plantar arterial arch is formed mainly by the lateral plantar artery. Blood pressure in the anterior tibial artery should be higher than normal. The arcuate artery should have a low blood pressure because it is a terminal branch of the dorsalis pedis artery.
+
+Q: A patient experiences paralysis of the muscle that originates from the femur and contributes directly to the stability of the knee joint. Which of the following muscles is involved?
+A) Vastus lateralis
+B) Semimembranosus
+C) Sartorius
+D) Biceps femoris (long head)
+E) Rectus femoris
+Answer: A
+Explanation: The vastus lateralis muscles arise from the femur and all the other muscles originate from the hip (coxal) bone. The biceps femoris inserts on the fibula, and other muscles insert on the tibia; thus, all of them contribute to the stability of the knee joint.
+
+Q: A patient is involved in a motorcycle wreck that results in avulsion of the skin over the anterolateral leg and ankle. Which of the following structures is most likely destroyed with this type of injury?
+A) Deep peroneal nerve
+B) Extensor digitorum longus muscle tendon
+C) Dorsalis pedis artery
+D) Great saphenous vein
+E) Superficial peroneal nerve
+Answer: E
+Explanation: The superficial peroneal nerve emerges between the peroneus longus and peroneus brevis muscles and descends superficial to the extensor retinaculum of the ankle on the anterolateral side of the leg and ankle, innervating the skin of the lower leg and foot. The great saphenous vein begins at the medial end of the dorsal venous arch of the foot and ascends in front of the medial malleolus and along the medial side of the tibia along with the saphenous nerve. Other structures pass deep to the extensor retinaculum.
+
+Q: A knife wound penetrates the superficial vein that terminates in the popliteal vein. Bleeding occurs from which of the following vessels?
+A) Posterior tibial vein
+B) Anterior tibial vein
+C) Peroneal vein
+D) Great saphenous vein
+E) Lesser saphenous vein
+Answer: E
+Explanation: The lesser (small) saphenous vein ascends on the back of the leg in company with the sural nerve and terminates in the popliteal vein. The peroneal vein empties into the posterior tibial vein. The anterior and posterior tibial veins are deep veins and join to form the popliteal vein. The great saphenous vein drains into the femoral vein.
+
+Q: A 10-year-old boy falls from a tree house. The resultant heavy compression of the sole of his foot against the ground caused a fracture of the head of the talus. Which of the following structures is unable to function normally?
+A) Transverse arch
+B) Medial longitudinal arch
+C) Lateral longitudinal arch
+D) Tendon of the peroneus longus
+E) Long plantar ligament
+Answer: B
+Explanation: The keystone of the medial longitudinal arch of the foot is the head of the talus, which is located at the summit between the sustentaculum tali and the navicular bone. The medial longitudinal arch is supported by the spring ligament and the tendon of the flexor hallucis longus muscle. The cuboid bone serves as the keystone of the lateral longitudinal arch, which is supported by the peroneus longus tendon and the long and short plantar ligaments. The transverse arch is formed by the navicular, three cuneiform, the cuboid, and five metatarsal bones and is supported by the peroneus longus tendon and the transverse head of the adductor hallucis.
+
+Q: A 24-year-old woman complains of weakness when she extends her thigh and rotates it laterally. Which of the following muscles is paralyzed?
+A) Obturator externus
+B) Sartorius
+C) Tensor fasciae latae
+D) Gluteus maximus
+E) Semitendinosus
+Answer: D
+Explanation: The gluteus maximus can extend and rotate the thigh laterally. The obturator externus rotates the thigh laterally. The sartorius can flex both the hip and knee joints. The tensor fasciae latae can flex and medially rotate the thigh. The semitendinosus can extend the thigh and medially rotate the leg.
+
+Q: A patient with hereditary blood clotting problems presents with pain in the back of her knee. An arteriogram reveals a blood clot in the popliteal artery at its proximal end. Which of the following arteries will allow blood to reach the foot?
+A) Anterior tibial
+B) Posterior tibial
+C) Peroneal
+D) Lateral circumflex femoral
+E) Superior medial genicular
+Answer: D
+Explanation: If the proximal end of the popliteal artery is blocked, blood may reach the foot by way of the descending branch of the lateral circumflex femoral artery, which participates in the anastomosis around the knee joint. Other blood vessels are direct or indirect branches of the popliteal artery.
+
+Q: A 72-year-old woman complains of a cramp-like pain in her thigh and leg. She was diagnosed as having a severe intermittent claudication. Following surgery, an infection was found in the adductor canal, damaging the enclosed structures. Which of the following structures remains intact?
+A) Femoral artery
+B) Femoral vein
+C) Saphenous nerve
+D) Great saphenous vein
+E) Nerve to the vastus medialis
+Answer: D
+Explanation: The great saphenous nerve remains intact because it is not in the adductor canal. The adductor canal contains the femoral vessels, the saphenous nerve, and the nerve to the vastus medialis.
+
+Q: A basketball player was hit in the thigh by an opponent’s knee. Which of the following arteries is likely to compress and cause ischemia because of the bruise and damage to the extensor muscles of the leg?
+A) Popliteal
+B) Deep femoral
+C) Anterior tibial
+D) Posterior tibial
+E) Peroneal
+Answer: C
+Explanation: A muscular spasm or hypertrophy of the extensor muscles of the leg may compress the anterior tibial artery, causing ischemia. The popliteal artery supplies muscles of the popliteal fossa. The deep femoral artery supplies deep muscles of the thigh. The posterior tibial and peroneal arteries supply muscles of the posterior and lateral compartments of the leg.
+
+Q: An elderly woman fell at home and fractured the greater trochanter of her femur. Which of the following muscles would continue to function normally?
+A) Piriformis
+B) Obturator internus
+C) Gluteus medius
+D) Gluteus maximus
+E) Gluteus minimus
+Answer: D
+Explanation: The gluteus maximus is inserted into the gluteal tuberosity of the femur and the iliotibial tract. All of the other muscles insert on the greater trochanter of the femur, and their functions are impaired.
+
+Q: A 20-year-old college student receives a severe blow on the inferolateral side of the left knee joint while playing football. Radiographic examination reveals a fracture of the head and neck of the fibula. Which of the following nerves is damaged?
+A) Sciatic
+B) Tibial
+C) Common peroneal
+D) Deep peroneal
+E) Superficial peroneal
+Answer: C
+Explanation: The common peroneal nerve is vulnerable to injury as it passes behind the head of the fibula and then winds around the neck of the fibula and pierces the peroneus longus muscle, where it divides into the deep and superficial peroneal nerves. In addition, the deep and superficial peroneal nerves pass superficial to the neck of the fibula in the substance of the peroneus longus muscle and are less susceptible to injury than the common peroneal nerve. Other nerves are not closely associated with the head and neck of the fibula.
+
+Q: A 20-year-old college student receives a severe blow on the inferolateral side of the left knee joint while playing football. Radiographic examination reveals a fracture of the head and neck of the fibula. After injury to this nerve, which of the following muscles could be paralyzed?
+A) Gastrocnemius
+B) Popliteus
+C) Extensor hallucis longus
+D) Flexor digitorum longus
+E) Tibialis posterior
+Answer: C
+Explanation: The extensor hallucis longus is innervated by the deep peroneal nerve, whereas other muscles are innervated by the posterior tibial nerve.
+
+Q: A 20-year-old college student receives a severe blow on the inferolateral side of the left knee joint while playing football. Radiographic examination reveals a fracture of the head and neck of the fibula. If the lateral (fibular) collateral ligament is torn by this fracture, which of the following conditions may occur?
+A) Abnormal passive abduction of the extended leg
+B) Abnormal passive adduction of the extended leg
+C) Anterior displacement of the femur on the tibia
+D) Posterior displacement of the femur on the tibia
+E) Maximal flexion of the leg
+Answer: B
+Explanation: The lateral (fibular) collateral ligament prevents adduction at the knee. Therefore, a torn lateral collateral ligament can be recognized by abnormal passive adduction of the extended leg. Abnormal passive abduction of the extended leg may occur when the medial (tibial) collateral ligament is torn. The anterior cruciate ligament prevents posterior displacement of the femur on the tibia; the posterior cruciate ligament prevents anterior displacement of the femur on the tibia. In addition, the posterior cruciate ligament is taut when the knee is fully flexed.
+
+Q: A 20-year-old college student receives a severe blow on the inferolateral side of the left knee joint while playing football. Radiographic examination reveals a fracture of the head and neck of the fibula. Which of the following arteries could also be damaged by this fracture?
+A) Popliteal
+B) Posterior tibial
+C) Anterior tibial
+D) Peroneal
+E) Lateral inferior genicular
+Answer: C
+Explanation: The anterior tibial artery, which arises from the popliteal artery, enters the anterior compartment by passing through the gap between the fibula and tibia at the upper end of the interosseous membrane. The other arteries would not be affected because they are not closely associated with the head and neck of the fibula.
+
+Q: A 20-year-old college student receives a severe blow on the inferolateral side of the left knee joint while playing football. Radiographic examination reveals a fracture of the head and neck of the fibula. Which of the following conditions would occur from this fracture?
+A) Ischemia in the gastrocnemius
+B) Loss of plantar flexion
+C) Trendelenburg’s sign
+D) Anterior tibial compartment syndrome
+E) Flat foot
+Answer: D
+Explanation: Anterior tibial compartment syndrome is characterized by ischemic necrosis of the muscles of the anterior tibial compartment of the leg resulting from damage to the anterior tibial artery. The gastrocnemius receives blood from sural branches of the popliteal artery. Loss of plantar flexion is due to necrosis of the posterior muscles of the leg, which are supplied by the posterior tibial and peroneal arteries. Trendelenburg’s sign is caused by weakness or paralysis of the gluteus medius and minimus muscles. Flat foot results from the collapse of the medial longitudinal arch of the foot.
+
+Q: A construction worker is hit on the leg with a concrete block and is subsequently unable to plantar flex and invert his foot. Which of the following muscles is most likely damaged?
+A) Extensor digitorum longus
+B) Tibialis anterior
+C) Tibialis posterior
+D) Peroneus longus
+E) Peroneus brevis
+Answer: C
+Explanation: The tibialis posterior can plantar flex and invert the foot. The extensor digitorum longus can dorsiflex and evert the foot, the tibialis anterior can dorsiflex and invert the foot, and the peroneus longus and brevis can plantar flex and evert the foot.
+
+Q: The obturator nerve and the sciatic (tibial portion) nerve of a 15-year-old boy are transected as a result of a motorcycle accident. This injury would result in complete paralysis of which of the following muscles?
+A) Rectus femoris
+B) Biceps femoris, short head
+C) Pectineus
+D) Adductor magnus
+E) Sartorius
+Answer: D
+Explanation: The adductor magnus is innervated by both the obturator and sciatic (tibial portion) nerves. Hence, a lesion here could cause paralysis. The rectus femoris and sartorius are innervated by the femoral nerve. The biceps femoris long head is innervated by the tibial portion of the sciatic nerve, whereas the short head is innervated by the common peroneal portion of the sciatic nerve. The pectineus is innervated by both the femoral and obturator nerves.
+
+Q: A 24-year-old woman presents to her physician with weakness in flexing the hip joint and extending the knee joint. Which muscle is most likely involved in this scenario?
+A) Sartorius
+B) Gracilis
+C) Rectus femoris
+D) Vastus medialis
+E) Semimembranosus
+Answer: C
+Explanation: The rectus femoris flexes the thigh and extends the leg. The sartorius can flex both the hip and knee joints. The gracilis adducts and flexes the thigh and flexes the leg, the vastus medialis extends the knee joint, and the semimembranosus extends the hip joint and flexes the knee joint.
+
+Q: A 17-year-old boy was stabbed during a gang fight resulting in transection of the obturator nerve. Which of the following muscles is completely paralyzed?
+A) Pectineus
+B) Adductor magnus
+C) Adductor longus
+D) Biceps femoris
+E) Semimembranosus
+Answer: C
+Explanation: The adductor longus is innervated by only the obturator nerve. Thus, injury here could completely paralyze the adductor longus. The pectineus is innervated by both the obturator and femoral nerves. The adductor magnus is innervated by both the obturator nerve and tibial part of the sciatic nerve. The biceps femoris is innervated by the tibial portion (long head) and common peroneal portion (short head) of the sciatic nerve. The semimembranosus is innervated by the tibial portion of the sciatic nerve.
+
+Q: A 32-year-old carpenter fell from the roof. The lateral longitudinal arch of his foot was flattened from fracture and displacement of the keystone for the arch. Which of the following bones is damaged?
+A) Calcaneus
+B) Cuboid bone
+C) Head of the talus
+D) Medial cuneiform
+E) Navicular bone
+Answer: B
+Explanation: The keystone for the lateral longitudinal arch is the cuboid bone, whereas the keystone for the medial longitudinal arch is the head of the talus. The calcaneus, navicular, and medial cuneiform bones form a part of the medial longitudinal arch, but they are not keystones. The calcaneus also forms a part of the lateral longitudinal arch.
+
+Q: While playing football, a 19-year-old college student receives a twisting injury to his knee when being tackled from the lateral side. Which of the following conditions most likely has occurred?
+A) Tear of the medial meniscus
+B) Ruptured fibular collateral ligament
+C) Tenderness on pressure along the fibular collateral ligament
+D) Injury of the posterior cruciate ligament
+E) Swelling on the back of the knee joint
+Answer: A
+Explanation: The “unhappy triad” of the knee joint is characterized by tear of the medial meniscus, rupture of the tibial collateral ligament, and rupture of the anterior cruciate ligament. This injury may occur when a cleated shoe, as worn by football players, is planted firmly in the turf and the knee is struck from the lateral side. Tenderness along the medial collateral ligament and over the medial meniscus and swelling on the front of the joint are due to excessive production of synovial fluid, which fills the joint cavity and the suprapatellar bursa.
+
+Q: A patient has weakness when flexing both her thigh and leg. Which of the following muscles is most likely injured?
+A) Rectus femoris
+B) Semitendinosus
+C) Biceps femoris
+D) Sartorius
+E) Adductor longus
+Answer: D
+Explanation: The sartorius can flex and rotate the thigh laterally, and flex and rotate the leg medially. The rectus femoris flexes the thigh and extends the leg. The semimembranosus extends the thigh and flexes and rotates the leg medially. The biceps femoris extends the thigh and flexes and rotates the leg laterally. The adductor longus adducts and flexes the thigh.
+
+Q: A 35-year-old man has difficulty in dorsiflexing the foot. Which of the following muscles is most likely damaged?
+A) Tibialis posterior
+B) Flexor digitorum longus
+C) Tibialis anterior
+D) Peroneus longus
+E) Peroneus brevis
+Answer: C
+Explanation: The tibialis anterior muscle can dorsiflex the foot, whereas all other muscles are able to plantar flex the foot.
+
+Q: An injury to the leg of a golfer results in loss of the ability to invert the foot. Which of the following muscles is most likely paralyzed?
+A) Tibialis posterior
+B) Peroneus longus
+C) Peroneus brevis
+D) Peroneus tertius
+E) Extensor digitorum longus
+Answer: A
+Explanation: The tibialis posterior inverts the foot. The peroneus longus, brevis, and tertius and extensor digitorum longus can evert the foot.
+
+Q: An orthopedic surgeon ligates the posterior tibial artery at its origin. Which of the following arteries has no blood flow immediately after the ligation?
+A) Peroneal
+B) Dorsalis pedis
+C) Superior medial genicular
+D) Anterior tibial
+E) Descending genicular
+Answer: A
+Explanation: The peroneal artery is a branch of the posterior tibial artery. The dorsalis pedis artery begins anterior to the ankle as the continuation of the anterior tibial artery. The superior medial genicular artery is a branch of the popliteal artery, and the descending genicular artery arises from the femoral artery.
+
+Q: Before knee surgery, a surgeon ligates arteries participating in the anastomosis around the knee joint. Which of the following arteries is most likely spared?
+A) Lateral superior genicular
+B) Medial inferior genicular
+C) Descending branch of the lateral femoral circumflex
+D) Saphenous branch of the descending genicular
+E) Anterior tibial recurrent
+Answer: D
+Explanation: The descending genicular artery gives off the articular branch, which enters the anastomosis around the knee joint, and the saphenous branch, which is not involved in the anastomosis but supplies the superficial tissue and skin on the medial side of the knee. Other arteries are involved in the anastomosis around the knee joint.
+
+Q: A 25-year-old gladiator sustains a penetrating injury that severs the superficial peroneal nerve. This will most likely cause paralysis of which of the following muscles?
+A) Peroneus tertius
+B) Peroneus brevis
+C) Flexor hallucis longus
+D) Tibialis anterior
+E) Tibialis posterior
+Answer: B
+Explanation: The peroneus brevis muscle is innervated by the superficial peroneal nerve. The peroneus tertius and tibialis anterior muscles are innervated by the deep peroneal nerve. The flexor hallucis longus and tibialis posterior muscles are innervated by the tibial nerve.
+
+Q: A patient presents with a thrombosis in the popliteal vein. This thrombosis most likely causes reduction of blood flow in which of the following veins?
+A) Greater saphenous
+B) Lesser saphenous
+C) Femoral
+D) Posterior tibial
+E) Anterior tibial
+Answer: C
+Explanation: The popliteal vein drains blood into the femoral vein; thus, blood flow in the femoral vein is reduced. The great saphenous vein drains into the upper part of the femoral vein. Other veins empty into the popliteal vein.
+
+Q: A 21-year-old tennis player comes to an emergency room and complains of pain in the knee joint. On examination, he has an infection inside the knee joint capsule but outside the synovial cavity. Which of the following structures is preserved from this infection?
+A) Anterior cruciate ligament
+B) Posterior cruciate ligament
+C) Lateral meniscus
+D) Lateral collateral ligament
+E) Medial meniscus
+Answer: D
+Explanation: The lateral (fibular) collateral ligament extends between the lateral femoral epicondyle and the head of the fibula and is not attached to the lateral meniscus. All other ligaments lie outside the synovial cavity but within the joint capsule.
+
+Q: A 14-year-old gymnastic silver medalist falls from the parallel bar and complains of pains from the knee and ankle joints. On physical examination, her physician found that the muscle responsible for flexing the leg at the knee joint and plantar flexing the foot is severely weakened. Which of the following muscles involved in both movements was most likely damaged in this accident?
+A) Tibialis posterior
+B) Gastrocnemius
+C) Soleus
+D) Peroneus longus
+E) Flexor digitorum longus
+Answer: B
+Explanation: The gastrocnemius can flex the knee joint and also plantar flex the foot. The tibialis posterior can plantar flex and invert the foot. The soleus can plantar flex the foot. The peroneus longus can plantar flex and evert the foot. The flexor digitorum longus can plantar flex the foot and flex the lateral four toes.
+
+Q: A 28-year-old basketball player falls while rebounding and is unable to run and jump. On physical examination, he has pain and weakness when extending his thigh and flexing his leg. Which muscle involved in both movements is most likely injured?
+A) Short head of biceps femoris
+B) Adductor magnus
+C) Semitendinosus
+D) Sartorius
+E) Gracilis
+Answer: C
+Explanation: The semitendinosus extends the thigh and flexes the leg. The short head of the biceps femoris flexes the leg. The adductor magnus adducts, flexes, and extends the thigh. The sartorius and gracilis can flex the thigh and leg.
+
+Q: A 52-year-old woman comes to an orthopedic surgeon complaining of an uncomfortable feeling in her knee and ankle joints. After a thorough examination, she is diagnosed as having arthritis with mild discomfort with passive movements. The muscles acting at the ankle joint appear normal with good strength. Which muscle can both dorsiflex and invert her foot?
+A) Peroneus longus
+B) Peroneus brevis
+C) Peroneus tertius
+D) Extensor hallucis longus
+E) Extensor digitorum longus
+Answer: D
+Explanation: The extensor hallucis longus can dorsiflex and invert the foot. The peroneus longus, peroneus tertius, and extensor digitorum longus can dorsiflex and evert foot. The peroneus brevis can plantar flex and evert the foot.
+
+Q: A 32-year-old patient who weighs 275 lb comes to the doctor’s office. On the surface of the chest, the physician is able to locate the apex of the heart:
+A) At the level of the sternal angle
+B) In the left fourth intercostal space
+C) In the left fifth intercostal space
+D) In the right fifth intercostal space
+E) At the level of the xiphoid process of the sternum
+Answer: C
+Explanation: On the surface of the chest, the apex of the heart can be located in the left fifth intercostal space slightly medial to the midclavicular (or nipple) line. The sternal angle is located at the level where the second ribs articulate with the sternum. The xiphoid process lies at the level of T10 vertebra.
+
+Q: A 43-year-old female patient has been lying down on the hospital bed for more than 4 months. Her normal, quiet expiration is achieved by contraction of which of the following structures?
+A) Elastic tissue in the lungs and thoracic wall
+B) Serratus posterior superior muscles
+C) Pectoralis minor muscles
+D) Serratus anterior muscles
+E) Diaphragm
+Answer: A
+Explanation: Normal, quiet expiration is achieved by contraction of extensible tissue in the lungs and the thoracic wall. The serratus posterior superior muscles, diaphragm, pectoralis major, and serratus anterior are muscles of inspiration.
+
+Q: A 23-year-old man received a gunshot wound, and his greater splanchnic nerve was destroyed. Which of the following nerve fibers would be injured?
+A) General somatic afferent (GSA) and preganglionic sympathetic fibers
+B) General visceral afferent (GVA) and postganglionic sympathetic fibers
+C) GVA and preganglionic sympathetic fibers
+D) General somatic efferent (GSE) and postganglionic sympathetic fibers
+E) GVA and GSE fibers
+Answer: C
+Explanation: The greater splanchnic nerves contain general visceral afferent (GVA) and preganglionic sympathetic general visceral efferent (GVE) fibers.
+
+Q: A 17-year-old boy was involved in a gang fight, and a stab wound severed the white rami communicantes at the level of his sixth thoracic vertebra. This injury would result in degeneration of nerve cell bodies in which of the following structures?
+A) Dorsal root ganglion and anterior horn of the spinal cord
+B) Sympathetic chain ganglion and dorsal root ganglion
+C) Sympathetic chain ganglion and posterior horn of the spinal cord
+D) Dorsal root ganglion and lateral horn of the spinal cord
+E) Anterior and lateral horns of the spinal cord
+Answer: D
+Explanation: The white rami communicantes contain preganglionic sympathetic GVE fibers and GVA fibers whose cell bodies are located in the lateral horn of the spinal cord and the dorsal root ganglia. The sympathetic chain ganglion contains cell bodies of the postganglionic sympathetic nerve fibers. The anterior horn of the spinal cord contains cell bodies of the GSE fibers. The dorsal root ganglion contains cell bodies of GSA and GVA fibers.
+
+Q: A 27-year-old cardiac patient with an irregular heartbeat visits her doctor’s office for examination. Where should the physician place the stethoscope to listen to the sound of the mitral valve?
+A) Over the medial end of the second left intercostal space
+B) Over the medial end of the second right intercostal space
+C) In the left fourth intercostal space at the midclavicular line
+D) In the left fifth intercostal space at the midclavicular line
+E) Over the right half of the lower end of the body of the sternum
+Answer: D
+Explanation: The mitral valve (left atrioventricular [AV] valve) produces the apical beat (thrust) of the heart, which is most audible over the left fifth intercostal space at the midclavicular line. The pulmonary valve is most audible over the medial end of the second left intercostal space, the aortic valve is most audible over the medial end of the second right intercostal space, and the right AV valve is most audible over the right half of the lower end of the body of the sternum.
+
+Q: A 19-year-old man came to the emergency department, and his angiogram exhibited that he was bleeding from the vein that is accompanied by the posterior interventricular artery. Which of the following veins is most likely to be ruptured?
+A) Great cardiac vein
+B) Middle cardiac vein
+C) Anterior cardiac vein
+D) Small cardiac vein
+E) Oblique veins of the left atrium
+Answer: B
+Explanation: The middle cardiac vein ascends in the posterior interventricular groove, accompanied by the posterior interventricular branch of the right coronary artery. The great cardiac vein is accompanied by the anterior interventricular artery, the anterior cardiac vein drains directly into the right atrium, and the small cardiac vein is accompanied by the marginal artery.
+
+Q: A 37-year-old patient with palpitation was examined by her physician, and one of the diagnostic records included a posterior– anterior chest radiograph. Which of the following comprises the largest portion of the sternocostal surface of the heart seen on the radiograph?
+A) Left atrium
+B) Right atrium
+C) Left ventricle
+D) Right ventricle
+E) Base of the heart
+Answer: D
+Explanation: The right ventricle forms a large part of the sternocostal surface of the heart. The left atrium occupies almost the entire posterior surface of the right atrium. The right atrium occupies the right aspect of the heart. The left ventricle lies at the back of the heart and bulges roundly to the left. The base of the heart is formed by the atria, which lie mainly behind the ventricles.
+
+Q: A 5-year-old girl is brought to the emergency department because of difficulty breathing (dyspnea), palpitations, and shortness of breath. Doppler study of the heart reveals an atrial septal defect (ASD). This malformation usually results from incomplete closure of which of the following embryonic structures?
+A) Ductus arteriosus
+B) Ductus venosus
+C) Sinus venarum
+D) Foramen ovale
+E) Truncus arteriosus
+Answer: D
+Explanation: An atrial septal defect (ASD) is a congenital defect in the interatrial septum. During partitioning the two atria, the opening in the foramen secundum (the foramen ovale) usually closes at birth. If this foramen ovale is not closed completely, this would result in an ASD, shunting blood from the left atrium to the right atrium.
+
+Q: A 54-year-old patient is implanted with an artificial cardiac pacemaker. Which of the following conductive tissues of the heart had a defective function that required the pacemaker?
+A) Atrioventricular (AV) bundle
+B) AV node
+C) Sinoatrial (SA) node
+D) Purkinje fiber
+E) Moderator band
+Answer: C
+Explanation: The sinoatrial (SA) node initiates the impulse of contraction and is known as the pacemaker of the heart. Impulses from the SA node travel through the atrial myocardium to the AV node and then race through the AV bundle (bundle of His), which divides into the right and left bundle branches. The bundle breaks up into terminal conducting fibers (Purkinje fibers) to spread out into the ventricular walls. The moderate band carries the right limb of the AV bundle from the septum to the sternocostal wall of the ventricle.
+
+Q: A thoracic surgeon removed the right middle lobar (secondary) bronchus along with lung tissue from a 57-year-old heavy smoker with lung cancer. Which of the following bronchopulmonary segments must contain cancerous tissues?
+A) Medial and lateral
+B) Anterior and posterior
+C) Anterior basal and medial basal
+D) Anterior basal and posterior basal
+E) Lateral basal and posterior basal
+Answer: A
+Explanation: The right middle lobar (secondary) bronchus leads to the medial and lateral bronchopulmonary segments. The right superior lobar bronchus divides into the superior, posterior, and anterior segmental (tertiary) bronchi. The right inferior lobar bronchus has the anterior, lateral, posterior, and anterior segmental bronchi.
+
+Q: The bronchogram of a 45-year-old female smoker shows the presence of a tumor in the eparterial bronchus. Which airway is most likely blocked?
+A) Left superior bronchus
+B) Left inferior bronchus
+C) Right superior bronchus
+D) Right middle bronchus
+E) Right inferior bronchus
+Answer: C
+Explanation: The eparterial bronchus is the right superior lobar (secondary) bronchus; all of the other bronchi are hyparterial bronchi.
+
+Q: An 83-year-old man with a typical coronary circulation has been suffering from an embolism of the circumflex branch of the left coronary artery. This condition would result in ischemia of which of the following areas of the heart?
+A) Anterior part of the left ventricle
+B) Anterior interventricular region
+C) Posterior interventricular region
+D) Posterior part of the left ventricle
+E) Anterior part of the right ventricle
+Answer: D
+Explanation: The circumflex branch of the left coronary artery supplies the posterior portion of the left ventricle. The anterior interventricular artery supplies the anterior aspects of the right and left ventricles and the anterior interventricular septum.
+
+Q: A 44-year-old man with a stab wound was brought to the emergency department, and a physician found that the patient was suffering from a laceration of his right phrenic nerve. Which of the following conditions has likely occurred?
+A) Injury to only GSE fibers
+B) Difficulty in expiration
+C) Loss of sensation in the fibrous pericardium and mediastinal pleura
+D) Normal function of the diaphragm
+E) Loss of sensation in the costal part of the diaphragm
+Answer: C
+Explanation: The phrenic nerve supplies the pericardium and mediastinal and diaphragmatic (central part) pleura and the diaphragm, an important muscle of inspiration. It contains general somatic efferent (GSE), general somatic afferent (GSA), and GVE (postganglionic sympathetic) fibers. The costal part of the diaphragm receives GSA fibers from the intercostal nerves.
+
+Q: An 8-year-old boy with ASD presents to a pediatrician. This congenital heart defect shunts blood from the left atrium to the right atrium and causes hypertrophy of the right atrium, right ventricle, and pulmonary trunk. Which of the following veins opens into the hypertrophied atrium?
+A) Middle cardiac vein
+B) Small cardiac vein
+C) Oblique cardiac vein
+D) Anterior cardiac vein
+E) Right pulmonary vein
+Answer: D
+Explanation: The anterior cardiac vein drains into the right atrium. The middle, small, and oblique cardiac veins drain into the coronary sinus. The right and left pulmonary veins drain into the left atrium.
+
+Q: A 37-year-old patient with severe chest pain, shortness of breath, and congestive heart failure was admitted to a local hospital. His coronary angiograms reveal a thrombosis in the circumflex branch of the left coronary artery. Which of the following conditions could result from the blockage of blood flow in the circumflex branch?
+A) Tricuspid valve insufficiency
+B) Mitral valve insufficiency
+C) Ischemia of AV node
+D) Paralysis of pectinate muscle
+E) Necrosis of septomarginal trabecula
+Answer: B
+Explanation: The circumflex branch of the left coronary artery supplies the left ventricle, and thus its blockage of blood flow results in necrosis of myocardium in the left ventricle, producing mitral valve insufficiency. The pectinate muscles, tricuspid valve, and septomarginal trabecula are present in the right atrium and ventricle.
+
+Q: A 75-year-old patient has been suffering from lung cancer located near the cardiac notch, a deep indentation on the lung. Which of the following lobes is most likely to be excised?
+A) Superior lobe of the right lung
+B) Middle lobe of the right lung
+C) Inferior lobe of the right lung
+D) Superior lobe of the left lung
+E) Inferior lobe of the left lung
+Answer: D
+Explanation: The cardiac notch is a deep indentation of the anterior border of the superior lobe of the left lung. Therefore, the right lung is not involved.
+
+Q: A thoracentesis is performed to aspirate an abnormal accumulation of fluid in a 37-year-old patient with pleural effusion. A needle should be inserted at the midaxillary line between which of the following two ribs so as to avoid puncturing the lung?
+A) Ribs 1 and 3
+B) Ribs 3 and 5
+C) Ribs 5 and 7
+D) Ribs 7 and 9
+E) Ribs 9 and 11
+Answer: D
+Explanation: A thoracentesis is performed for aspiration of fluid in the pleural cavity at or posterior to the midaxillary line one or two intercostal spaces below the fluid level but not below the ninth intercostal space and, therefore, between ribs 7 and 9. Other intercostals spaces are not preferred.
+
+Q: A newborn baby is readmitted to the hospital with hypoxia and upon testing is found to have pulmonary stenosis, transposition of the aorta, interventricular septal defect, and hypertrophy of the right ventricle. Which of the following is best described by these symptoms?
+A) ASD
+B) Patent ductus anreriosus
+C) Tetralogy of Fallot
+D) Aortic stenosis
+E) Coarctation of the aorta
+Answer: C
+Explanation: Tetralogy of Fallot is a combination of congenital cardiac defects consisting of (a) pulmonary stenosis, (b) transposition of the aorta (so that it overrides the ventricular septum and receives blood from the right ventricle), (c) ventricular septal defect (VSD), and (d) right ventricular hypertrophy. ASD is a congenital defect in the atrial septum, resulting from a patent foramen ovale. Patent ductus arteriosus shunts blood from the pulmonary trunk to the aorta, bypassing the lungs. Aortic stenosis is an abnormal narrowing of the aortic valve orifice, impeding the blood flow. Coarctation of the aorta is a congenital constriction of the aorta, commonly occurs just distal to the left subclavian artery, causing upper limb hypertension and diminished blood flow to the lower limbs and abdominal viscera.
+
+Q: A 33-year-old patient is suffering from a sudden occlusion at the origin of the descending (thoracic) aorta. This condition would most likely decrease blood flow in which of the following intercostal arteries?
+A) Upper six anterior
+B) All of the posterior
+C) Upper two posterior
+D) Lower anterior
+E) Lower six posterior
+Answer: E
+Explanation: The first two posterior intercostal arteries are branches of the highest (superior) intercostal artery of the costocervical trunk; the remaining nine branches are from the thoracic aorta. The internal thoracic artery gives off the upper six anterior intercostal arteries and is divided into the superior epigastric and musculophrenic arteries, which gives off anterior intercostal arteries in the 7th, 8th, and 9th intercostal spaces and ends in the 10th intercostal space where it anastomoses with the deep circumflex iliac artery.
+
+Q: A 56-year-old patient recently suffered a myocardial infarction in the area of the apex of the heart. The occlusion by atherosclerosis is in which of the following arteries?
+A) Marginal artery
+B) Right coronary artery at its origin
+C) Anterior interventricular artery
+D) Posterior interventricular artery
+E) Circumflex branch of the left coronary artery
+Answer: C
+Explanation: The apex of the heart typically receives blood from the anterior interventricular branch of the left coronary artery. The marginal artery supplies the right inferior margin of the right ventricle, the right coronary artery at its origin supplies the right atrium and ventricle, and the posterior interventricular artery and a circumflex branch of the left coronary artery supply the left ventricle.
+
+Q: A 75-year-old woman was admitted to a local hospital, and bronchograms and radiographs revealed a lung carcinoma in her left lung. Which of the following structures or characteristics does the cancerous lung contain?
+A) Horizontal fissure
+B) Groove for superior vena cava (SVC)
+C) Middle lobe
+D) Lingula
+E) Larger capacity than the right
+Answer: D
+Explanation: The lingula is the tongue-shaped portion of the upper lobe of the left lung. The right lung has a groove for the horizontal fissure, superior vena cava (SVC), and middle lobe and has a larger capacity than the left lung.
+
+Q: An 18-year-old girl is thrust into the steering wheel while driving and experiences difficulty in expiration. Which of the following muscles is most likely damaged?
+A) Levator costarum
+B) Innermost intercostal muscle
+C) External intercostal muscle
+D) Diaphragm
+E) Muscles of the abdominal wall
+Answer: E
+Explanation: The abdominal muscles are the major muscles of expiration, whereas the other distractors are muscles of inspiration.
+
+Q: A 78-year-old patient presents with an advanced cancer in the posterior mediastinum. The surgeons are in a dilemma as to how to manage the condition. Which of the following structures is most likely damaged?
+A) Brachiocephalic veins
+B) Trachea
+C) Arch of the azygos vein
+D) Arch of the aorta
+E) Hemiazygos vein
+Answer: E
+Explanation: The hemiazygos vein is located in the posterior mediastinum. The brachiocephalic veins, trachea, and arch of the aorta are located in the superior mediastinum, whereas the arch of the azygos vein is found in the middle mediastinum.
+
+Q: A 46-year-old patient comes to his doctor’s office and complains of chest pain and headache. His computed tomography (CT) scan reveals a tumor located just superior to the root of the right lung. Blood flow in which of the following veins is most likely blocked by this tumor?
+A) Hemiazygos vein
+B) Arch of the azygos vein
+C) Right subclavian vein
+D) Right brachiocephalic vein
+E) Accessory hemiazygos vein
+Answer: B
+Explanation: The azygos vein arches over the root of the right lung and empties into the SVC. Other veins do not pass over the root of the right lung.
+
+Q: A 21-year-old patient with a stab wound reveals a laceration of the right vagus nerve proximal to the origin of the recurrent laryngeal nerve. Which of the following conditions would most likely result from this lesion?
+A) Contraction of bronchial muscle
+B) Stimulation of bronchial gland secretion
+C) Dilation of the bronchial lumen
+D) Decrease in cardiac rate
+E) Constriction of coronary artery
+Answer: C
+Explanation: The parasympathetic nerve fibers in the vagus nerve constrict the bronchial lumen, contract bronchial smooth muscle, stimulate bronchial gland secretion, decrease heart rate, and constrict the coronary artery. The vagus nerve also carries afferent fibers of pain, cough reflex, and stretch of the lung (during inspiration).
+
+Q: A 5-year-old boy with breathing difficulty, chest pain, and cough was admitted to a local hospital. The pediatrician who examined the boy, along with laboratory results, diagnosed the child as having cystic fibrosis. Which of the following structures is most likely blocked?
+A) Trachea
+B) Primary bronchus
+C) Secondary or lobar bronchi
+D) Terminal bronchioles
+E) Alveolar duct
+Answer: D
+Explanation: Cystic fibrosis affects the respiratory system by causing an excess production of viscous mucus by the bronchial glands, followed by mucous plugging and obstruction of the respiratory airway, particularly a small airway, such as that in a child. The alveolar duct is a part of this respiratory unit. The other structures are not affected because they are large airways and are not usually obstructed and thus do not help in making the diagnosis.
+
+Q: A 12-year-old boy was admitted to a local hospital with a known history of heart problems. His left ventricular hypertrophy could result from which of the following conditions?
+A) A constricted pulmonary trunk
+B) An abnormally small left AV opening
+C) Improper closing of the pulmonary valves
+D) An abnormally large right AV opening
+E) Stenosis of the aorta
+Answer: E
+Explanation: Stenosis of the aorta can cause left ventricular hypertrophy. Right ventricular hypertrophy may occur as a result of pulmonary stenosis, pulmonary and tricuspid valve defects, or mitral valve stenosis.
+
+Q: A 31-year-old man was involved in a severe automobile accident and suffered laceration of the left primary bronchus. The damaged primary bronchus:
+A) Has a larger diameter than the right primary bronchus
+B) Often receives more foreign bodies than the right primary bronchus
+C) Gives rise to the eparterial bronchus
+D) Is longer than the right primary bronchus
+E) Runs under the arch of the azygos vein
+Answer: D
+Explanation: The right primary bronchus is shorter than the left one and has a larger diameter. More foreign bodies enter it via the trachea because it is more vertical than the left primary bronchus. The right primary bronchus runs under the arch of the azygos vein and gives rise to the eparterial bronchus.
+
+Q: A 62-year-old woman who is a heavy smoker has an advanced lung cancer that spread into her right third intercostal space posterior to the midaxillary line. If cancer cells are carried in the venous drainage, they would travel first to which of the following veins?
+A) SVC
+B) Right superior intercostal vein
+C) Right brachiocephalic vein
+D) Azygos vein
+E) Hemiazygos vein
+Answer: B
+Explanation: The superior intercostal vein is formed by the union of the second, third, and fourth posterior intercostal veins and drains into the azygos vein on the right and the brachiocephalic vein on the left. The azygos vein drains into the SVC. The hemiazygos vein usually drains into the azygos vein.
+
+Q: A radiologist examines posterior–anterior chest radiographs of a 27-year-old victim of a car accident. Which of the following structures forms the right border of the cardiovascular silhouette?
+A) Arch of the aorta
+B) Pulmonary trunk
+C) SVC
+D) Ascending aorta
+E) Left ventricle
+Answer: C
+Explanation: A cardiovascular silhouette or cardiac shadow is the contour of the heart and great vessels seen on posterior–anterior chest radiographs. Its right border is formed by the SVC, right atrium, and inferior vena cava; its left border is formed by the aortic arch (aortic knob), pulmonary trunk, left auricle, and left ventricle. The ascending aorta becomes the arch of the aorta and is found in the middle of the heart.
+
+Q: A 37-year-old man is brought to the emergency department complaining of severe chest pain. His angiogram reveals thromboses of both brachiocephalic veins. This condition would most likely cause a dilation of which of the following veins?
+A) Azygos
+B) Hemiazygos
+C) Right superior intercostal
+D) Left superior intercostal
+E) Internal thoracic
+Answer: D
+Explanation: The left superior intercostal vein is formed by the second, third, and fourth posterior intercostal veins and drains into the left brachiocephalic vein. The right superior intercostal vein drains into the azygos vein, which in turn drains into the SVC. The hemiazygos vein drains into the azygos vein, whereas the internal thoracic vein empties into the brachiocephalic vein.
+
+Q: A cardiologist is on clinical rounds with her medical students. She asks them, “During the cardiac cycle, which of the following events occurs?”
+A) AV valves close during diastole
+B) Aortic valve closes during systole
+C) Pulmonary valve opens during diastole
+D) Blood flow in coronary arteries is maximal during diastole
+E) Aortic valve closes at the same time as AV valve
+Answer: D
+Explanation: During diastole, the AV valves open, and the aortic and pulmonary valves close; whereas during systole, the AV valves close, and the aortic and pulmonary valves open.
+
+Q: Coronary angiographs of a 44-year-old male patient reveal an occlusion of the circumflex branch of the left coronary artery. This patient has been suffering from myocardial infarction in which of the following areas?
+A) Right and left ventricles
+B) Right and left atria
+C) Interventricular septum
+D) Apex of the heart
+E) Left atrium and ventricle
+Answer: E
+Explanation: The left atrium and ventricle receive blood from the circumflex branch of the left coronary artery. The interventricular septum and the apex of the heart are supplied by the anterior interventricular branch of the left coronary artery. The right ventricle receives blood from the anterior interventricular artery and the marginal branch of the right coronary artery. The right atrium receives blood from the right coronary artery.
+
+Q: A patient has a small but solid tumor in the mediastinum, which is confined at the level of the sternal angle. Which of the following structures would most likely be found at this level?
+A) Bifurcation of the trachea
+B) Beginning of the ascending aorta
+C) Middle of the aortic arch
+D) Articulation of the third rib with the sternum
+E) Superior border of the superior mediastinum
+Answer: A
+Explanation: The sternal angle is the junction of the manubrium and the body of the sternum. It is located at the level where the second rib articulates with the sternum, the trachea bifurcates into the right and left bronchi, and the aortic arch begins and ends. It marks the end of the ascending aorta and the beginning of the descending aorta, and it forms the inferior border of the superior mediastinum.
+
+Q: A 37-year-old house painter fell from a ladder and fractured his left third rib and the structures with which it articulated. Which of the following structures would most likely be damaged?
+A) Manubrium of the sternum
+B) Body of the second thoracic vertebra
+C) Spinous process of the third thoracic vertebra
+D) Body of the fourth thoracic vertebra
+E) Transverse process of the second thoracic vertebra
+Answer: B
+Explanation: The third rib articulates with the body of the sternum, bodies of the second and third thoracic vertebrae, and transverse process of the third thoracic vertebra.
+
+Q: A 45-year-old woman presents with a tumor confined to the posterior mediastinum. This could result in compression of which of the following structures?
+A) Trachea
+B) Descending aorta
+C) Arch of the aorta
+D) Arch of the azygos vein
+E) Phrenic nerve
+Answer: B
+Explanation: The descending aorta is found in the posterior mediastinum. The superior mediastinum contains the trachea and arch of the aorta, and the middle mediastinum contains the ascending aorta, arch of the azygos vein, and main bronchi. The phrenic nerve runs in the middle mediastinum.
+
+Q: A 62-year-old patient with pericardial effusion comes to a local hospital for aspiration of pericardial fluid by pericardiocentesis. The needle is inserted into the pericardial cavity through which of the following intercostal spaces adjacent to the sternum?
+A) Right fourth intercostal space
+B) Left fourth intercostal space
+C) Right fifth intercostal space
+D) Left fifth intercostal space
+E) Right sixth intercostal space
+Answer: D
+Explanation: To aspirate pericardial fluid, the needle should be inserted into the pericardial cavity through the fifth intercostals space just left to the sternum. Because of the cardiac notch, the needle misses the pleura and lungs, but it penetrates the pericardium. Lung tissues lie beneath the fourth and sixth intercostal spaces.
+
+Q: The attending faculty in the coronary intensive care unit demonstrates to his students a normal heart examination. The first heart sound is produced by near-simultaneous closure of which of the following valves?
+A) Aortic and tricuspid
+B) Aortic and pulmonary
+C) Tricuspid and mitral
+D) Mitral and pulmonary
+E) Tricuspid and pulmonary
+Answer: C
+Explanation: The first heart sound (“lub”) is produced by the closure of the tricuspid and mitral valves, whereas the second heart sound (“dub”) is produced by the closure of the aortic and pulmonary valves.
+
+Q: A 27-year-old patient with Marfan’s syndrome has an aneurysm of the aortic arch. This may compress which of the following structures?
+A) Right vagus nerve
+B) Left phrenic nerve
+C) Right sympathetic trunk
+D) Left recurrent laryngeal nerve
+E) Left greater splanchnic nerve
+Answer: D
+Explanation: The left recurrent laryngeal nerve loops around the arch of the aorta near the ligamentum arteriosum, whereas the right recurrent laryngeal nerve hooks around the right subclavian artery. All other nerves are not closely associated with the aortic arch.
+
+Q: A 47-year-old man with a known atrial fibrillation returns to see his cardiologist for follow-up of his cardiac health. The right atrium is important in this case because it:
+A) Receives blood from the oblique cardiac vein
+B) Is associated with the apex of the heart
+C) Contains the SA node
+D) Receives the right pulmonary vein
+E) Is hypertrophied by pulmonary stenosis
+Answer: C
+Explanation: The SA and AV nodes are in the wall of the right atrium and are not associated with the apex of the heart. The oblique cardiac vein drains into the coronary sinus, and the pulmonary veins empty into the left atrium. The right ventricle is hypertrophied by the pulmonary stenosis.
+
+Q: A 57-year-old patient has a heart murmur resulting from the inability to maintain constant tension on the cusps of the AV valve. Which of the following structures is most likely damaged?
+A) Crista terminalis
+B) Septomarginal trabecula
+C) Chordae tendineae
+D) Pectinate muscle
+E) Anulus fibrosus
+Answer: C
+Explanation: The chordae tendineae are tendinous strands that extend from the papillary muscles to the cusps of the valve. The papillary muscles and chordae tendineae prevent the cusps from being everted into the atrium during ventricular contraction.
+
+Q: A mother with diabetes gives birth to a baby who is diagnosed as having dextroposition of the aorta and the pulmonary trunk with cyanosis and shortness of breath. Which of the following structures is required to remain patent until surgical correction of the deformity?
+A) Umbilical arteries
+B) Umbilical vein
+C) Ductus arteriosus
+D) Ductus venosus
+E) Sinus venosus
+Answer: C
+Explanation: A patent ductus arteriosus shunts blood from the pulmonary trunk to the aorta, partially bypassing the lungs, and thus allowing mixed blood to reach the body tissues and causing cyanosis. Dextroposition or transposition of the great arteries must be accompanied by a VSD or a patent ductus arteriosus for the infant to survive. The transposition causes oxygenated blood to pass from the left ventricle into the pulmonary trunk and then into the lungs, but deoxygenated blood travels from the right ventricle into the aorta and then into the systemic circulation.
+
+Q: During early development of the respiratory system, the laryngotracheal tube maintains communication with the primitive foregut. Which of the following embryonic structures is most likely responsible for partitioning these two embryonic structures?
+A) Tracheoesophageal folds
+B) Tracheoesophageal fistula
+C) Tracheoesophageal septum
+D) Laryngotracheal diverticulum
+E) Laryngotracheal septum
+Answer: C
+Explanation: The tracheoesophageal septum is formed by the fusion of the tracheoesophageal folds in the midline. This septum divides the foregut into a ventral portion, the laryngotracheal tube (primordium of the larynx, trachea, bronchi, and lungs), and a dorsal portion (primordium of the oropharynx and esophagus).
+
+Q: A 32-year-old patient has a tension pneumothorax that can be treated with needle aspiration. To avoid an injury of the intercostal neurovascular bundle, the needle may be inserted in which of the following locations?
+A) Above the upper border of the ribs
+B) Deep to the upper border of the ribs
+C) Beneath the lower border of the ribs
+D) Between the external and internal intercostals
+E) Through the transversus thoracis muscle
+Answer: A
+Explanation: The intercostal veins, arteries, and nerves run in the costal groove beneath the inferior border of the ribs between the internal and innermost layers of muscles. The transversus thoracis muscles are situated in the internal surface of the lower anterior thoracic wall.
+
+Q: A 9-month-old girl was admitted to the children’s hospital with tachypnea (fast breathing) and shortness of breath. Physical examination further exhibits tachycardia (fast heart rate), a bounding peripheral pulse, and her angiographs reveal a patent ductus arteriosus. Which of the following embryonic arterial structures is most likely responsible for the origin of the patent ductus arteriosus?
+A) Right fourth arch
+B) Left fifth arch
+C) Right fifth arch
+D) Left sixth arch
+E) Right sixth arch
+Answer: D
+Explanation: The left sixth aortic arch is responsible for the development of both the ductus arteriosus and the pulmonary arteries. The ductus arteriosus closes functionally in an infant soon after birth, with anatomic closure requiring several weeks.
+
+Q: A 7-day-old baby is diagnosed as having congenital neonatal emphysema, which is caused by collapsed bronchi because of failure of bronchial cartilage development. Bronchial cartilages are derived from which of the following derivations?
+A) Ectoderm
+B) Mesoderm
+C) Endoderm
+D) Proctodeum
+E) Neuroectoderm
+Answer: B
+Explanation: Bronchial cartilages, smooth muscles, and connective tissue are derived from the mesoderm. The bronchial epithelium and glands are derived from the endoderm.
+
+Q: A 63-year-old man comes to the emergency department with back pain, weakness, and shortness of breath. On examination, he has an aneurysm of the abdominal aorta at the aortic hiatus of the diaphragm. Which of the following pairs of structures would most likely be compressed?
+A) Vagus nerve and azygos vein
+B) Esophagus and vagus nerve
+C) Azygos vein and thoracic duct
+D) Thoracic duct and vagus nerve
+E) Inferior vena cava (IVC) and phrenic nerve
+Answer: C
+Explanation: The aortic hiatus of the diaphragm transmits the azygos vein and thoracic duct. The vagus nerve passes through the esophageal hiatus, and the right phrenic nerve may run through the vena caval hiatus.
+
+Q: A 36-year-old woman with yellow pigmentation of the skin and sclerae presents at the outpatient clinic. Which of the following conditions most likely is the cause of her obstructive jaundice?
+A) Aneurysm of the splenic artery
+B) Perforated ulcer of the stomach
+C) Obstruction of the main pancreatic duct
+D) Cancer in the head of the pancreas
+E) Cancer in the body of the pancreas
+Answer: D
+Explanation: Because the bile duct traverses the head of the pancreas, cancer in the head of the pancreas obstructs the bile duct, resulting in jaundice. Aneurysm of the splenic artery, obstruction of the main pancreatic duct, a stomach ulcer, and cancer in the body of the pancreas are not closely associated with the bile duct. The tail of the pancreas is located at the hilus of the spleen, which lies far from the bile duct.
+
+Q: A 2-year-old boy presents with pain in his groin that has been increasing in nature over the past few weeks. He is found to have a degenerative malformation of the transversalis fascia during development. Which of the following structures on the anterior abdominal wall is likely defective?
+A) Superficial inguinal ring
+B) Deep inguinal ring
+C) Inguinal ligament
+D) Sac of a direct inguinal hernia
+E) Anterior wall of the inguinal canal
+Answer: B
+Explanation: The deep inguinal ring lies in the transversalis fascia, just lateral to the inferior epigastric vessels. The superficial inguinal ring is in the aponeurosis of the external oblique muscle. The inguinal ligament and the anterior wall of the inguinal canal are formed by the aponeurosis of the external oblique muscle. The sac of a direct inguinal hernia is formed by the peritoneum.
+
+Q: A 42-year-old obese woman with seven children is brought to a local hospital by her daughter. Physical examination and her radiograph reveal that large gallstones have ulcerated through the posterior wall of the fundus of the gallbladder into the intestine. Which of the following parts of the intestine is most likely to initially contain gallstones?
+A) Cecum
+B) Ascending colon
+C) Transverse colon
+D) Descending colon
+E) Sigmoid colon
+Answer: C
+Explanation: The fundus of the gallbladder is in contact with the transverse colon, and thus, gallstones erode through the posterior wall of the gallbladder and enter the transverse colon. They are passed naturally to the rectum through the descending colon and sigmoid colon. Gallstones lodged in the body of the gallbladder may ulcerate through the posterior wall of the body of the gallbladder into the duodenum (because the gallbladder body is in contact with the duodenum) and may be held up at the ileocecal junction, producing an intestinal obstruction.
+
+Q: A 35-year-old woman comes to a local hospital with abdominal tenderness and acute pain. On examination, her physician observes that an abdominal infection has spread retroperitoneally. Which of the following structures is most likely affected?
+A) Stomach
+B) Transverse colon
+C) Jejunum
+D) Descending colon
+E) Spleen
+Answer: D
+Explanation: The descending colon is a retroperitoneal organ. The rest of the organs are surrounded by peritoneum.
+
+Q: During an annual health examination of a 46-year-old woman, a physician finds hypersecretion of norepinephrine from her suprarenal medulla. Which of the following types of nerve fibers are most likely overstimulated?
+A) Preganglionic sympathetic fibers
+B) Postganglionic sympathetic fibers
+C) Somatic motor fibers
+D) Postganglionic parasympathetic fibers
+E) Preganglionic parasympathetic fibers
+Answer: A
+Explanation: The suprarenal medulla is the only organ that receives preganglionic sympathetic fibers. No other nerve fibers are involved in secretion of norepinephrine from the suprarenal medulla.
+
+Q: A 6-year-old girl comes to her pediatrician with constipation, abdominal distention, and vomiting. After thorough examination, she is diagnosed as having Hirschsprung’s disease (aganglionic megacolon), which is a congenital disease and leads to dilation of the colon. This condition is caused by an absence of which of the following kinds of neural cell bodies?
+A) Sympathetic preganglionic neuron cell bodies
+B) Sympathetic postganglionic neuron cell bodies
+C) Parasympathetic preganglionic neuron cell bodies
+D) Parasympathetic postganglionic neuron cell bodies
+E) Sensory neuron cell bodies
+Answer: D
+Explanation: Aganglionic megacolon (Hirschsprung’s disease) is caused by the absence of enteric ganglia (parasympathetic postganglionic neuron cell bodies) in the lower part of the colon, which leads to dilatation of the colon proximal to the inactive segment, resulting in an inability to evacuate the bowels. The other neuron cell bodies listed are not involved in this condition.
+
+Q: A pediatric surgeon is resecting a possible malignant mass from the liver of a neonate with cerebral palsy. The surgeon divides the round ligament of the liver during surgery. A fibrous remnant of which of the following fetal vessels is severed?
+A) Ductus venosus
+B) Ductus arteriosus
+C) Left umbilical vein
+D) Right umbilical vein
+E) Umbilical artery
+Answer: C
+Explanation: The left umbilical vein becomes the round ligament of the liver after birth. The right umbilical vein did not leave a fibrous remnant because it was degenerated during the early embryonic period. The ductus venosus forms the ligamentum venosum; the ductus arteriosus forms the ligamentum arteriosum; the umbilical artery forms the medial umbilical ligament.
+
+Q: A 27-year-old woman has suffered a gunshot wound to her midabdomen. After examining the patient’s angiogram, a trauma surgeon locates the source of bleeding from pairs of veins that typically terminate in the same vein. Which of the following veins are damaged?
+A) Left and right ovarian veins
+B) Left and right gastroepiploic veins
+C) Left and right colic veins
+D) Left and right suprarenal veins
+E) Left and right hepatic veins
+Answer: E
+Explanation: The right and left hepatic veins drain into the inferior vena cava (IVC). The right gastroepiploic vein drains into the superior mesenteric vein, but the left one drains into the splenic vein. The right gonadal and suprarenal veins drain into the IVC, whereas the left ones drain into the left renal vein. The right colic vein ends in the superior mesenteric vein, but the left one terminates in the inferior mesenteric vein.
+
+Q: A 43-year-old man complains of abdominal pain just above his umbilicus. On examination, a tumor is found anterior to the IVC. Which of the following structures would most likely be compressed by this tumor?
+A) Right sympathetic trunk
+B) Left third lumbar artery
+C) Third part of the duodenum
+D) Left renal artery
+E) Cisterna chyli
+Answer: C
+Explanation: The third part of the duodenum (transverse portion) crosses anterior to the IVC. The other structures do not cross the IVC anteriorly.
+
+Q: A 33-year-old man with a perforated gastric ulcer complains of excruciating pain in his stomach. It is observed that the pain comes from peritoneal irritation by gastric contents in the lesser sac. Which of the following nerves contain sensory nerve fibers that convey this sharp, stabbing pain?
+A) Vagus nerves
+B) Greater splanchnic nerves
+C) Lower intercostal nerves
+D) White rami communicantes
+E) Gray rami communicantes
+Answer: C
+Explanation: Pain sensation originating from peritoneal irritation by gastric contents in the lesser sac is carried by lower intercostals nerves. The vagus nerves carry sensory fibers associated with reflexes in the gastrointestinal (GI) tract. The greater splanchnic nerves and white rami communicantes carry pain (general visceral afferent [GVA]) fibers from the wall of the stomach and other areas of the GI tract. The gray rami communicantes contains no sensory fibers but contain sympathetic postganglionic fibers.
+
+Q: A young boy is brought to the hospital after a bicycle accident and possible pelvic fracture. While awaiting a computed tomography (CT) scan of his pelvis, a physician proceeds with a focal neurologic examination. In testing the child’s reflexes, which of the following nerves would carry afferent impulses of the cremasteric reflex?
+A) Subcostal nerve
+B) Lateral femoral cutaneous nerve
+C) Genitofemoral nerve
+D) Iliohypogastric nerve
+E) Femoral nerve
+Answer: C
+Explanation: Stimulation of the cremaster muscle draws the testis up from the scrotum toward the superficial inguinal ring. The efferent limb of the reflex arc is the genital branch of the genitofemoral nerve, whereas the afferent limb is the femoral branch of the genitofemoral nerve. The other nerves are not involved in the cremasteric reflex.
+
+Q: A 21-year-old man receives a penetrating knife wound in the abdomen and is injured in both the superior mesenteric artery and the vagus nerve. Which portion of the colon would most likely be impaired by this injury?
+A) Ascending and descending colons
+B) Transverse and sigmoid colons
+C) Descending and sigmoid colons
+D) Ascending and transverse colons
+E) Transverse and descending colons
+Answer: D
+Explanation: The ascending and transverse colons receive blood from the superior mesenteric artery and parasympathetic nerve fibers from the vagus nerve. However, the descending and sigmoid colons receive blood from the inferior mesenteric artery and the parasympathetic nerve fibers from the pelvic splanchnic nerve arising from sacral spinal nerves (S2–S4).
+
+Q: A 42-year-old man with portal hypertension secondary to cirrhosis of the liver and subsequent massive ascites presents to the emergency department. He refuses to have a transjugular intrahepatic portosystemic shunt (TIPS) procedure and prefers surgery. Which of the following surgical connections is involved in the most practical method of shunting portal blood around the liver?
+A) Superior mesenteric vein to the inferior mesenteric vein
+B) Portal vein to the superior vena cava
+C) Portal vein to the left renal vein
+D) Splenic vein to the left renal vein
+E) Superior rectal vein to the left colic vein
+Answer: D
+Explanation: Portal hypertension can be reduced by diverting blood from the portal to the caval system. This is accomplished by connecting the splenic vein to the left renal vein or by creating a communication between the portal vein and the IVC. A connection between a hepatic vein and a branch of the portal vein can be accomplished by the transjugular intrahepatic portosystemic shunt (TIPS) procedure in the treatment of bleeding esophageal varices.
+
+Q: A 78-year-old man is suffering from ischemia of the suprarenal glands. This condition results from rapid occlusion of direct branches of which of the following arteries?
+A) Aorta, splenic, and inferior phrenic arteries
+B) Renal, splenic, and inferior mesenteric arteries
+C) Aorta, inferior phrenic, and renal arteries
+D) Superior mesenteric, inferior mesenteric, and renal arteries
+E) Aorta and hepatic and renal arteries
+Answer: C
+Explanation: The suprarenal gland receives arteries from three sources. The superior suprarenal artery arises from the inferior phrenic artery, the middle suprarenal artery arises from the abdominal aorta, and the inferior suprarenal artery arises from the renal artery. The hepatic, superior mesenteric, inferior mesenteric, and splenic arteries do not supply the suprarenal gland.
+
+Q: A radiograph of a 32-year-old woman reveals a perforation in the posterior wall of the stomach in which the gastric contents have spilled into the lesser sac. The general surgeon has opened the lienogastric (gastrosplenic) ligament to reach the lesser sac and notes erosion of the ulcer into an artery. Which of the following vessels is most likely involved?
+A) Splenic artery
+B) Gastroduodenal artery
+C) Left gastric artery
+D) Right gastric artery
+E) Left gastroepiploic artery
+Answer: E
+Explanation: The left gastroepiploic artery runs through the lienogastric ligament, and hence, it is the artery most likely injured. The splenic artery is found in the lienorenal ligament. The right and left gastric arteries run within the lesser omentum. The gastroduodenal artery descends between the duodenum and the head of the pancreas.
+
+Q: A 35-year-old woman with a history of cholecystectomy arrives in the emergency department with intractable hiccups most likely caused by an abdominal abscess secondary to surgical infection. Which of the following nerves carries pain sensation caused by irritation of the peritoneum on the central portion of the inferior surface of the diaphragm?
+A) Vagus nerve
+B) Lower intercostal nerve
+C) Phrenic nerve
+D) Greater splanchnic nerve
+E) Subcostal nerve
+Answer: C
+Explanation: The diaphragm receives somatic motor fibers solely from the phrenic nerves. However, the peritoneum on the central part of the diaphragm receives sensory fibers from the phrenic nerve, and the peripheral part of the diaphragm receives such fibers from the lower intercostal nerves. The subcostal nerve supplies the peritoneum inferior to the diaphragm. The vagus and greater splanchnic nerves do not carry pain fibers from the peritoneum.
+
+Q: A 16-year-old boy with a ruptured spleen comes to the emergency department for splenectomy. Soon after ligation of the splenic artery just distal to its origin, a surgical resident observes that the patient is healing normally. Normal blood flow would occur in which of the following arteries?
+A) Short gastric arteries
+B) Dorsal pancreatic artery
+C) Inferior pancreaticoduodenal artery
+D) Left gastroepiploic artery
+E) Artery in the lienorenal ligament
+Answer: C
+Explanation: The inferior pancreaticoduodenal artery is a branch of the superior mesenteric artery. All of other arteries are branches of the splenic artery.
+
+Q: A 9-year-old boy was admitted to the emergency department complaining of nausea, vomiting, fever, and loss of appetite. On examination, he was found to have tenderness and pain on the right lower quadrant. Based on signs and symptoms, the diagnosis of acute appendicitis was made. During an appendectomy performed at McBurney’s point, which of the following structures is most likely to be injured?
+A) Deep circumflex femoral artery
+B) Inferior epigastric artery
+C) Iliohypogastric nerve
+D) Genitofemoral nerve
+E) Spermatic cord
+Answer: C
+Explanation: The iliohypogastric nerve runs medially and inferiorly between the internal oblique and transverse abdominal muscles near the McBurney’s point, the point at the junction of the lateral one-third of the line between the anterior superior iliac spine and the umbilicus. Other structures are not found near the McBurney’s point.
+
+Q: A 54-year-old man with a long history of alcohol abuse presents to the emergency department with rapidly increasing abdominal distention most likely resulting from an alteration in portal systemic blood flow. Which of the following characteristics is associated with the portal vein or the portal venous system?
+A) Lower blood pressure than in the IVC
+B) Least risk of venous varices because of portal hypertension
+C) Distention of the portal vein resulting from its numerous valves
+D) Caput medusae and hemorrhoids caused by portal hypertension
+E) Less blood flow than in the hepatic artery
+Answer: D
+Explanation: Portal hypertension can cause esophageal varices, caput medusa, and hemorrhoids. The portal vein has higher pressure than systemic veins; the vein and its tributaries have no valves, or, if present, they are insignificant. In addition, the portal vein carries two to three times as much blood as the hepatic artery.
+
+Q: While examining radiographs and angiograms of a 52-year-old patient, a physician is trying to distinguish the jejunum from the ileum. He has observed that the jejunum has:
+A) Fewer plicae circulares
+B) Fewer mesenteric arterial arcades
+C) Less digestion and absorption of nutrients
+D) Shorter vasa recta
+E) More fat in its mesentery
+Answer: B
+Explanation: The jejunum has fewer mesenteric arterial arcades but longer vasa recta than the ileum. The plicae circulares (circular folds) are tall and closely packed in the jejunum and are low and sparse in the ileum, and the lower part of the ileum has no plicae circulares. More digestion and absorption of nutrients occurs in the jejunum than in the ileum, and less fat is found in the mesentery of the jejunum.
+
+Q: A 67-year-old woman with a long history of liver cirrhosis was seen in the emergency department. In this patient with portal hypertension, which of the following veins is most likely to be dilated?
+A) Right colic vein
+B) Inferior epigastric vein
+C) Inferior phrenic vein
+D) Suprarenal vein
+E) Ovarian vein
+Answer: A
+Explanation: The right colic vein belongs to the portal venous system and empties into the superior mesenteric vein, which joins the splenic vein to form the portal vein. The inferior epigastric, inferior phrenic, suprarenal, and ovarian veins belong to the systemic (or caval) venous system and drain directly or indirectly into the IVC.
+
+Q: A 26-year-old patient is admitted to a local hospital with a retroperitoneal infection. Which of the following arteries is most likely to be infected?
+A) Left gastric artery
+B) Proper hepatic artery
+C) Middle colic artery
+D) Sigmoid arteries
+E) Dorsal pancreatic artery
+Answer: E
+Explanation: The pancreas is a retroperitoneal organ, except for a small portion of its tail. The dorsal pancreatic artery would be the infected artery because it arises from the splenic artery and runs retroperitoneally along the superior border of the pancreas behind the peritoneum. The other arteries run within layers of the peritoneum. The left gastric arteries run within the lesser omentum; the proper hepatic artery runs within the free margin of the lesser omentum; the middle colic artery runs within the transverse mesocolon; the sigmoid arteries run within the sigmoid mesocolon.
+
+Q: A pediatric surgeon has resected a structure that is a fibrous remnant of an embryonic or fetal artery in a 5-year-old child. Which of the following structures is most likely to be divided?
+A) Lateral umbilical fold
+B) Medial umbilical fold
+C) Median umbilical fold
+D) Ligamentum teres hepatis
+E) Ligamentum venosum
+Answer: B
+Explanation: The medial umbilical fold or ligament contains a fibrous remnant of the umbilical artery. The median umbilical fold contains a fibrous remnant of the urachus. The lateral umbilical fold (ligament) contains the inferior epigastric artery and vein, which are adult blood vessels. The ligamentum venosum contains a fibrous remnant of the ductus venosus and the ligamentum teres hepatic contains a fibrous remnant of the left umbilical vein.
+
+Q: A 57-year-old patient has a tumor in the body of the pancreas that obstructs the inferior mesenteric vein just before joining the splenic vein. Which of the following veins is most likely to be enlarged?
+A) Middle colic vein
+B) Left gastroepiploic vein
+C) Inferior pancreaticoduodenal vein
+D) Ileocolic vein
+E) Left colic vein
+Answer: E
+Explanation: The left colic vein is a tributary of the inferior mesenteric vein. The middle colic, inferior pancreaticoduodenal, and ileocolic veins drain into the superior mesenteric vein. The left gastroepiploic vein empties into the splenic vein.
