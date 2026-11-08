@@ -63,6 +63,11 @@ main.wide{max-width:980px}
 .nb.bad{background:var(--badbg);border-color:var(--bad);color:var(--bad)}
 .nb.cur{box-shadow:0 0 0 2px var(--acc)}
 .nb{font-size:max(10px,calc(var(--nb,34px)*.4))}
+.topic{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;text-align:left;padding:16px;margin:0 0 10px;border-radius:10px;border:1.5px solid var(--line);background:var(--card)}
+.topic:last-child{margin-bottom:0}
+.topic b{display:block;font-size:1.1rem}
+.topic .meta{display:block;font-family:var(--body);font-weight:400}
+.topic .chev{font-size:1.6rem;color:var(--mute);line-height:1}
 button:disabled{opacity:.45;cursor:default}
 button:disabled:hover{border-color:var(--line)}
 button.nb{cursor:pointer}
@@ -82,7 +87,7 @@ const PROG_KEY='drillbook-progress-v1';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const shuf=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
-let decks=[],view='lib',sess=null,note='',loading=true,S={sq:true,so:false},prog={};
+let topics=[],curTopic=null,decks=[],view='lib',sess=null,note='',loading=true,S={sq:true,so:false},prog={};
 try{prog=JSON.parse(localStorage.getItem(PROG_KEY))||{}}catch(e){prog={}}
 const saveProg=()=>{try{localStorage.setItem(PROG_KEY,JSON.stringify(prog))}catch(e){}};
 
@@ -133,18 +138,24 @@ async function loadAll(){
   try{
     const r=await fetch('questions/index.json',{cache:'no-cache'});
     if(!r.ok)throw new Error(r.status);
-    const list=await r.json();
-    const got=await Promise.all(list.map(async s=>{
+    const list=await r.json(),flat=[];
+    list.forEach(e=>{
+      if(Array.isArray(e.sets))e.sets.forEach(x=>flat.push({...x,topic:e.topic||e.name||'Other'}));
+      else flat.push({...e,topic:e.topic||'Other'});
+    });
+    const got=await Promise.all(flat.map(async s=>{
       try{
         const t=await fetch('questions/'+encodeURI(s.file),{cache:'no-cache'});
         if(!t.ok)throw new Error(t.status);
         skipped=0;const qs=parse(await t.text());
         if(!qs.length)throw new Error('empty');
         const p=prog[s.file]||{};
-        return{id:s.file,name:s.name||s.file,qs,missed:(p.missed||[]).filter(i=>i<qs.length),last:p.last}
+        return{id:s.file,name:s.name||s.file,topic:s.topic,qs,missed:(p.missed||[]).filter(i=>i<qs.length),last:p.last}
       }catch(e){fails.push(s.file);return null}
     }));
     decks=got.filter(Boolean);
+    topics=[];
+    decks.forEach((d,i)=>{let t=topics.find(x=>x.name===d.topic);if(!t){t={name:d.topic,ids:[]};topics.push(t)}t.ids.push(i)});
   }catch(e){note='Could not load questions/index.json. If you opened this file straight from your computer, run it through a local web server or GitHub Pages instead.'}
   if(fails.length)note='Could not load: '+fails.join(', ');
   loading=false;render();
@@ -211,20 +222,28 @@ function render(){
   window.scrollTo(0,0);
   fitBoxes();
 }
+function openTopic(i){curTopic=i;render()}
 function libHTML(){
-  let list;
-  if(loading)list='<p class="meta">Loading questions…</p>';
-  else if(!decks.length)list='<p class="meta">No question sets available yet.</p>';
-  else list=decks.map((d,i)=>`<div class="deck"><div><b>${esc(d.name)}</b><div class="meta">${d.qs.length} questions${d.last?` · last score ${d.last.s}/${d.last.t}`:''}</div></div>
+  const top=`<h1>${esc(TITLE)}</h1><p class="sub">${esc(TAGLINE)}</p>${note?`<div class="note err" role="status">${esc(note)}</div>`:''}`;
+  const foot='<p class="meta">Your scores and missed questions are saved in this browser only.</p>';
+  if(loading)return top+'<section class="card"><p class="meta">Loading questions…</p></section>';
+  if(!decks.length)return top+'<section class="card"><p class="meta">No question sets available yet.</p></section>';
+  const single=topics.length===1&&topics[0].name==='Other';
+  const t=single?topics[0]:topics[curTopic];
+  if(!t){
+    const rows=topics.map((tp,i)=>{
+      const q=tp.ids.reduce((n,j)=>n+decks[j].qs.length,0);
+      return `<button class="topic" onclick="openTopic(${i})"><span><b>${esc(tp.name)}</b><span class="meta">${tp.ids.length} set${tp.ids.length>1?'s':''} · ${q} questions</span></span><span class="chev" aria-hidden="true">›</span></button>`}).join('');
+    return top+`<section class="card"><h2>Topics</h2>${rows}</section>`+foot;
+  }
+  const rows=t.ids.map(i=>{const d=decks[i];return `<div class="deck"><div><b>${esc(d.name)}</b><div class="meta">${d.qs.length} questions${d.last?` · last score ${d.last.s}/${d.last.t}`:''}</div></div>
     <div class="row"><button class="pri" onclick="start(${i},false)">Study</button>
-    ${d.missed.length?`<button onclick="start(${i},true)">Missed (${d.missed.length})</button>`:''}</div></div>`).join('');
-  return `<h1>${esc(TITLE)}</h1><p class="sub">${esc(TAGLINE)}</p>
-  ${note?`<div class="note err" role="status">${esc(note)}</div>`:''}
-  <section class="card"><h2>Question sets</h2>${list}
+    ${d.missed.length?`<button onclick="start(${i},true)">Missed (${d.missed.length})</button>`:''}</div></div>`}).join('');
+  return top+(single?'':'<p><button onclick="openTopic(null)">← All topics</button></p>')+
+    `<section class="card"><h2>${esc(single?'Question sets':t.name)}</h2>${rows}
     <div class="row" style="margin-top:10px;border-top:1px solid var(--line);padding-top:14px">
       <label class="chk"><input type="checkbox" ${S.sq?'checked':''} onchange="S.sq=this.checked"> Shuffle questions</label>
-      <label class="chk"><input type="checkbox" ${S.so?'checked':''} onchange="S.so=this.checked"> Shuffle answers</label></div></section>
-  <p class="meta">Your scores and missed questions are saved in this browser only.</p>`;
+      <label class="chk"><input type="checkbox" ${S.so?'checked':''} onchange="S.so=this.checked"> Shuffle answers</label></div></section>`+foot;
 }
 function boxes(cur,click){
   return `<div class="boxes" ${click?'':'role="list"'} aria-label="Questions">${sess.items.map((_,i)=>{
