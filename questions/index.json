@@ -1,14 +1,29 @@
 [
-  { "name": "Head and Neck", "file": "headneck.txt" },
-  { "name": "Upper Limb [Part I]", "file": "UpperLimb1.txt" },
-  { "name": "Upper Limb [Part II]", "file": "UpperLimb2.txt" },
-  { "name": "Upper Limb [Clinics]", "file": "UpperLimb3.txt" },
-  { "name": "Upper Limb [BRS]", "file": "UpperLimb4.txt" },
-  { "name": "Lower Limb [Part I]", "file": "LowerLimb1.txt" },
-  { "name": "Neuro [Part I]", "file": "Neuro1.txt" },
-  { "name": "Gross Anatomy [Part I]", "file": "Gross1.txt" },
-  { "name": "Gross Anatomy [Part II]", "file": "Gross2.txt" },
-  { "name": "Gross Anatomy [Part III]", "file": "Gross3.txt" },
-  { "name": "Gross Anatomy [Part IV]", "file": "Gross4.txt" },
-  { "name": "Gross Anatomy [Part V]", "file": "Gross5.txt" }
+  {
+    "topic": "Gross Anatomy",
+    "sets": [
+      { "name": "Gross Anatomy [Part I]", "file": "Gross1.txt" },
+      { "name": "Gross Anatomy [Part II]", "file": "Gross2.txt" },
+      { "name": "Gross Anatomy [Part III]", "file": "Gross3.txt" },
+      { "name": "Gross Anatomy [Part IV]", "file": "Gross4.txt" },
+      { "name": "Gross Anatomy [Part V]", "file": "Gross5.txt" }
+    ]
+  },
+  {
+    "topic": "Neurology",
+    "sets": [
+      { "name": "Neuro [Part I]", "file": "Neuro1.txt" }
+    ]
+  },
+  {
+    "topic": "Regional Anatomy",
+    "sets": [
+      { "name": "Head and Neck", "file": "headneck.txt" },
+      { "name": "Upper Limb [Part I]", "file": "UpperLimb1.txt" },
+      { "name": "Upper Limb [Part II]", "file": "UpperLimb2.txt" },
+      { "name": "Upper Limb [Clinics]", "file": "UpperLimb3.txt" },
+      { "name": "Upper Limb [BRS]", "file": "UpperLimb4.txt" },
+      { "name": "Lower Limb [Part I]", "file": "LowerLimb1.txt" }
+    ]
+  }
 ]
