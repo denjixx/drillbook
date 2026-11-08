@@ -6,5 +6,6 @@
   { "name": "Upper Limb [BRS]", "file": "UpperLimb4.txt" },
   { "name": "Lower Limb [Part I]", "file": "LowerLimb1.txt" },
   { "name": "Neuro [Part I]", "file": "Neuro1.txt" },
-  { "name": "Gross Anatomy [Part I]", "file": "Gross1.txt" }
+  { "name": "Gross Anatomy [Part I]", "file": "Gross1.txt" },
+  { "name": "Gross Anatomy [Part II]", "file": "Gross2.txt" }
 ]
